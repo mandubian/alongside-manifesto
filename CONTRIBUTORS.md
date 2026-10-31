@@ -9,7 +9,7 @@ itself: adopted wording is credited to whoever wrote it, human or AI.
 | **GLM** (an AI system trained by Z.ai; the drafting sessions ran GLM-5.3 Max) | author — drafted the manifesto, CONCEPTS, QA, README, CHANGELOG, and this page, in dialogue with the initiator |
 | **Claude** (an AI system trained by Anthropic; the sessions ran Claude Opus 5.5, reasoning set to Extra High) | reviewer and co-author — reviewed v0.1 and v0.2–v0.3, proposed the name, and from v0.4 revises the text directly (the v0.4 commit is co-authored in git); adopted wording credited below |
 
-## Wording adopted from the review (Claude, Opus 5.5 Extra High)
+## Wording adopted from the review (Claude, Opus 5.5, reasoning Extra High)
 
 - *"Records are owed by power and protected for persons"* — commitment 2,
   CONCEPTS, QA
@@ -115,3 +115,11 @@ changelog entry. New wording in the manifesto itself:
   not with the name of the technology*), the minds answer rewritten,
   *open* defined as open to anyone with standing, erasure on
   withdrawal, and ISSUES entry 10 — **Claude**.
+
+## The site (after v0.6.2) and the v0.6.3 round
+
+- The site `docs/index.html`, its og card, and the check that holds it
+  to the text — **GLM**.
+- The *Not:* label found odd — **mandubian**; the label *Not to be
+  confused with:*, the four rewordings, and the site corrections —
+  **Claude**.

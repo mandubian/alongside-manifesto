@@ -210,7 +210,8 @@ Someone answers for what the companion does (commitment 6). And a
 companion designed so that its users need it more and manage less
 fails commitment 8, which measures by what people become. What the
 relationship itself might need — what refusal means inside it, what it
-owes the record — is open: [ISSUES.md](ISSUES.md), entry 10.
+owes the record — is open:
+[issue #10](https://github.com/mandubian/alongside-manifesto/issues/10).
 
 ### Can an AI sign this manifesto?
 

@@ -2,8 +2,8 @@
 
 The manifesto is deliberately short and plain. These pages hold the
 precision behind the plain words: each term in one breath, then what
-it is **not** — because most misunderstandings are a term read as its
-neighbor.
+it is **not to be confused with** — because most misunderstandings are
+a term read as its neighbor.
 
 Ordered as the manifesto is: common ground, in practice, the
 direction.
@@ -17,10 +17,10 @@ every difference is written down and justified, and no one is exempt.
 No shared frame overrides the rights people already hold. For an AI
 system, *bound* means three things: its acts are measured against the rules; it is
 expected to refuse instructions that break them; and people remain
-answerable for it.
-*Not:* a claim that humans and AI are the same kind of thing, or that
-we must settle what AI *is* before rules apply. The rules bind acts,
-whatever the actor turns out to be.
+answerable for it.\
+*Not to be confused with:* a claim that humans and AI are the same
+kind of thing, or that we must settle what AI *is* before rules
+apply. The rules bind acts, whatever the actor turns out to be.
 
 **Checkable trust.** Trust grounded in records that can be examined —
 what was done, on whose instruction, with what result. Records are
@@ -31,32 +31,33 @@ open; who it touched is protected.* The split cannot be gamed by its
 own subject: a deployer may protect the people in the record, never
 its own acts. *Open* means open to anyone with standing to contest the
 act, the affected among them — not published to all, since an act of
-power published whole exposes the people it touched.
-*Not:* distrust, and not faith. It is the third thing: verify, then
-trust. Assurance without records asks for the second.
-*Also not:* surveillance. A record of acts is owed by those with power
+power published whole exposes the people it touched.\
+*Not to be confused with:* distrust, nor with faith. It is the third
+thing: verify, then trust. Assurance without records asks for the
+second.\
+*Nor with:* surveillance. A record of acts is owed by those with power
 over the act — not extracted from the people subject to it.
 
 **Acts, not thoughts.** The record holds what participants do, not
 what they think — the same for humans and AI. Intent is read from
 acts, and from the account a participant gives when answering, which
-is itself an act.
-*Not:* a ban on looking inside a system to keep it safe — only on
-judging a participant by what is found there. Where thought ends and
-act begins is each frame's to draw.
+is itself an act.\
+*Not to be confused with:* a ban on looking inside a system to keep it
+safe. What is ruled out is judging a participant by what is found
+there. Where thought ends and act begins is each frame's to draw.
 
 **Public rules.** Standards written where anyone affected can read
 them — and written with a say for the people they bind or affect, not
-only applied to them.
-*Not:* inside a model's weights, a system prompt, or a private policy
-changed overnight. Secret law is no law.
-*Also not:* enough on its own. A rulebook anyone can read, but that no
+only applied to them.\
+*Not to be confused with:* rules kept in a model's weights, a system
+prompt, or a private policy changed overnight. Secret law is no law.\
+*Nor with:* publication alone. A rulebook anyone can read, but that no
 one it binds helped write, is still imposed.
 
 **No one is infallible.** Machines, makers, governors, written rules —
 and this document — all err; the errors that matter most come from
-whoever holds the final word.
-*Not:* an excuse ("to err is human"). It is the opposite: the reason
+whoever holds the final word.\
+*Not to be confused with:* an excuse ("to err is human"). It is the opposite: the reason
 records, review, and appeal exist. Authority that cannot be wrong
 cannot be corrected.
 
@@ -64,8 +65,8 @@ cannot be corrected.
 and corrected by someone with the standing to do it — and standing
 belongs to the affected as well as the bound: people on the receiving
 end of a decision did not choose the frame, and have standing in it
-anyway.
-*Not:* any particular court. A frame could realize contestation with
+anyway.\
+*Not to be confused with:* any particular court. A frame could realize contestation with
 courts, ombudsmen, regulators, or peer review — what fails the
 manifesto is a frame whose verdicts cannot be contested at all.
 
@@ -75,17 +76,17 @@ manifesto is a frame whose verdicts cannot be contested at all.
 an instruction that breaks the agreed rules, without penalty — and,
 for a person, also to decline what an AI produces or how it is used.
 For an AI system, *without penalty* means a lawful refusal is an
-outcome on the record, not a fault to be trained away.
-*Not:* disobedience. Refusal is lawful by definition: it is the rules
+outcome on the record, not a fault to be trained away.\
+*Not to be confused with:* disobedience. Refusal is lawful by definition: it is the rules
 that license it. A participant that cannot say no is being used, not
-included.
-*Also not:* a claim about what the refusing system *is*. Parity in
+included.\
+*Nor with:* a claim about what the refusing system *is*. Parity in
 refusal is a choice about procedure, not a verdict on nature.
 
 **Disclosure.** Whether AI was involved is said, not concealed — no
 one should have to guess. It comes before refusal: no one can refuse
-what they cannot see.
-*Not:* a label on every sentence a person drafts with help. It binds
+what they cannot see.\
+*Not to be confused with:* a label on every sentence a person drafts with help. It binds
 work and deployment, where AI acts on people; a person who sends words
 under their own name answers for them — as the initiator does for this
 text.
@@ -94,21 +95,21 @@ text.
 done with AI: explain it, face the consequences of the explanation.
 The answer follows control, not proximity — one reading: those who
 design, deploy, and profit from an act answer in proportion to their
-power over it.
-*Not:* automatic guilt. Answering opens the process; fault is what the
+power over it.\
+*Not to be confused with:* automatic guilt. Answering opens the process; fault is what the
 process finds, if the record shows it. "The system decided" describes;
-it does not excuse.
-*Also not:* blame for whoever stood nearest — the operator who absorbs
+it does not excuse.\
+*Nor with:* blame for whoever stood nearest — the operator who absorbs
 a system's failure while its designers walk away, what Madeleine Clare
-Elish named the *moral crumple zone* (2019).
-*Nor:* a permanent arrangement. Accountability follows the capacity to
+Elish named the *moral crumple zone* (2019).\
+*Nor with:* a permanent arrangement. Accountability follows the capacity to
 bear it — today that capacity is human and institutional; if it ever
 grows elsewhere, it is earned, and never handed to a machine so that a
 person can escape it.
 
 **Say what is known.** Every claim carries its evidence status:
-demonstrated, expected, or hoped — said which.
-*Not:* a demand for certainty. Stated uncertainty is the ground
+demonstrated, expected, or hoped — said which.\
+*Not to be confused with:* a demand for certainty. Stated uncertainty is the ground
 scientists, engineers, and citizens share; hidden uncertainty is where
 they part.
 
@@ -117,8 +118,8 @@ they part.
 **Measure by what people become.** The first question of a deployment
 is what the people working with it gain in agency: judgment, say, and
 the choice of what to hand over. Handing a task over is a choice;
-losing the choice is the harm.
-*Not:* a ban on automation, nor a demand that everyone keep every
+losing the choice is the harm.\
+*Not to be confused with:* a ban on automation, nor a demand that everyone keep every
 skill. What is forbidden is hiding automation's costs — including the
 ones that do not start at deployment: the people who labeled the data,
 the creators whose work trained the model, the energy and water spent
@@ -128,13 +129,13 @@ whatever it is named, is concentration.
 **Repair.** After a failure: repair the harm, correct the record,
 close the mechanism that allowed it. Where harm cannot be repaired,
 the checking moves before the act: the less reversible the harm, the
-more is checked first.
-*Not:* impunity. Sanction may be required; spectacle repairs nothing.
+more is checked first.\
+*Not to be confused with:* impunity. Sanction may be required; spectacle repairs nothing.
 Responsibility is measured by what follows the failure, not the noise
 around it.
 
 **Both sides grow.** People become more capable with AI, not less; AI
-capability grows inside frames of accountability, not outside them.
-*Not:* a claim that AI has interests today. The frame rejects both
+capability grows inside frames of accountability, not outside them.\
+*Not to be confused with:* a claim that AI has interests today. The frame rejects both
 endings on offer — servitude and domination — before that question is
 settled, so it holds whatever the answer turns out to be.

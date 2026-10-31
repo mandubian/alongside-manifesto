@@ -6,6 +6,44 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.3 — 2026-10-31 (plainer labels, and the site held to the text)
+
+The ten commitments do not change. Reviewed by Claude, at the
+initiator's request, after the repository and its site went public.
+
+- **CONCEPTS labels** — the initiator found the bare *Not:* label
+  odd, and it was: a fragment whose meaning only the page's opening
+  explained. Each term's second line now reads *Not to be confused
+  with:*, and the further lines *Nor with:* (formerly *Also not:* and
+  *Nor:*). Each label now starts its own line instead of running on
+  inside the definition. Four lines were reworded to fit the label, with
+  no change of meaning: trust is confused with *distrust, nor with
+  faith*; looking inside a system to keep it safe is not banned —
+  *what is ruled out is judging a participant by what is found there*;
+  public rules are not *rules kept in a model's weights*, nor
+  *publication alone*.
+- **The site** (`docs/index.html`) — the Q&A excerpt on neighbours
+  said *"a frame for shared conduct … records anyone can check"*, two
+  phrasings retired earlier (0.4: records protected for persons; 0.5:
+  the manifesto is a standard, frames answer it); it now matches QA.
+  *"Each commitment is demonstrated or rehearsed today"* overclaimed:
+  the seven clauses added in v0.2 that IMPLEMENTATIONS marks *not yet
+  shown* are now named on the page, and two *demonstrated* marks
+  regain the qualifiers IMPLEMENTATIONS gives them. Withdrawal is
+  described as it now works: on the record, the name erased on request.
+  The page check covers the commitments, the version, and the Q&A
+  questions, but not the answers' wording; that gap is how the old
+  phrasings got through.
+- **The check** now runs on pull requests as well as pushes, since
+  outside contributions arrive as pull requests.
+- **Published** — the repository is public, and ISSUES.md's ten
+  entries are GitHub issues #1–#10. ISSUES.md gains a note saying so,
+  and stays as the record of how the queue began. README and QA point
+  to the issues.
+- **Configuration wording** — *"Claude Opus 5.5 Extra High"* read as a
+  model name; it now reads *Claude Opus 5.5, reasoning Extra High*, as
+  the making-of already put it.
+
 ## 0.6.2 — 2026-10-31 (the configurations named)
 
 The two systems' exact configurations now stand wherever they are

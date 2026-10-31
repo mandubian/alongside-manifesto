@@ -1,5 +1,15 @@
 # Issues — the queue before there is a repository
 
+**Published 2026-10-31.** Each entry below is now a GitHub issue with
+the same number — entry 1 is
+[#1](https://github.com/mandubian/alongside-manifesto/issues/1),
+through entry 10,
+[#10](https://github.com/mandubian/alongside-manifesto/issues/10).
+Discussion, and any new question, goes to the
+[issues](https://github.com/mandubian/alongside-manifesto/issues).
+This file stays as the record of how the queue began; what follows is
+as it was written before publication.
+
 This file is the issue tracker while the repository is local. Each
 entry below is written ready to become a GitHub issue on the day of
 publication; a decision on one lands in the [changelog](CHANGELOG.md)

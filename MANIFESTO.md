@@ -2,12 +2,12 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.2 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.3 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
 Max), reviewed, named, and revised by Claude (Anthropic, running
-Claude Opus 5.5 Extra High) — for a human
-initiator and reviewer, who answers for it. The full account of its
+Claude Opus 5.5, reasoning Extra High) — for a human initiator and
+reviewer, who answers for it. The full account of its
 making is at the end. The manifesto's first exercise is its own
 origin.*
 
