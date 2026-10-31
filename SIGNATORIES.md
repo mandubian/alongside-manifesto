@@ -2,7 +2,7 @@
 
 Signing means: *I want the human–AI future built this way, and I say so
 publicly.* It does not mean every signer agrees with every word — it
-means these nine commitments are ground they will stand on.
+means these ten commitments are ground they will stand on.
 
 ## Origin
 

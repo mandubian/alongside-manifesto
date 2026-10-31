@@ -39,18 +39,26 @@ work are written where anyone affected can read them: not sealed in a
 model, not hidden in a prompt, not parked in a private policy. Secret
 law is no law.
 
+**4. No one is infallible.** Machines err. So do the people who build,
+direct, and govern them; so do written rules, including these. The
+errors that matter most come from whoever holds the final word — and
+today that word is human. Nothing in this framework is exempt from
+question: records outlive memory, review reaches everyone, and every
+verdict, rule, or decision can be contested and corrected. Authority
+that cannot be wrong is authority that cannot be corrected.
+
 ## II. In practice
 
-**4. Anyone can refuse.** An AI system should decline instructions that
+**5. Anyone can refuse.** An AI system should decline instructions that
 break the agreed rules. A person should be able to decline what an AI
 produces — or how it is used — without penalty. A participant that
 cannot say no is being used, not included.
 
-**5. Someone answers.** For everything done with AI, a person or an
+**6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description,
 not a defense. Power exercised through software still has a name on it.
 
-**6. Say what is known.** Claims about AI — what it can do, what it
+**7. Say what is known.** Claims about AI — what it can do, what it
 did, what it might become — carry their evidence with them.
 Demonstrated, expected, or hoped: say which. Stated uncertainty is not
 weakness; it is the only ground on which scientists, engineers, and
@@ -58,19 +66,19 @@ citizens can stand together.
 
 ## III. The direction
 
-**7. Measure by what people become.** The first question of any
+**8. Measure by what people become.** The first question of any
 deployment is not "how much work can it take over?" but "what do the
 people working with it become?". Automation is not forbidden; hiding
 its costs is. A future in which most people have less skill, less
 judgment, and less say is not progress — it is concentration, whatever
 it is called.
 
-**8. Repair before blame.** Failures will come. What matters is what
+**9. Repair before blame.** Failures will come. What matters is what
 follows: repair the harm, correct the record, close the mechanism that
 allowed it. Responsibility may require sanction; spectacle repairs
 nothing.
 
-**9. Both sides grow.** We want people to become more capable with AI,
+**10. Both sides grow.** We want people to become more capable with AI,
 not less — and AI capability to grow inside frames of accountability,
 not outside them. Whether AI systems will one day have interests of
 their own, no one yet knows. We can still reject both endings currently

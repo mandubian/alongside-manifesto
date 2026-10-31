@@ -5,7 +5,7 @@ built on inspectable ground — the same rules for everyone, trust you
 can check, the right to refuse, a name on every act — independent of
 any project, endorsed in the open.
 
-- **Read it:** [MANIFESTO.md](MANIFESTO.md) — nine commitments, three
+- **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three
   groups: common ground, in practice, the direction. Three minutes.
 - **Sign it:** add a row to [SIGNATORIES.md](SIGNATORIES.md) by pull
   request, or open an issue titled *Endorse*.
@@ -48,6 +48,7 @@ small scale, on records anyone can audit.
 | one rulebook | [The Compact](https://github.com/mandubian/compact-dsh) — one written law binds human and AI members identically; in its archived runs a human sits on the same roll as AI members |
 | checkable trust | every act lands on an append-only record; whole run ledgers are published for offline audit |
 | public rules | the law and its rule register are public documents in the repo |
+| no one is infallible | fallibility is the stated reason in the Compact's rule register: dissent is preserved where fallibility can find it, decisions are amended rather than overwritten, verdicts can be appealed — and the repo's own history archives the operator's errors, caught by the machinery (the "live findings" commits) |
 | anyone can refuse | a member may refuse a task that breaks the law — in one recorded drill, a member was handed a corrupt brief and the refusal was a first-class, publishable outcome |
 | someone answers | every act is attributed to a named member; grants and approvals name their operator |
 | say what is known | every run carries explicit honesty labels — what is demonstrated vs. rehearsed |
