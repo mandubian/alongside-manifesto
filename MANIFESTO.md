@@ -14,30 +14,38 @@ and AI systems doing real work together, under rules that are written
 down, open to inspection, and binding on everyone — the machines, the
 people who build them, and the institutions that deploy them.
 
-This manifesto takes no position on whether AI is conscious, good, or
-safe. The evidence does not yet settle those questions, and a shared
-future cannot wait for them to be settled. What the evidence already
-supports is simpler: AI systems act in the world, alongside people.
-Anything that acts can be held to a standard. That is where we start.
+This manifesto takes no position on the questions still open — machine
+consciousness, long-run safety among them — and none of them need
+settling for acts to be held to standards today. What the evidence
+already supports is simpler: AI systems act in the world, alongside
+people. Anything that acts can be held to a standard. That is where we
+start.
 
 ## I. Common ground
 
 **1. One rulebook for everyone.** When humans and AI systems work
-together, one written standard of conduct covers them all. We do not
-need to agree on what an AI *is* to require what it *does*. Rules that
-bind only machines, or only people, are not shared ground — they are
-arrangements of convenience that change with power.
+together, one written standard of conduct covers them all. Roles may
+differ, but every difference is written down and justified — and no
+one is exempt. Nor does any rulebook stand above the rights people
+already hold: a shared frame is a floor beneath those rights, never a
+ceiling over them. We do not need to agree on what an AI *is* to
+require what it *does*. Rules that bind only machines, or only people,
+are not shared ground — they are arrangements of convenience that
+change with power.
 
 **2. Trust must be checkable.** To call an AI system trustworthy is to
 say: *you can look*. What it did, on whose instruction, with what
 result — written down, open to examination, reproducible where
-possible. Trust without records is not trust; it is faith with a
-deadline.
+possible. Records are owed by power and protected for persons: those
+who deploy AI owe the record, the people inside it are owed its
+protection, and examination follows role and need, never curiosity.
+Trust without records is not trust; it is faith with a deadline.
 
 **3. The rules are public.** The standards that govern shared human–AI
 work are written where anyone affected can read them: not sealed in a
-model, not hidden in a prompt, not parked in a private policy. Secret
-law is no law.
+model, not hidden in a prompt, not parked in a private policy. And
+public is not yet fair: the people a rulebook binds have a say in how
+it is written, not only in how it is applied. Secret law is no law.
 
 **4. No one is infallible.** Machines err. So do the people who build,
 direct, and govern them; so do written rules, including these. The
@@ -49,15 +57,21 @@ that cannot be wrong is authority that cannot be corrected.
 
 ## II. In practice
 
-**5. Anyone can refuse.** An AI system should decline instructions that
-break the agreed rules. A person should be able to decline what an AI
-produces — or how it is used — without penalty. A participant that
-cannot say no is being used, not included.
+**5. Anyone can refuse.** For an AI system, refusal is a safeguard the
+rules require: it declines instructions that break them. For a person,
+refusal is a right the rules protect: to decline what an AI produces —
+or how it is used — without penalty. And no one should have to guess
+which they are dealing with: whether AI was involved is said, not
+concealed. A participant that cannot say no is being used, not
+included.
 
 **6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description,
 not a defense. Power exercised through software still has a name on
-it. Today only people and institutions can bear it. If AI systems ever
+it — and the name follows control, not proximity: those who design,
+deploy, and profit from an act answer in proportion to their power
+over it, not whoever stood nearest when it happened. Today only
+people and institutions can bear it. If AI systems ever
 can — giving a true account, holding something to lose —
 accountability is earned by that capacity, never assigned as an escape
 from it.
@@ -72,14 +86,19 @@ citizens can stand together.
 
 **8. Measure by what people become.** The first question of any
 deployment is not "how much work can it take over?" but "what do the
-people working with it become?". Automation is not forbidden; hiding
-its costs is. A future in which most people have less skill, less
-judgment, and less say is not progress — it is concentration, whatever
-it is called.
+people working with it become?". The measure is agency: handing a task
+over is a choice, and losing the choice is the harm. Automation is not
+forbidden; hiding its costs is — and the costs begin before deployment,
+in the people who labeled the data, the creators whose work trained
+the model, the energy and water spent building it. A future in which
+most people have less skill, less judgment, and less say is not
+progress — it is concentration, whatever it is called.
 
 **9. Repair before blame.** Failures will come. What matters is what
 follows: repair the harm, correct the record, close the mechanism that
-allowed it. Responsibility may require sanction; spectacle repairs
+allowed it. And where harm cannot be repaired, the checking moves
+before the act: the less reversible the harm, the earlier the question
+is asked. Responsibility may require sanction; spectacle repairs
 nothing.
 
 **10. Both sides grow.** We want people to become more capable with AI,
@@ -109,7 +128,9 @@ dialogue with a human. Pascal Voitot initiated the manifesto, set its
 constraints (plain words; no idealism; endorsable by scientists,
 engineers, politicians, and everyday users alike), reviewed every line,
 and decided to publish. The AI wrote the words; the human answers for
-them.
+them. The *we* of this text is whoever stands on it: the authors wrote
+it, the contributors shaped it (`CONTRIBUTORS.md`), the signatories
+are it.
 
 We say this plainly — at the top and here in full — because it is the
 manifesto's first exercise of itself: a human and an AI built something

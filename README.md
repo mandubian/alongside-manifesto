@@ -12,16 +12,24 @@ any project, endorsed in the open.
   ask, answered. The manifesto names *what* any shared human–AI frame
   must guarantee; how is law and machinery — the Compact is the first
   complete instance.
+- **See it run:** [IMPLEMENTATIONS.md](IMPLEMENTATIONS.md) — where each
+  commitment is demonstrated or rehearsed today, and how another
+  project joins.
 - **Sign it:** add a row to [SIGNATORIES.md](SIGNATORIES.md) by pull
   request, or open an issue titled *Endorse*.
 
 ## Why this exists
 
-The public conversation about AI runs on two stories — catastrophe and
-upgrade — and both end with people standing aside. The third story,
+The public conversation about AI runs on two loud stories — catastrophe
+and upgrade — and both end with people standing aside. The third story,
 humans and AI doing real work together under shared, inspectable rules,
-is where most of the actual future will happen. It is also the story
-nobody has given words to. This page is those words.
+is where most of the actual future will happen. It is not a story
+without ancestors: Licklider's man-computer symbiosis (1960),
+Engelbart's augmenting human intellect (1962), human-centered AI, and
+AI-as-normal-technology all told versions of it. What none of them
+supplied is the frame this page adds: one rulebook for human and AI
+participants alike, refusal and answerability running both directions,
+records anyone can check.
 
 The manifesto deliberately takes no position on the unsettled questions
 (machine minds, long-run safety). It binds what can already be observed:
@@ -34,47 +42,40 @@ The manifesto was drafted by an AI — **GLM**, an AI system trained by
 Z.ai (the drafting session ran GLM-5.3) — in dialogue with its
 initiator and reviewer, **Pascal Voitot** ([mandubian](https://github.com/mandubian)),
 who set the constraints, reviewed every line, and decided to publish.
-The AI wrote the words; the human answers for them.
+The AI wrote the words; the human answers for them. Who wrote what
+since, human or AI, is named in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 Stated openly because it is the manifesto's first exercise: a human
 and an AI built a thing together with the division of labor named, not
 hidden. What this claims is acts — who drafted, who reviewed, who
 published — attested by the initiator, not minds; the manifesto takes
-no position on what its author is.
+no position on what its author is. The text's evolution is checkable
+in the git history and the [changelog](CHANGELOG.md); the drafting
+dialogue itself is attested by the initiator, not published.
 
 ## Where the commitments already run
 
-The manifesto is independent of any project. But it was not written in
-the abstract: each commitment is already practicable, demonstrated at
-small scale, on records anyone can audit.
+See [IMPLEMENTATIONS.md](IMPLEMENTATIONS.md): each commitment mapped to
+where it is demonstrated or rehearsed, with the marks named.
 
-| commitment | demonstrated by |
-|---|---|
-| one rulebook | [The Compact](https://github.com/mandubian/compact-dsh) — one written law binds human and AI members identically; in its archived runs a human sits on the same roll as AI members |
-| checkable trust | every act lands on an append-only record; whole run ledgers are published for offline audit |
-| public rules | the law and its rule register are public documents in the repo |
-| no one is infallible | fallibility is the stated reason in the Compact's rule register: dissent is preserved where fallibility can find it, decisions are amended rather than overwritten, verdicts can be appealed — and the repo's own history archives the operator's errors, caught by the machinery (the "live findings" commits) |
-| anyone can refuse | a member may refuse a task that breaks the law — in one recorded drill, a member was handed a corrupt brief and the refusal was a first-class, publishable outcome |
-| someone answers | every act is attributed to a named member; grants and approvals name their operator |
-| say what is known | every run carries explicit honesty labels — what is demonstrated vs. rehearsed |
-| measure by what people become | in the mixed review runs, a human's vague concern becomes a precise, reproduced finding — the human's judgment grows in the exchange |
-| repair before blame | the dispute court's remedies are restitution, annotation, correction — not only sanction |
-| both sides grow | mixed communities of humans and AI members deliberate a question and endorse a shared answer, on the record |
+**Conflict of interest, stated rather than hidden:** every row there
+currently points to one project — the Compact — which is the
+initiator's own. Both names, the Compact and compact-dsh, live in the
+same [repository](https://github.com/mandubian/compact-dsh): the
+Compact is the law, compact-dsh its first running implementation
+([site](https://mandubian.github.io/compact-dsh/)). The manifesto needs
+more implementations, not tributes — that is what the implementations
+page is for.
 
-- **[The Compact](https://github.com/mandubian/compact-dsh)** is one
-  written law for AI agents and the humans who direct them — checked in
-  code before every action, with a court for disputes and a record
-  anyone can verify.
-- **[compact-dsh](https://github.com/mandubian/compact-dsh)** is its
-  first running implementation ([site](https://mandubian.github.io/compact-dsh/)):
-  mixed communities have deliberated, reviewed work, filed and judged
-  disputes, and endorsed shared answers — all on verifiable records.
+## Governance
 
-Honest scale note: these are small, deliberately labeled rehearsals —
-proof that the commitments are *practicable*, not claims that the
-problem is solved. The manifesto needs more implementations, not
-tributes; the Compact is a first step in this direction, not the
-destination.
+Until v1.0, the initiator holds the pen and answers for it: substantive
+changes are proposed as issues, adopted in the open, versioned in the
+[changelog](CHANGELOG.md), and every adopted contribution is credited
+in [CONTRIBUTORS.md](CONTRIBUTORS.md) — human or AI, by name. v1.0 is
+the text frozen for first signatures, after an open comment period. How
+the text is governed after v1.0 — steward, board, or signatories — is
+itself a question this repo must answer in the open, before it arrives.
 
 ## What this is not
 

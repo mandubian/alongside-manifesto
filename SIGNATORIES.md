@@ -23,6 +23,9 @@ below.
 - **By pull request:** add a row to the table below.
 - **By issue:** open an issue titled *Endorse* with the details; a
   maintainer adds you.
+- **Organizations** sign with a public self-assessment against the ten
+  commitments — a link in the row. An endorsement that cannot be
+  checked is not an endorsement.
 
 | Name | Handle / verification | Affiliation (optional) | Date |
 |---|---|---|---|

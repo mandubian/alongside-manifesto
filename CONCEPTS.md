@@ -11,15 +11,25 @@ direction.
 ## Common ground
 
 **One rulebook.** One written standard of conduct covers every
-participant in shared work — human and AI alike.
+participant in shared work — human and AI alike. Roles may differ
+(doctor and patient, user and system), but every difference is written
+down and justified, and no one is exempt. For an AI system, *bound*
+means three things: its acts are measured against the rules; it is
+expected to refuse instructions that break them; and people remain
+answerable for it.
 *Not:* a claim that humans and AI are the same kind of thing, or that
 we must settle what AI *is* before rules apply. The rules bind acts,
 whatever the actor turns out to be.
 
 **Checkable trust.** Trust grounded in records anyone can examine —
-what was done, on whose instruction, with what result.
+what was done, on whose instruction, with what result. Records are
+owed by power and protected for persons: those who deploy AI owe the
+record; the people inside it are owed its protection; examination
+follows role and need, never curiosity.
 *Not:* distrust, and not faith. It is the third thing: verify, then
 trust. Assurance without records asks for the second.
+*Also not:* surveillance. A record of acts is owed by those with power
+over the act — not extracted from the people subject to it.
 
 **Public rules.** Standards written where anyone affected can read
 them.
@@ -42,11 +52,14 @@ manifesto is a frame whose verdicts cannot be contested at all.
 ## In practice
 
 **Refusal.** The capacity to decline an instruction that breaks the
-agreed rules — for an AI system, declining the task; for a person,
-declining outputs or uses, without penalty.
+agreed rules — for an AI system a safeguard the rules *require*, for a
+person a right the rules *protect*: declining outputs or uses, without
+penalty.
 *Not:* disobedience. Refusal is lawful by definition: it is the rules
 that license it. A participant that cannot say no is being used, not
-included.
+included. The asymmetry is deliberate and stated: safeguard for the
+system, right for the person — nothing here turns on what the system
+*is*.
 
 **Answerable.** A person or institution must *answer* for everything
 done with AI: explain it, face the consequences of the explanation.
