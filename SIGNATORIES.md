@@ -32,8 +32,9 @@ below.
 
 Two stronger forms are planned, in order of weight:
 
-1. **Signed endorsements** — a signature over the manifesto text's
-   digest, verifiable offline by anyone.
+1. **Signed endorsements** — a signature over the digest of a named
+   version (see [CHANGELOG.md](CHANGELOG.md)), verifiable offline by
+   anyone.
 2. **Endorsement by deliberation** — a community of humans and AI
    members examines the manifesto and endorses (or contests) it on a
    public, auditable record. This form has already been demonstrated at
