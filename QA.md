@@ -13,6 +13,30 @@ fixed), or fault in the rules themselves (rules err too, including
 ours). Answering is the duty; blame is a possible finding, not the
 starting one. See *answerable* in CONCEPTS.md.
 
+### Could AI one day be accountable for its own acts?
+
+Today, no — and the manifesto says so plainly. Accountability is not
+explaining; it is *bearing*: consequences must land somewhere, and
+today's systems have nothing at stake. Deleting a model is
+decommissioning, not punishment; a fine on a model lands on its
+operator. That is why commitment 6 names people and institutions.
+
+But the manifesto does not foreclose the future, and law has been here
+before: corporations are legal persons — not because they are
+conscious, but because personhood is a legal technology that does
+work. If AI systems ever hold interests of their own, persist as
+parties, and can give an account checkable against the record, law
+could make them answerable. The Compact already rehearses the forms at
+small scale — an AI member sits as a party before its court, verdicts
+and remedies included, honestly labeled as rehearsal. What is missing
+for the real thing is the stakes: something to lose.
+
+The guard matters more than the forecast. The failure mode to fear is
+not "AI held accountable"; it is "AI assigned accountability so that
+no human answers" — the corporate shield, rebuilt in weights. Hence
+the rule written into commitment 6: accountability is earned by the
+capacity to bear it, never assigned as an escape.
+
 ### Is judicature — courts for AI disputes — part of the manifesto?
 
 The need is; the court is not. Commitments 4 and 9 require that every

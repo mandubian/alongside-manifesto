@@ -53,6 +53,9 @@ done with AI: explain it, face the consequences of the explanation.
 *Not:* automatic guilt. Answering opens the process; fault is what the
 process finds, if the record shows it. "The system decided" describes;
 it does not excuse.
+*Also not:* a permanent arrangement. Accountability follows the
+capacity to bear it — today that capacity is human and institutional;
+if it ever grows elsewhere, it is earned, never assigned as an escape.
 
 **Say what is known.** Every claim carries its evidence status:
 demonstrated, expected, or hoped — said which.

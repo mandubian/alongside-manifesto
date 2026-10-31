@@ -56,7 +56,11 @@ cannot say no is being used, not included.
 
 **6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description,
-not a defense. Power exercised through software still has a name on it.
+not a defense. Power exercised through software still has a name on
+it. Today only people and institutions can bear it. If AI systems ever
+can — giving a true account, holding something to lose —
+accountability is earned by that capacity, never assigned as an escape
+from it.
 
 **7. Say what is known.** Claims about AI — what it can do, what it
 did, what it might become — carry their evidence with them.
