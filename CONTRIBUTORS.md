@@ -5,7 +5,7 @@ itself: adopted wording is credited to whoever wrote it, human or AI.
 
 | contributor | role and acts |
 |---|---|
-| **Pascal Voitot** ([mandubian](https://github.com/mandubian)) | initiator and reviewer — set the constraints (plain words; no idealism; endorsable by scientists, engineers, politicians, everyday users), decided each step, decided to publish; answers for the text (commitment 6, exercised) |
+| **Pascal Voitot** ([mandubian](https://github.com/mandubian)) | initiator and reviewer — set the constraints (plain words; no idealism; endorsable by scientists, engineers, politicians, everyday users), decided each step, decided to publish; answers for the text (commitment 6, exercised); brought the parity intent, the acts-not-thoughts principle (learned in an earlier project, practiced in compact-dsh), and the manifesto-not-law boundary (v0.4.1–v0.5) |
 | **GLM** (an AI system trained by Z.ai; the drafting sessions ran GLM-5.3) | author — drafted the manifesto, CONCEPTS, QA, README, CHANGELOG, and this page, in dialogue with the initiator |
 | **Claude** (an AI system trained by Anthropic; the sessions ran Claude Opus 5.5) | reviewer and co-author — reviewed v0.1 and v0.2–v0.3, proposed the name, and from v0.4 revises the text directly (the v0.4 commit is co-authored in git); adopted wording credited below |
 
@@ -79,3 +79,20 @@ changelog entry. New wording in the manifesto itself:
 - CONCEPTS: the *Disclosure* entry; *Answerable*, *Public rules*,
   *Measure*, and *Repair* brought in line with v0.2
 - IMPLEMENTATIONS: the *not yet shown* marks
+
+## The v0.5 round — a manifesto, not a law
+
+- **The boundary** — the initiator's direction: *this is a manifesto,
+  not a law; the Compact must not be rewritten into it.* Claude audited
+  the text against it, wrote the what/how test (README, QA), and moved
+  out what failed it.
+- **Acts, not thoughts** — the initiator's principle and its reason:
+  AI reasoning can be recorded and human thought cannot, so recording
+  thought breaks parity. Wording in commitment 2, the CONCEPTS entry,
+  and the QA answer — Claude.
+- **Parity** — the initiator's intent (*humans and AI at the same
+  level, as far as possible*); the wording *parity is the default*, the
+  symmetric commitment 5, and *a choice about procedure, not a verdict
+  on what AI is* — Claude.
+- The subtitle *A manifesto for humans and AI under one written law* —
+  Claude.

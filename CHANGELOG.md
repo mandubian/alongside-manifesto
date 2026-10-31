@@ -6,6 +6,53 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.5 — 2026-10-31 (a manifesto, not a law)
+
+The initiator's direction: this is a manifesto, not a law, and the
+Compact must not be rewritten into it. The text was audited against
+that line, and what failed it left the manifesto. Written by Claude;
+the principles are the initiator's.
+
+- **Subtitle** — *One written law for humans and AI* read as if the
+  text were the law. Now: *A manifesto for humans and AI under one
+  written law.*
+- **What this manifesto is not** — "Not a substitute for law" becomes
+  **Not a law**: the text names what any frame must guarantee, never
+  how; the rules, the courts, the records, and the code belong to the
+  frames that answer it.
+- **The what/how test**, written into the README's governance section
+  and into QA: a sentence belongs here if it says what must be true; if
+  it says how to make it true, it belongs to a frame.
+- **Moved out of the manifesto** (each failed the test):
+  - commitment 2's access rule (*examination follows role and need*) —
+    now one reading in CONCEPTS; each frame designs its own;
+  - commitment 6's liability formula (*in proportion to their power*)
+    — now one reading in CONCEPTS; the principle stays: *the name
+    follows control, not proximity*;
+  - commitment 6's conditions for future AI accountability — now in
+    QA, as a reading, with the reason they cannot be a rule (a stake a
+    deployer assigns is the escape itself). The guard stays in the
+    text. *(Open item 1, adopted.)*
+- **Acts, not thoughts** — commitment 2: *the record holds acts, not
+  thoughts — the same for every participant.* The initiator's
+  principle, learned when an earlier project recorded agents' reasoning
+  but could not record humans', and the frame was not symmetric. Where
+  the line falls is each frame's to draw. New CONCEPTS entry, new QA
+  answer, and an IMPLEMENTATIONS row (compact-dsh, clause R-10).
+- **Parity, said openly** *(open item 5, adopted)* — commitment 1:
+  *parity is the default*; commitment 5 made symmetric: *any
+  participant, human or AI, may decline an instruction that breaks the
+  agreed rules — without penalty*; *What this manifesto is not*:
+  *parity in the rules is a choice about procedure, not a verdict on
+  what AI is.* CONCEPTS and QA follow.
+- **Open item 4 closed** — who may examine the record is *how*: each
+  frame's to design.
+- **Terminology** — QA and README called the manifesto "a frame";
+  frames are what answer it. Now "a standard".
+
+Still open: item 2 (standing for the affected) and item 3 (QA answers
+for open-weight models, military AI, the EU AI Act).
+
 ## 0.4.1 — 2026-10-31 (participant restored)
 
 - **Commitment 5** — v0.4 narrowed *"a participant that cannot say no

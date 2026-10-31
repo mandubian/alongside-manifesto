@@ -33,10 +33,13 @@ for the real thing is the stakes: something to lose.
 
 The guard matters more than the forecast. The failure mode to fear is
 not "AI held accountable"; it is "AI assigned accountability so that
-no human answers" — the corporate shield, rebuilt in weights. Hence
-the rule written into commitment 6: accountability is earned by the
-capacity to bear it, and never handed to a machine so that a person
-can escape it.
+no human answers" — the corporate shield, rebuilt in weights. And the
+stake must be the system's own: a stake a deployer assigns to an
+agent — a wallet, a bond — is that escape, not its end. Hence what
+commitment 6 keeps in the text is the guard alone: accountability is
+never handed to a machine so that a person can escape it. The
+conditions above are a reading, not a rule; how AI accountability
+might one day be built is for law to decide, not for this manifesto.
 
 ### Is judicature — courts for AI disputes — part of the manifesto?
 
@@ -53,6 +56,13 @@ shared human–AI frame must guarantee. A law names the rules.
 Machinery names how the rules are enforced. The Compact is one
 complete answer — law down to code — and the first such instance; the
 manifesto requires an answer, never this answer.
+
+Every edit is held to that line. A sentence belongs in the manifesto
+if it says what must be true; if it says how to make it true — who
+holds a record, how access is granted, how liability is shared, what a
+court does — it belongs to a frame. The quick check: could two very
+different frames, a court system and a peer-review community, both
+satisfy it? If only one could, it is *how*.
 
 ### Do I have to believe AI is conscious to sign?
 
@@ -73,16 +83,16 @@ Manifesto](https://humanaimanifesto.org), five principles for people
 and AI working together, and the [Pro-Human AI
 Declaration](https://humanstatement.org), which keeps humans in
 charge. Where the Pro-Human declaration answers the personhood
-question *never*, this manifesto answers *not today, and only if
-earned*: refusal is a safeguard for systems and a right for people;
-only people and institutions answer today; and if AI accountability
-ever comes, commitment 6 lets it in only by earned capacity — never
-handed to a machine so that a person can escape it. And where the
-declaration warns against concentrated power, commitment 8 agrees by
-name. What this manifesto adds over all of them: a frame *for shared
-conduct* — the same rules binding human and AI participants, records
-owed by power and protected for persons, practicable now, with a
-running instance. Complements, not competitors: principles govern how
+question *never*, this manifesto answers *not today*, and leaves the
+rest to law: only people and institutions answer today, and
+accountability is never handed to a machine so that a person can
+escape it. It also goes further on parity: any participant, human or
+AI, may refuse what breaks the rules. And where the declaration warns
+against concentrated power, commitment 8 agrees by name. What this
+manifesto adds over all of them: a standard *for shared conduct* — the
+same rules binding human and AI participants, a record of acts, not
+thoughts, owed by power and protected for persons — practicable now,
+with a running instance. Complements, not competitors: principles govern how
 AI is built; this governs how humans and AI work together once built.
 
 ### What if I disagree with one commitment?
@@ -108,11 +118,38 @@ predicts no catastrophes.
 
 Not if the rule is followed: records are owed by power and protected
 for persons. Those who deploy AI owe a record of what it did; the
-people whose data is in that record are owed its protection.
-Examination follows role and need — a reviewer with a mandate reads
-what a curious stranger may not. The failure mode is real, which is
-why commitment 2 says this in the text itself rather than leaving it
-to interpretation.
+people whose data is in that record are owed its protection. And the
+record holds acts, not thoughts: what you deliberate stays yours. Who
+may examine what is each frame's design — one reading: a reviewer with
+a mandate reads what a curious stranger may not. The failure mode is
+real, which is why commitment 2 states the principle in the text
+itself rather than leaving it to interpretation.
+
+### Why does the record hold acts, not thoughts?
+
+Because otherwise parity is impossible. An AI's reasoning can be
+logged; a person's cannot. A record that holds one side's thoughts and
+not the other's is a one-way mirror: the side that can be read is
+judged by a standard no one else could meet. The initiator met this in
+an earlier project, where agents' reasoning was recorded and humans'
+could not be, and the frame was not symmetric. compact-dsh records
+acts only, and the symmetry returned (see
+[IMPLEMENTATIONS.md](IMPLEMENTATIONS.md)).
+
+Three more reasons point the same way. Law has refused to punish
+thought for two thousand years — *cogitationis poenam nemo patitur* —
+and freedom of thought is among the few absolute rights, which
+commitment 1's floor already protects. An AI's written-out reasoning is
+not reliable testimony: it often differs from what actually drove the
+answer (Chen et al., Anthropic, 2025). And judging thoughts makes them
+stop being honest: penalize what a system thinks, and it learns to
+hide it (Baker et al., OpenAI, 2025).
+
+Intent still enters the record — through acts, and through the account
+a participant gives when answering, which is itself an act. Looking
+inside a system to keep it safe is not forbidden; judging a
+participant by what is found there is. Where thought ends and act
+begins is each frame's to draw.
 
 ### Does this apply to me writing emails with AI at home?
 

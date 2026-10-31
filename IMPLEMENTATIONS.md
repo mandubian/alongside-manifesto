@@ -15,6 +15,7 @@ recommendation — the page exists so it stops being true.
 |---|---|---|
 | one rulebook | [the Compact](https://github.com/mandubian/compact-dsh): one written law binds human and AI members identically; a human sits on the same roll as AI members in archived runs | rehearsed |
 | checkable trust | every act lands on an append-only record; whole run ledgers are published for offline audit | demonstrated (the record machinery itself) |
+| acts, not thoughts | reasoning-bearing events are listed by sequence and type with their content withheld; acts are shown ([the record](https://github.com/mandubian/compact-dsh/blob/main/docs/concept-the-record.md), clause R-10, enforced in `packages/record/src/read.js` with tests) | demonstrated (the record's read path) |
 | public rules | the law and its rule register are public documents in the repo | demonstrated |
 | no one is infallible | dissent preserved, decisions amended not overwritten, verdicts appealable; the operator's own errors are archived as "live findings" | demonstrated (in-repo history) |
 | anyone can refuse | a member may refuse a task that breaks the law; in one recorded drill a member was handed a corrupt brief and the refusal was a first-class, publishable outcome | rehearsed |

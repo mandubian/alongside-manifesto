@@ -32,9 +32,10 @@ technology (2025) told versions of it — and Elinor Ostrom mapped how
 commons are governed by the people they bind: rules written by those
 bound, monitoring, graduated sanctions, conflict resolution. Four of
 this manifesto's commitments, in her vocabulary. What this page adds
-is a frame: one rulebook for human and AI participants alike, refusal
-as a safeguard for systems and a right for people, answerability that
-follows control, records owed by power and protected for persons.
+is what any such frame must guarantee: one rulebook for human and AI
+participants alike, parity by default, refusal open to every
+participant, answerability that follows control, and a record of acts,
+not thoughts, owed by power and protected for persons.
 
 The manifesto deliberately takes no position on the unsettled questions
 (machine minds, long-run safety). It binds what can already be observed:
@@ -85,6 +86,14 @@ in [CONTRIBUTORS.md](CONTRIBUTORS.md) — human or AI, by name. v1.0 is
 the text frozen for first signatures, after an open comment period. How
 the text is governed after v1.0 — steward, board, or signatories — is
 itself a question this repo must answer in the open, before it arrives.
+
+**A manifesto, not a law.** Every edit passes one test: a sentence
+belongs in the manifesto if it says *what* must be true; if it says
+*how* to make it true — who holds a record, how access is granted, how
+liability is shared, what a court does — it belongs to a frame such as
+the Compact, never here. Quick check: could two very different frames,
+a court system and a peer-review community, both satisfy it? If only
+one could, it is *how*.
 
 ## What this is not
 
