@@ -1,9 +1,9 @@
-# positive-ai-manifesto
+# alongside-manifesto
 
-**One breath:** a short public manifesto for a positive human–AI future
-built on inspectable ground — the same rules for everyone, trust you
-can check, the right to refuse, a name on every act — independent of
-any project, endorsed in the open.
+**One breath:** *Alongside* is a short public manifesto for a human–AI
+future built on inspectable ground — the same rules for everyone,
+trust you can check, the right to refuse, a name on every act —
+independent of any project, endorsed in the open.
 
 - **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three
   groups: common ground, in practice, the direction. Three minutes.
@@ -26,10 +26,13 @@ humans and AI doing real work together under shared, inspectable rules,
 is where most of the actual future will happen. It is not a story
 without ancestors: Licklider's man-computer symbiosis (1960),
 Engelbart's augmenting human intellect (1962), human-centered AI, and
-AI-as-normal-technology all told versions of it. What none of them
-supplied is the frame this page adds: one rulebook for human and AI
-participants alike, refusal and answerability running both directions,
-records anyone can check.
+AI-as-normal-technology told versions of it — and Elinor Ostrom mapped
+how commons are governed by the people they bind: rules written by
+those bound, monitoring, graduated sanctions, conflict resolution.
+Four of this manifesto's commitments, in her vocabulary. What none of
+them supplied is the frame this page adds: one rulebook for human and
+AI participants alike, refusal and answerability running both
+directions, records anyone can check.
 
 The manifesto deliberately takes no position on the unsettled questions
 (machine minds, long-run safety). It binds what can already be observed:

@@ -6,6 +6,33 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.3 — 2026-10-31 (the naming, and the fixes that rode with it)
+
+- **The manifesto is named: *Alongside*** — one written law for humans
+  and AI. Two rounds of review preceded it: the original title collided
+  with a real industry association (Positive AI, France, 2022), and the
+  four replacement candidates proposed next were dismantled for
+  leaking *status* the text refuses — member, co-owner, ally. The name
+  is the text's own first paragraph: AI systems act in the world,
+  *alongside* people — a position, not a status: not above
+  (domination), not beneath (servitude), the two endings commitment 10
+  rejects. Collision check: no manifesto or movement claims the name
+  (verified 2026-10-31). French: *côte à côte*. Credit: proposed by
+  Claude (Opus 5.5) after the dismantling; assessed and adopted here;
+  decided by the initiator.
+- **Commitment 1** — the floor/ceiling image removed (it collided with
+  "a floor, not a ceiling" in *What this manifesto is not*, a
+  different meaning): now plain — *no shared frame overrides the
+  rights people already hold.*
+- **Ostrom joins the ancestors** (README): commons governance maps to
+  four commitments — rules by those bound, monitoring, graduated
+  sanctions, conflict resolution.
+- **Two neighbours named in QA** (verified to exist): the Human + AI
+  Manifesto (working-together principles) and the Pro-Human AI
+  Declaration — with the difference stated where it is sharpest: where
+  they answer the personhood question *never*, this manifesto declines
+  the question and sets an earned-capacity door instead.
+
 ## 0.2 — 2026-10-31 (the review round)
 
 An external review by Claude (Opus 5.5, Anthropic), 2026-10-31, was

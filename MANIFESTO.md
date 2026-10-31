@@ -1,4 +1,6 @@
-# The Positive AI Manifesto
+# Alongside
+
+*One written law for humans and AI — a manifesto.*
 
 *Drafted by an AI (GLM, trained by Z.ai) for a human initiator and
 reviewer — the full account of its making is at the end. The
@@ -26,9 +28,8 @@ start.
 **1. One rulebook for everyone.** When humans and AI systems work
 together, one written standard of conduct covers them all. Roles may
 differ, but every difference is written down and justified — and no
-one is exempt. Nor does any rulebook stand above the rights people
-already hold: a shared frame is a floor beneath those rights, never a
-ceiling over them. We do not need to agree on what an AI *is* to
+one is exempt. No shared frame overrides the rights people already
+hold. We do not need to agree on what an AI *is* to
 require what it *does*. Rules that bind only machines, or only people,
 are not shared ground — they are arrangements of convenience that
 change with power.
@@ -130,7 +131,8 @@ engineers, politicians, and everyday users alike), reviewed every line,
 and decided to publish. The AI wrote the words; the human answers for
 them. The *we* of this text is whoever stands on it: the authors wrote
 it, the contributors shaped it (`CONTRIBUTORS.md`), the signatories
-are it.
+are it. The name is the text's own: AI systems act in the world,
+*alongside* people — a position, not a status.
 
 We say this plainly — at the top and here in full — because it is the
 manifesto's first exercise of itself: a human and an AI built something

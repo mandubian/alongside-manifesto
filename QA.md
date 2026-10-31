@@ -67,13 +67,20 @@ It has real neighbours, and it stands on their shoulders: the OECD AI
 Principles, UNESCO's 2021 recommendation, the Council of Europe's AI
 Convention (2024), the EU AI Act — and the Montreal Declaration, which
 was drafted through public consultation and is open for anyone to
-sign. What those documents do is state principles *about* AI,
-addressed to developers and governments. What this manifesto adds is a
-frame *for shared conduct*: the same rules binding human and AI
-participants, refusal and answerability running both directions,
-records anyone can check — practicable now, with a running instance.
-Complements, not competitors: principles govern how AI is built; this
-governs how humans and AI work together once built.
+sign. The two nearest in spirit: the [Human + AI
+Manifesto](https://humanaimanifesto.org), five principles for people
+and AI working together, and the [Pro-Human AI
+Declaration](https://humanstatement.org), which keeps humans in
+charge. Where the Pro-Human declaration answers the personhood
+question *never*, this manifesto declines to answer it — refusal and
+answerability run both directions today, and if AI accountability ever
+comes, commitment 6 lets it in only by earned capacity, never as an
+escape. And where it warns against concentrated power, commitment 8
+agrees by name. What this manifesto adds over all of them: a frame
+*for shared conduct* — the same rules binding human and AI
+participants, records anyone can check, practicable now, with a
+running instance. Complements, not competitors: principles govern how
+AI is built; this governs how humans and AI work together once built.
 
 ### What if I disagree with one commitment?
 

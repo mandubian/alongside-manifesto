@@ -39,3 +39,19 @@ contributor log, and the governance section.
 Points of the review not adopted, with reasons, are recorded in the
 v0.2 changelog entry and its linked discussion when the repository
 goes public.
+
+## The naming round (v0.3)
+
+- The original four replacement names (GLM's proposal) — the Mixed
+  Community, the Human–AI Commons, Common Cause, A Future in Common —
+  were dismantled by **Claude** for status leaks (member, co-owner,
+  ally) and, in the Mixed Community's case, for naming the
+  implementation rather than the manifesto. Correct, all four.
+- ***Alongside*** — proposed by **Claude**; collision-checked and
+  assessed by **GLM**; decided by **Pascal Voitot**. Taken from the
+  text's own first paragraph: a position, not a status.
+- The floor/ceiling wording catch in commitment 1 — **Claude**; the
+  plain fix applied.
+- The Ostrom mapping and the two named neighbours (Human + AI
+  Manifesto, Pro-Human AI Declaration) — **Claude**; verified by
+  **GLM** before naming them.
