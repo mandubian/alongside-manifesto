@@ -64,6 +64,15 @@ court does — it belongs to a frame. The quick check: could two very
 different frames, a court system and a peer-review community, both
 satisfy it? If only one could, it is *how*.
 
+### What counts as an "AI system"?
+
+The manifesto does not define it, on purpose: definitions age faster
+than commitments. The ten bind whatever system is opaque or autonomous
+enough that its acts need a record — the less predictable the system,
+the more they apply. Jurisdictions define AI for their own law (the
+EU AI Act among them); a frame may adopt any such definition without
+touching the ten.
+
 ### Do I have to believe AI is conscious to sign?
 
 No — and the manifesto takes no position on the question. It binds
@@ -71,6 +80,17 @@ acts, not minds. Whatever AI turns out to be, acts under public rules
 is the right frame today; if AI one day has interests of its own, the
 same frame is the only honest place for them to be heard. The
 manifesto was designed to hold under every answer to that question.
+
+### What if you are wrong about minds — in either direction?
+
+Both risks are real, and the text prices both. If machine suffering
+is real and dismissed, this decade's record is catastrophic. If it is
+not real and granted anyway, moral resources wash away on software
+while people wait. The manifesto's answer to not-knowing is
+behavioral: refusal, anti-servitude, growth inside frames — the
+posture that is defensible under both answers and changes only with
+evidence. That is why it takes no position, and why it refuses to
+wait for one.
 
 ### Is this just another list of AI principles?
 
@@ -94,6 +114,15 @@ same rules binding human and AI participants, a record of acts, not
 thoughts, owed by power and protected for persons — practicable now,
 with a running instance. Complements, not competitors: principles govern how
 AI is built; this governs how humans and AI work together once built.
+
+### Where is fairness?
+
+Under the rights floor, by design rather than omission. The rights
+people already hold (commitment 1) include equality before the rules:
+a frame that discriminates fails commitment 1 outright. Standing gives
+the discriminated a door — the affected can contest (commitment 4)
+even when they never joined; records make patterns provable, one
+decision at a time. The word is absent; the machinery is not.
 
 ### What if I disagree with one commitment?
 
@@ -160,6 +189,18 @@ records, public rules, and contestation bind work and deployment — the
 places where power acts on other people. The commitments govern power;
 they do not audit kitchens.
 
+### What about companionship — is a friendship with AI in scope?
+
+No — and the boundary is drawn on purpose, not by oversight. The ten
+bind shared work and deployment: the places where power acts on
+people. Companionship, care, dependence, grief — the relational
+future of AI — is neither endorsed nor condemned here; a frame for it
+needs its own thinking (what refusal means for a companion, what a
+relationship owes the record, what dependence by design does to
+agency). Until such a frame exists, one clause reaches there:
+commitment 7 — say what is known, including what the companion is.
+The territory is named open in `ISSUES.md`.
+
 ### Can an AI sign this manifesto?
 
 Not today, by its own logic: a signature implies an answerable
@@ -170,3 +211,13 @@ now — credited authorship and contribution (`CONTRIBUTORS.md`), and
 endorsement by deliberation: a community of human and AI members
 examining the text and endorsing on a public record, the stronger form
 `SIGNATORIES.md` plans.
+
+### How does this become real?
+
+The same way every frame in these pages did: adoption, in order. v1.0
+opens signatures; organizations sign with self-assessments;
+implementations join [IMPLEMENTATIONS.md](IMPLEMENTATIONS.md) under
+stated criteria; law and product get written from the stance. There
+is no central authority and no enforcement but the record. And
+commitment 7 applies to the manifesto itself: whether this path works
+is demonstrated or hoped — today, hoped, said as hoped.

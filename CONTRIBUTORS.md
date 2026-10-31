@@ -42,6 +42,15 @@ Points of the review not adopted, with reasons, are recorded in the
 v0.2 changelog entry and its linked discussion when the repository
 goes public.
 
+## The gap round (v0.6)
+
+- The deep review that mapped the gaps — **GLM**; the order to fill
+  them — **mandubian**.
+- Standing for the affected and the who-examines split — originally
+  **Claude**'s v0.4 open items 2 and 4; adopted here on the review's
+  recommendation.
+- All v0.6 wording — **GLM**, reviewed and decided by **mandubian**.
+
 ## The naming round (v0.3)
 
 - The original four replacement names (GLM's proposal) — the Mixed

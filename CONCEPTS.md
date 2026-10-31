@@ -26,8 +26,10 @@ whatever the actor turns out to be.
 what was done, on whose instruction, with what result. Records are
 owed by power and protected for persons: those who deploy AI owe the
 record; the people inside it are owed its protection. Who may examine
-what is each frame's to design — one reading: role and need, never
-curiosity.
+what is each frame's to design — one reading: *what power did is
+open; who it touched is protected.* The split cannot be gamed by its
+own subject: a deployer may protect the people in the record, never
+its own acts.
 *Not:* distrust, and not faith. It is the third thing: verify, then
 trust. Assurance without records asks for the second.
 *Also not:* surveillance. A record of acts is owed by those with power
@@ -42,8 +44,8 @@ judging a participant by what is found there. Where thought ends and
 act begins is each frame's to draw.
 
 **Public rules.** Standards written where anyone affected can read
-them — and written with a say for the people they bind, not only
-applied to them.
+them — and written with a say for the people they bind or affect, not
+only applied to them.
 *Not:* inside a model's weights, a system prompt, or a private policy
 changed overnight. Secret law is no law.
 *Also not:* enough on its own. A rulebook anyone can read, but that no
@@ -57,7 +59,10 @@ records, review, and appeal exist. Authority that cannot be wrong
 cannot be corrected.
 
 **Contestation.** Every verdict, rule, or decision can be challenged
-and corrected by someone with the standing to do it.
+and corrected by someone with the standing to do it — and standing
+belongs to the affected as well as the bound: people on the receiving
+end of a decision did not choose the frame, and have standing in it
+anyway.
 *Not:* any particular court. A frame could realize contestation with
 courts, ombudsmen, regulators, or peer review — what fails the
 manifesto is a frame whose verdicts cannot be contested at all.

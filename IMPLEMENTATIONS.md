@@ -29,6 +29,12 @@ Honest scale note: all of these are small, deliberately labeled
 rehearsals — proof the commitments are *practicable*, not claims the
 problem is solved.
 
+A second limit, stated the same way: **endorsement is instrumented,
+compliance is not.** Organization self-assessments are
+self-attestations; no third-party audit of a row exists yet. A mark
+says what was *shown*, not what is continuously true. When an audit
+form exists, it joins the joining criteria below.
+
 ## Not yet shown
 
 The clauses added in v0.2 have no implementation listed yet. They are

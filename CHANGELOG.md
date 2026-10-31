@@ -6,6 +6,41 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6 — 2026-10-31 (the gaps, filled)
+
+A full review pass mapped what the text and its companions did not
+say; the initiator ordered the gaps filled. The ten commitments
+change by one word; the rest lands where it belongs.
+
+- **Commitment 3 — binds or affects**: the people on the receiving end
+  of a rulebook have a say in how it is written, not only the people
+  inside it (Claude's open item 2, adopted; CONCEPTS *public rules*
+  and *contestation* follow — standing belongs to the affected as
+  well as the bound).
+- **Who examines the record** — the CONCEPTS reading restated as the
+  split that cannot be gamed by its own subject: *what power did is
+  open; who it touched is protected* (open item 4, adopted; the old
+  "role and need" reading let a deployer claim privacy for its own
+  acts).
+- **SIGNATORIES** — signatures can be withdrawn, visibly: the row
+  moves to a withdrawn list with its date. Endorsements amend on the
+  record; they do not vanish.
+- **IMPLEMENTATIONS** — the second limit stated: endorsement is
+  instrumented, compliance is not; self-assessments are
+  self-attestations, and a mark says what was shown once, not what is
+  continuously true.
+- **QA, five answers added** — what counts as an AI system
+  (deliberately undefined: definitions age faster than commitments);
+  where fairness lives (the rights floor, standing, records — the
+  word absent, the machinery not); what if the minds question is
+  answered wrong either way (both risks priced; the posture is
+  behavioral); companionship (out of scope on purpose, one clause
+  reaches there, the territory named open); how this becomes real
+  (adoption, in order — and, said as commitment 7 requires: hoped).
+- **ISSUES.md born** — the queue while there is no public repository:
+  nine entries, each written ready to become a GitHub issue on
+  publication day.
+
 ## 0.5.1 — 2026-10-31 (the handle convention)
 
 The initiator is named by handle — **mandubian** — everywhere this

@@ -32,10 +32,20 @@ draft, and comments go to issues. From v1.0:
 - **Organizations** sign with a public self-assessment against the ten
   commitments — a link in the row. An endorsement that cannot be
   checked is not an endorsement.
+- **Withdrawing** — a signature is yours to take back: by pull request,
+  your row moves to the withdrawn list below with its date (a reason
+  is welcome, never required). Endorsements amend on the record; they
+  do not vanish.
 
 | Name | Handle / verification | Affiliation (optional) | Date |
 |---|---|---|---|
 | — be the first — | | | |
+
+## Withdrawn
+
+| Name | Date | Reason (optional) |
+|---|---|---|
+| — none — | | |
 
 ## Beyond individual signatures
 

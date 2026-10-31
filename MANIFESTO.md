@@ -49,7 +49,8 @@ Trust without records is not trust; it is faith with a deadline.
 work are written where anyone affected can read them: not sealed in a
 model, not hidden in a prompt, not parked in a private policy. Secret
 law is no law. And public is not enough: the people a rulebook binds
-have a say in how it is written, not only in how it is applied.
+or affects have a say in how it is written, not only in how it is
+applied.
 
 **4. No one is infallible.** Machines err. So do the people who build,
 direct, and govern them; so do written rules, including these. The
