@@ -6,6 +6,30 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.4.1 — 2026-10-31 (participant restored)
+
+- **Commitment 5** — v0.4 narrowed *"a participant that cannot say no
+  is being used, not included"* to *"a person"*. The initiator
+  corrected it: the sentence is meant for every participant, human or
+  AI. Restored, and made explicit so no reader narrows it again: *any
+  participant, human or AI, that cannot say no is being used, not
+  included.* Same in CONCEPTS.
+- **The intent, stated by the initiator:** to set humans and AI at the
+  same level, as far as possible.
+
+**Open — added to the list in 0.4:**
+
+5. **Parity, said openly.** Today the intent is carried by vocabulary
+   (*participant*, *included*), while the v0.2 asymmetry in commitment
+   5 (*a safeguard the rules require* for AI, *a right the rules
+   protect* for people) pulls the other way. Proposed: commitment 1
+   states *parity is the default; every difference is written down and
+   justified*; commitment 5 becomes symmetric (*any participant, human
+   or AI, may decline an instruction that breaks the agreed rules,
+   without penalty*); and *What this manifesto is not* adds that
+   parity in the rules is a choice about procedure, not a verdict on
+   what AI is.
+
 ## 0.4 — 2026-10-31 (the companion files catch up)
 
 Written by Claude (Anthropic) at the initiator's request, after its

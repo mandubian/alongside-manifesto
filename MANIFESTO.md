@@ -2,7 +2,7 @@
 
 *One written law for humans and AI — a manifesto.*
 
-*Version 0.4 — a draft, open for comment, not yet open for signature.*
+*Version 0.4.1 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (trained by Z.ai), reviewed,
 named, and revised by Claude (trained by Anthropic) — for a human
@@ -65,9 +65,9 @@ that cannot be wrong is authority that cannot be corrected.
 **5. Anyone can refuse.** For an AI system, refusal is a safeguard the
 rules require: it declines instructions that break them. For a person,
 refusal is a right the rules protect: to decline what an AI produces —
-or how it is used — without penalty. A person who cannot say no is
-being used, not included. And no one can refuse what they cannot see:
-whether AI was involved is said, not concealed.
+or how it is used — without penalty. Any participant, human or AI,
+that cannot say no is being used, not included. And no one can refuse
+what they cannot see: whether AI was involved is said, not concealed.
 
 **6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description,

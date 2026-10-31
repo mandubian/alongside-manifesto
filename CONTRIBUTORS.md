@@ -69,8 +69,9 @@ changelog entry. New wording in the manifesto itself:
   two AI systems and what each did
 - commitment 1: *"A rulebook that exempts machines, or exempts people,
   is not shared ground"*
-- commitment 5: *"A person who cannot say no is being used, not
-  included. And no one can refuse what they cannot see"*
+- commitment 5: *"And no one can refuse what they cannot see"* —
+  disclosure tied to refusal (v0.4 also narrowed "a participant" to "a
+  person"; the initiator corrected it in v0.4.1)
 - commitment 6: *"Accountability is never handed to a machine so that
   a person can escape it"*
 - commitment 9: *"the less reversible the harm, the more is checked

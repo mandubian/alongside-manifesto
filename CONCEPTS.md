@@ -60,8 +60,8 @@ agreed rules — for an AI system a safeguard the rules *require*, for a
 person a right the rules *protect*: declining outputs or uses, without
 penalty.
 *Not:* disobedience. Refusal is lawful by definition: it is the rules
-that license it. A person who cannot say no is being used, not
-included. The asymmetry is deliberate and stated: safeguard for the
+that license it. Any participant, human or AI, that cannot say no is
+being used, not included. The asymmetry is deliberate and stated: safeguard for the
 system, right for the person — nothing here turns on what the system
 *is*.
 
