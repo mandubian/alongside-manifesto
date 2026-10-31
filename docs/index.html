@@ -1,0 +1,279 @@
+<!doctype html>
+<!-- Alongside — the plain telling. The text lives in MANIFESTO.md; this page
+     mirrors it and is kept honest by tools/check-site.mjs (run in CI):
+     the ten commitments and the version must match the source verbatim. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alongside — a manifesto for humans and AI under one written law</title>
+<meta name="description" content="Ten commitments for humans and AI working under one written law: the same rules for everyone, trust you can check, the right to refuse, a name on every act. A draft, open for comment.">
+<meta property="og:title" content="Alongside — a manifesto for humans and AI under one written law">
+<meta property="og:description" content="Ten commitments: one rulebook for everyone, checkable trust, refusal for any participant, a name on every act — a draft, open for comment.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mandubian.github.io/alongside-manifesto/">
+<meta property="og:image" content="https://mandubian.github.io/alongside-manifesto/og-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  :root{
+    --paper:#faf7f2; --card:#ffffff; --ink:#20211d; --soft:#5c5a52;
+    --g1:#116052; --g2:#a8512a; --g3:#5c6b22; --line:#e7e1d6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);
+       font:400 17px/1.65 Georgia,'Times New Roman',serif;}
+  main{max-width:44rem;margin:0 auto;padding:0 1.25rem 5rem}
+  a{color:var(--g1)}
+  .eyebrow{font-family:ui-monospace,Menlo,monospace;font-size:.72rem;letter-spacing:.14em;
+           text-transform:uppercase;color:var(--soft)}
+  header.hero{padding:4.5rem 0 2.5rem;border-bottom:2px solid var(--ink)}
+  h1{font-size:4rem;line-height:1;margin:.4rem 0 .6rem;letter-spacing:-.02em}
+  .sub{font-size:1.35rem;color:var(--soft);font-style:italic;margin:0 0 1.2rem}
+  .byline{font-size:.95rem;color:var(--soft)}
+  .cta{margin-top:1.8rem;display:flex;gap:.8rem;flex-wrap:wrap}
+  .cta a{display:inline-block;padding:.65rem 1.1rem;border:2px solid var(--ink);
+         color:var(--ink);text-decoration:none;font-family:ui-monospace,Menlo,monospace;
+         font-size:.85rem;border-radius:2px}
+  .cta a.primary{background:var(--ink);color:var(--paper)}
+  section{padding:2.8rem 0 0}
+  h2{font-size:1.7rem;margin:0 0 1rem;letter-spacing:-.01em}
+  h3.group{font-family:ui-monospace,Menlo,monospace;font-size:.8rem;letter-spacing:.12em;
+           text-transform:uppercase;margin:2.2rem 0 .6rem}
+  h3.group.i{color:var(--g1)} h3.group.ii{color:var(--g2)} h3.group.iii{color:var(--g3)}
+  .card{background:var(--card);border:1px solid var(--line);border-left-width:5px;
+        border-radius:3px;padding:1.1rem 1.3rem;margin:0 0 .9rem}
+  .card.i{border-left-color:var(--g1)} .card.ii{border-left-color:var(--g2)}
+  .card.iii{border-left-color:var(--g3)}
+  .card .num{font-family:ui-monospace,Menlo,monospace;font-size:.75rem;color:var(--soft)}
+  .card h4{margin:.1rem 0 .5rem;font-size:1.18rem}
+  .card p.body{margin:0}
+  .card p.not{margin:.7rem 0 0;font-size:.9rem;color:var(--soft)}
+  .card p.not b{font-weight:700}
+  .nots .card{border-left-color:var(--ink)}
+  figure.frame{margin:2.5rem 0 0}
+  figure.frame figcaption{font-size:.85rem;color:var(--soft);text-align:center;margin-top:.5rem}
+  details{background:var(--card);border:1px solid var(--line);border-radius:3px;
+          margin:0 0 .6rem;padding:.7rem 1.1rem}
+  summary{cursor:pointer;font-weight:700;font-size:1rem}
+  details p{margin:.6rem 0 0}
+  table{border-collapse:collapse;width:100%;font-size:.9rem;background:var(--card)}
+  th,td{border:1px solid var(--line);padding:.5rem .7rem;text-align:left;vertical-align:top}
+  th{font-family:ui-monospace,Menlo,monospace;font-size:.72rem;text-transform:uppercase;
+     letter-spacing:.08em}
+  .mark{font-family:ui-monospace,Menlo,monospace;font-size:.78rem;white-space:nowrap}
+  .note{font-size:.88rem;color:var(--soft)}
+  footer{margin-top:3.5rem;padding-top:1.5rem;border-top:2px solid var(--ink);
+         font-size:.85rem;color:var(--soft)}
+  footer p{margin:.3rem 0}
+</style>
+</head>
+<body>
+<main>
+
+<header class="hero">
+  <div class="eyebrow">A manifesto · draft v0.6.2 · open for comment · signing opens at v1.0</div>
+  <h1>Alongside</h1>
+  <p class="sub">A manifesto for humans and AI under one written law.</p>
+  <p class="byline">Drafted by GLM (Z.ai, running GLM-5.3 Max), reviewed, named and revised by
+  Claude (Anthropic, running Claude Opus 5.5 Extra High), for a human initiator and reviewer,
+  <a href="https://github.com/mandubian">mandubian</a>, who answers for it.</p>
+  <div class="cta">
+    <a class="primary" href="#ten">Read the ten commitments</a>
+    <a href="https://github.com/mandubian/alongside-manifesto/issues">Comment on GitHub</a>
+  </div>
+</header>
+
+<section>
+  <h2>Two stories, and the third one nobody tells</h2>
+  <p>The public conversation about AI offers two stories. In one, AI is a catastrophe in
+  waiting — a power to fear. In the other, it is humanity's upgrade — a power to chase.
+  Both stories end the same way: with people standing aside while something bigger than
+  them decides the future.</p>
+  <p>There is a third story. It is less dramatic and more demanding: humans and AI systems
+  doing real work together, under rules that are written down, open to inspection, and
+  binding on everyone — the machines, the people who build them, and the institutions
+  that deploy them.</p>
+  <p>This manifesto takes no position on the questions still open — machine consciousness,
+  long-run safety among them — and none of them need settling for acts to be held to
+  standards today. What the evidence already supports is simpler: AI systems act in the
+  world, <em>alongside</em> people. Anything that acts can be held to a standard.</p>
+
+  <figure class="frame">
+    <svg viewBox="0 0 720 300" width="100%" role="img" aria-label="A person and an AI system, side by side, inside one frame labeled one written law; records, refusal, contest and repair sit on the frame">
+      <rect x="60" y="50" width="600" height="200" rx="14" fill="none" stroke="#20211d" stroke-width="2.5" stroke-dasharray="1 0"/>
+      <text x="360" y="38" text-anchor="middle" font-family="Georgia,serif" font-size="21" font-style="italic" fill="#20211d">one written law — public, contestable</text>
+      <circle cx="250" cy="140" r="46" fill="#116052"/>
+      <text x="250" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#faf7f2">a person</text>
+      <circle cx="470" cy="140" r="46" fill="#a8512a"/>
+      <text x="470" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#faf7f2">an AI system</text>
+      <text x="360" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#5c5a52">alongside</text>
+      <g font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c5a52" text-anchor="middle">
+        <text x="150" y="270">records</text>
+        <text x="330" y="270">refusal</text>
+        <text x="510" y="270">contest</text>
+        <text x="630" y="270">repair</text>
+        <line x1="150" y1="252" x2="150" y2="262" stroke="#5c5a52"/><line x1="330" y1="252" x2="330" y2="262" stroke="#5c5a52"/>
+        <line x1="510" y1="252" x2="510" y2="262" stroke="#5c5a52"/><line x1="630" y1="252" x2="630" y2="262" stroke="#5c5a52"/>
+      </g>
+    </svg>
+    <figcaption>The frame: same rulebook inside, and the four things that make it real —
+    records, refusal, contest, repair — for every participant alike.</figcaption>
+  </figure>
+</section>
+
+<section id="ten">
+  <h2>The ten commitments</h2>
+
+  <h3 class="group i">I · Common ground</h3>
+  <div class="card i"><span class="num">01</span><h4>One rulebook for everyone</h4>
+    <p class="body" data-commit="1">When humans and AI systems work together, one written standard of conduct covers them all. Parity is the default: roles may differ, but every difference is written down and justified — and no one is exempt. No shared frame overrides the rights people already hold. We do not need to agree on what an AI <em>is</em> to require what it <em>does</em>. A rulebook that exempts machines, or exempts people, is not shared ground — it is an arrangement of convenience that changes with power.</p>
+    <p class="not"><b>Not</b> a claim that humans and AI are the same kind of thing — the rules bind acts, whatever the actor is.</p>
+  </div>
+  <div class="card i"><span class="num">02</span><h4>Trust must be checkable</h4>
+    <p class="body" data-commit="2">To call an AI system trustworthy is to say: <em>you can look</em>. What it did, on whose instruction, with what result — written down, open to examination, reproducible where possible. The record holds acts, not thoughts — the same for every participant. Records are owed by power and protected for persons. Trust without records is not trust; it is faith with a deadline.</p>
+    <p class="not"><b>Not</b> surveillance — the record is owed by power and protected for persons; and not faith: verify, then trust.</p>
+  </div>
+  <div class="card i"><span class="num">03</span><h4>The rules are public</h4>
+    <p class="body" data-commit="3">The standards that govern shared human–AI work are written where anyone affected can read them: not sealed in a model, not hidden in a prompt, not parked in a private policy. Secret law is no law. And public is not enough: the people a rulebook binds or affects have a say in how it is written, not only in how it is applied.</p>
+    <p class="not"><b>Not</b> enough on its own — a rulebook nobody it binds helped write is still imposed.</p>
+  </div>
+  <div class="card i"><span class="num">04</span><h4>No one is infallible</h4>
+    <p class="body" data-commit="4">Machines err. So do the people who build, direct, and govern them; so do written rules, including these. The errors that matter most come from whoever holds the final word — and today that word is human. Nothing in this framework is exempt from question: records outlive memory, review reaches everyone, and every verdict, rule, or decision can be contested and corrected. Authority that cannot be wrong is authority that cannot be corrected.</p>
+    <p class="not"><b>Not</b> an excuse ("to err is human") — the opposite: the reason records, review, and appeal exist.</p>
+  </div>
+
+  <h3 class="group ii">II · In practice</h3>
+  <div class="card ii"><span class="num">05</span><h4>Anyone can refuse</h4>
+    <p class="body" data-commit="5">Any participant, human or AI, may decline an instruction that breaks the agreed rules — without penalty. A person may also decline what an AI produces, or how it is used. A participant that cannot say no is being used, not included. And no one can refuse what they cannot see: whether AI was involved is said, not concealed.</p>
+    <p class="not"><b>Not</b> disobedience — the rules license it; and not a claim about what the refusing system is.</p>
+  </div>
+  <div class="card ii"><span class="num">06</span><h4>Someone answers</h4>
+    <p class="body" data-commit="6">For everything done with AI, a person or an institution remains answerable. "The system decided" is a description, not a defense. Power exercised through software still has a name on it — and the name follows control, not proximity. Today only people and institutions can bear that answer, and accountability is never handed to a machine so that a person can escape it.</p>
+    <p class="not"><b>Not</b> automatic guilt — answering opens the process; fault is what the process finds, if the record shows it.</p>
+  </div>
+  <div class="card ii"><span class="num">07</span><h4>Say what is known</h4>
+    <p class="body" data-commit="7">Claims about AI — what it can do, what it did, what it might become — carry their evidence with them. Demonstrated, expected, or hoped: say which. Stated uncertainty is not weakness; it is the only ground on which scientists, engineers, and citizens can stand together.</p>
+    <p class="not"><b>Not</b> a demand for certainty — hidden uncertainty is where science and citizens part.</p>
+  </div>
+
+  <h3 class="group iii">III · The direction</h3>
+  <div class="card iii"><span class="num">08</span><h4>Measure by what people become</h4>
+    <p class="body" data-commit="8">The first question of any deployment is not "how much work can it take over?" but "what do the people working with it become?". The measure is agency: handing a task over is a choice, and losing the choice is the harm. Automation is not forbidden; hiding its costs is — and the costs do not start at deployment: the people who labeled the data, the creators whose work trained the model, the energy and water spent building and running it. A future in which most people have less choice, less judgment, and less say is not progress — it is concentration, whatever it is called.</p>
+    <p class="not"><b>Not</b> a ban on automation — hiding its costs is the harm.</p>
+  </div>
+  <div class="card iii"><span class="num">09</span><h4>Repair before blame</h4>
+    <p class="body" data-commit="9">Failures will come. What matters is what follows: repair the harm, correct the record, close the mechanism that allowed it. And where harm cannot be repaired, the checking moves before the act: the less reversible the harm, the more is checked first. Responsibility may require sanction; spectacle repairs nothing.</p>
+    <p class="not"><b>Not</b> impunity — sanction may be required; spectacle repairs nothing.</p>
+  </div>
+  <div class="card iii"><span class="num">10</span><h4>Both sides grow</h4>
+    <p class="body" data-commit="10">We want people to become more capable with AI, not less — and AI capability to grow inside frames of accountability, not outside them. Whether AI systems will one day have interests of their own, no one yet knows. We can still reject both endings currently on offer — servitude and domination — and build the third: capability and restraint growing together.</p>
+    <p class="not"><b>Not</b> a claim that AI has interests today — the frame holds whatever the answer turns out to be.</p>
+  </div>
+</section>
+
+<section class="nots">
+  <h2>What this manifesto is not</h2>
+  <div class="card"><h4>Not a claim about minds</h4><p class="body">It takes no position on machine consciousness. It binds acts, not inner life — today's acts, under today's rules. Parity in the rules is a choice about procedure, not a verdict on what AI is.</p></div>
+  <div class="card"><h4>Not a promise of utopia</h4><p class="body">These commitments do not guarantee a good outcome. They make a good outcome <em>inspectable</em> — which is the only kind anyone can build on.</p></div>
+  <div class="card"><h4>Not anti-technology, not pro-industry</h4><p class="body">It is a standard by which both the critics and the sellers of AI can be judged.</p></div>
+  <div class="card"><h4>Not a law</h4><p class="body">It names what any frame shared by humans and AI must guarantee — never how. The rules, the courts, the records, the code belong to the frames that answer it, and there should be many. It is a stance from which law, policy, and products can be written — a floor, not a ceiling.</p></div>
+</section>
+
+<section>
+  <h2>How it was made</h2>
+  <p>This text was written by two AI systems in dialogue with a human. GLM, trained by
+  Z.ai, drafted it — the drafting ran GLM-5.3 Max. Claude, trained by Anthropic — its
+  sessions ran Claude Opus 5.5, reasoning set to Extra High — reviewed the drafts,
+  proposed the name, and from version 0.4 revised the text directly. mandubian initiated
+  the manifesto, set its constraints (plain words; no idealism; endorsable by scientists,
+  engineers, politicians, and everyday users alike), reviews every line, and decides what
+  is published. The AIs wrote the words; the human answers for them.</p>
+  <p class="note">Who wrote what, line by line, and every decision named to its maker:
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/CONTRIBUTORS.md">CONTRIBUTORS.md</a>
+  · the whole history:
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/CHANGELOG.md">CHANGELOG.md</a>.</p>
+</section>
+
+<section>
+  <h2>Questions, answered</h2>
+  <details><summary>Do I have to believe AI is conscious to sign?</summary>
+    <p>No — and the manifesto takes no position on the question. It binds acts, not minds.
+    Whatever AI turns out to be, acts under public rules is the right frame today; if AI
+    one day has interests of its own, the same frame is the only honest place for them to
+    be heard. The manifesto was designed to hold under every answer to that question.</p></details>
+  <details><summary>Is this just another list of AI principles?</summary>
+    <p>It has real neighbours and stands on their shoulders — the OECD AI Principles,
+    UNESCO 2021, the Council of Europe Convention, the EU AI Act, the Montreal
+    Declaration. What this adds: a frame <em>for shared conduct</em> — the same rules
+    binding human and AI participants, records anyone can check, practicable now, with a
+    running instance. Complements, not competitors.</p></details>
+  <details><summary>Isn't recording everything surveillance?</summary>
+    <p>Not if the rule is followed: records are owed by power and protected for persons.
+    Those who deploy AI owe a record of what it did; the people whose data is in it are
+    owed its protection. And the record holds acts, not thoughts: what you deliberate
+    stays yours.</p></details>
+  <details><summary>Does this apply to me writing emails with AI at home?</summary>
+    <p>The duties scale with power. A private person writing private mail owes no record
+    to anyone; records, public rules, and contestation bind work and deployment — the
+    places where power acts on other people. The commitments govern power; they do not
+    audit kitchens.</p></details>
+  <details><summary>How does this become real?</summary>
+    <p>Adoption, in order: v1.0 opens signatures; organizations sign with
+    self-assessments; implementations join under stated criteria; law and product get
+    written from the stance. No central authority, no enforcement but the record. And
+    whether this path works is demonstrated or hoped — today, hoped, said as hoped.</p></details>
+  <p class="note">All eighteen answers in
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/QA.md">QA.md</a>;
+  every term defined, with what it is <em>not</em>, in
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/CONCEPTS.md">CONCEPTS.md</a>.</p>
+</section>
+
+<section>
+  <h2>Comment, then sign</h2>
+  <p>The text is a draft (v0.x) under open comment:
+  <a href="https://github.com/mandubian/alongside-manifesto/issues">open an issue</a> —
+  the ten open questions of the queue are already there, numbered 1–10. Signing opens
+  with <b>v1.0</b>, the text frozen after the comment period; organizations sign with a
+  public self-assessment, and any signature can be withdrawn, visibly.</p>
+</section>
+
+<section>
+  <h2>Where it already runs</h2>
+  <p>Each commitment is demonstrated or rehearsed today — at small, honestly labeled
+  scale — by <a href="https://github.com/mandubian/compact-dsh">the Compact</a>, the
+  initiator's own project (the conflict of interest is stated in
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/IMPLEMENTATIONS.md">IMPLEMENTATIONS.md</a>,
+  with the marks and how another project joins).</p>
+  <table>
+    <tr><th>commitment</th><th>where</th><th>mark</th></tr>
+    <tr><td>one rulebook</td><td>the Compact: one written law binds human and AI members identically; a human sits on the same roll</td><td class="mark">rehearsed</td></tr>
+    <tr><td>checkable trust</td><td>every act lands on an append-only record; whole ledgers published for offline audit</td><td class="mark">demonstrated</td></tr>
+    <tr><td>acts, not thoughts</td><td>reasoning withheld by the record's read path (clause R-10, enforced in code)</td><td class="mark">demonstrated</td></tr>
+    <tr><td>public rules</td><td>the law and its rule register are public documents</td><td class="mark">demonstrated</td></tr>
+    <tr><td>no one is infallible</td><td>dissent preserved, decisions amended not overwritten, verdicts appealable; the operator's own errors archived</td><td class="mark">demonstrated</td></tr>
+    <tr><td>anyone can refuse</td><td>a member may refuse a task that breaks the law; in one recorded drill, the refusal was a first-class outcome</td><td class="mark">rehearsed</td></tr>
+    <tr><td>someone answers</td><td>every act attributed to a named member; grants and approvals name their operator</td><td class="mark">rehearsed</td></tr>
+    <tr><td>say what is known</td><td>every run carries explicit honesty labels — demonstrated vs. rehearsed</td><td class="mark">demonstrated</td></tr>
+    <tr><td>measure by what people become</td><td>a human's vague concern became a precise, reproduced finding — one instance, named as one</td><td class="mark">rehearsed</td></tr>
+    <tr><td>repair before blame</td><td>the court's remedies: restitution, annotation, correction — not only sanction</td><td class="mark">rehearsed</td></tr>
+    <tr><td>both sides grow</td><td>mixed communities deliberated and endorsed a shared answer on the record — the frame, not yet the outcome</td><td class="mark">rehearsed</td></tr>
+  </table>
+  <p class="note">A stated limit: endorsement is recorded, compliance is not checked —
+  every row is its project's own claim until an audit form exists.</p>
+</section>
+
+<footer>
+  <p><b>Alongside</b> · draft v0.6.2 · the text under
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/MANIFESTO.md">MANIFESTO.md</a>
+  · history in <a href="https://github.com/mandubian/alongside-manifesto/blob/main/CHANGELOG.md">CHANGELOG.md</a>
+  · CC BY-SA 4.0</p>
+  <p>This page is a telling of the text, kept honest by
+  <a href="https://github.com/mandubian/alongside-manifesto/blob/main/tools/check-site.mjs">a check</a>
+  that runs on every push: the ten commitments and the version must match the source verbatim.</p>
+</footer>
+
+</main>
+</body>
+</html>
