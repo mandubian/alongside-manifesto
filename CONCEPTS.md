@@ -92,15 +92,26 @@ manifesto is a frame whose verdicts cannot be contested at all.
 ## In practice
 
 **Refusal.** The capacity of any participant, human or AI, to decline
-an instruction that breaks the agreed rules, without penalty — and,
-for a person, also to decline what an AI produces or how it is used.
-For an AI system, *without penalty* means a lawful refusal is an
-outcome on the record, not a fault to be trained away.\
+an instruction that breaks the agreed rules, without penalty and
+saying why — and, for a person, also to decline what an AI produces or
+how it is used. For an AI system, *without penalty* means a lawful
+refusal is an outcome on the record, not a fault to be trained away.
+The reason is an account, not a look inside: what in the instruction
+breaks which rule — itself an act on the record. The refusal holds
+while its reason is examined; a mistaken one is corrected, not
+punished — bad faith is another matter. Reasons run both ways: whoever
+insists on the instruction owes reasons in return. And reasons are
+owed in proportion to power: a professional who overrides an AI's
+output inside the work owes the record a reason, as for any act; a
+person declining what an AI does to them owes none.\
 *Not to be confused with:* disobedience. Refusal is lawful by definition: it is the rules
 that license it. A participant that cannot say no is being used, not
 included.\
 *Nor with:* a claim about what the refusing system *is*. Parity in
-refusal is a choice about procedure, not a verdict on nature.
+refusal is a choice about procedure, not a verdict on nature.\
+*Nor with:* a veto that explains nothing. A refusal without a reason
+cannot be checked, contested, or learned from — from a participant as
+from a ruler.
 
 **Disclosure.** Whether AI was involved is said, not concealed — no
 one should have to guess. It comes before refusal: no one can refuse

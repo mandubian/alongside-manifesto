@@ -39,7 +39,8 @@ When an audit form exists, it joins the joining criteria below.
 
 ## Not yet shown
 
-The clauses added in v0.2 have no implementation listed yet. They are
+The clauses below — most added in v0.2, one in v0.6.6 — have no
+implementation listed yet. They are
 marked rather than left out — a gap named is commitment 7 applied. A
 clause moves into the map when a project links to where it runs.
 
@@ -49,6 +50,7 @@ clause moves into the map when a project links to where it runs.
 | records owed by power and protected for persons | 2 | not yet shown |
 | a say in writing the rules, for those they bind or affect | 3 | not yet shown |
 | disclosure — whether AI was involved is said | 5 | not yet shown |
+| a refusal says why, and whoever insists owes reasons back | 5 | not yet shown — the Compact states reasons owed (R-3, D-6); enforcement for a member's refusal not yet linked |
 | answerability follows control, not proximity | 6 | not yet shown |
 | costs counted upstream — labeling, creators, energy and water | 8 | not yet shown |
 | the less reversible the harm, the more is checked first | 9 | not yet shown |

@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.5 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.6 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
 Max), reviewed, named, and revised by Claude (Anthropic, running
@@ -65,11 +65,11 @@ that cannot be wrong is authority that cannot be corrected.
 ## II. In practice
 
 **5. Anyone can refuse.** Any participant, human or AI, may decline
-an instruction that breaks the agreed rules — without penalty. A
-person may also decline what an AI produces, or how it is used. A
-participant that cannot say no is being used, not included. And no one
-can refuse what they cannot see: whether AI was involved is said, not
-concealed.
+an instruction that breaks the agreed rules — without penalty, and
+saying why. A person may also decline what an AI produces, or how it
+is used. A participant that cannot say no is being used, not
+included. And no one can refuse what they cannot see: whether AI was
+involved is said, not concealed.
 
 **6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description,

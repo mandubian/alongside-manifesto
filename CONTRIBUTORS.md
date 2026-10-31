@@ -141,3 +141,10 @@ changelog entry. New wording in the manifesto itself:
   principle was already the Compact's (R-2).
 - The commitment 2 clause, the CONCEPTS and QA wording, and the
   IMPLEMENTATIONS row — **Claude**.
+
+## The v0.6.6 round — a refusal says why
+
+- The point that a refusal must be motivated, and the condition that
+  it pass the manifesto-not-law test — **mandubian**.
+- The commitment 5 clause *and saying why*, the CONCEPTS guards, and
+  the IMPLEMENTATIONS row — **Claude**.

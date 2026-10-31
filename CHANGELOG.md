@@ -6,6 +6,33 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.6 — 2026-10-31 (a refusal says why)
+
+The initiator asked whether commitment 5 made clear that a refusal
+must be motivated: a refusal without a reason is understandable by no
+one. It did not say so. Held to the what/how test first — could a
+court system and a peer-review community both satisfy *a refusal says
+why*? Both could — so it belongs here; *how* a reason is given (which
+rule it names, in what form, who examines it, how fast) stays with
+each frame, as it does in the Compact (R-3, D-6).
+
+- **Commitment 5** — *"Any participant, human or AI, may decline an
+  instruction that breaks the agreed rules — without penalty, **and
+  saying why**."* The only change to the commitments.
+- **CONCEPTS, *Refusal*** — the guards that keep the duty to give a
+  reason from undoing the right to refuse: the reason is an account,
+  not a look inside (acts, not thoughts); the refusal holds while its
+  reason is examined; a mistaken refusal is corrected, not punished —
+  bad faith is another matter; reasons run both ways, owed back by
+  whoever insists on the instruction; and reasons are owed in
+  proportion to power — a professional overriding an AI's output owes
+  the record one, a person declining what an AI does to them owes
+  none. New line: *not to be confused with a veto that explains
+  nothing.*
+- **IMPLEMENTATIONS** — the clause joins *not yet shown*: the Compact
+  states reasons owed, but enforcement for a member's refusal is not
+  yet linked. The site's limits note counts eight clauses.
+
 ## 0.6.5 — 2026-10-31 (everyone can read their own)
 
 The initiator asked whether *records are owed by power and protected
