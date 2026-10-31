@@ -23,6 +23,20 @@ The manifesto deliberately takes no position on the unsettled questions
 acts. Anyone — scientist, engineer, policymaker, or someone who just
 uses these tools — can endorse acts under public rules.
 
+## How it was made
+
+The manifesto was drafted by an AI — **GLM**, an AI system trained by
+Z.ai (the drafting session ran GLM-5.3) — in dialogue with its
+initiator and reviewer, **Pascal Voitot** ([mandubian](https://github.com/mandubian)),
+who set the constraints, reviewed every line, and decided to publish.
+The AI wrote the words; the human answers for them.
+
+Stated openly because it is the manifesto's first exercise: a human
+and an AI built a thing together with the division of labor named, not
+hidden. What this claims is acts — who drafted, who reviewed, who
+published — attested by the initiator, not minds; the manifesto takes
+no position on what its author is.
+
 ## Where the commitments already run
 
 The manifesto is independent of any project. But it was not written in

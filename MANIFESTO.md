@@ -1,5 +1,9 @@
 # The Positive AI Manifesto
 
+*Drafted by an AI (GLM, trained by Z.ai) for a human initiator and
+reviewer — the full account of its making is at the end. The
+manifesto's first exercise is its own origin.*
+
 The public conversation about AI offers two stories. In one, AI is a
 catastrophe in waiting — a power to fear. In the other, it is humanity's
 upgrade — a power to chase. Both stories end the same way: with people
@@ -85,6 +89,24 @@ and restraint growing together.
   which both the critics and the sellers of AI can be judged.
 - **Not a substitute for law.** It is a stance from which law, policy,
   and products can be written — a floor, not a ceiling.
+
+## The making of this manifesto
+
+This text was drafted by an AI system — GLM, trained by Z.ai — in
+dialogue with a human. Pascal Voitot initiated the manifesto, set its
+constraints (plain words; no idealism; endorsable by scientists,
+engineers, politicians, and everyday users alike), reviewed every line,
+and decided to publish. The AI wrote the words; the human answers for
+them.
+
+We say this plainly — at the top and here in full — because it is the
+manifesto's first exercise of itself: a human and an AI built something
+together, the division of labor named rather than hidden. Note what
+the claim is and is not. It is not a claim about minds: this manifesto
+takes no position on what its author is, and neither does this note.
+It is a claim about acts — who drafted, who reviewed, who decided to
+publish — attested by the initiator, the same evidence structure every
+human signature rests on.
 
 ## The third story is a build
 
