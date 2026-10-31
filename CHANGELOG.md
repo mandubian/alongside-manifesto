@@ -6,6 +6,71 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.1 — 2026-10-31 (the gaps, checked)
+
+A review of 0.5.1 and 0.6 by Claude, at the initiator's request. The
+ten commitments do not change; the version line does.
+
+- **Version line** — the manifesto still read *Version 0.5*; it now
+  reads 0.6.1.
+- **Companionship (QA)** — 0.6 put companionship out of scope because
+  the ten bind "the places where power acts on people". A companion
+  product is exactly such a place. Now: *the relationship is not in
+  scope; the deployment is* — disclosure (commitment 5), someone
+  answers (commitment 6), and dependence by design fails commitment 8.
+  0.6 also cited commitment 7 for "say what the companion is"; that is
+  commitment 5's disclosure. And it pointed to an `ISSUES.md` entry
+  that did not exist: entry 10, *Companionship*, now does.
+- **Who examines the record** — QA's surveillance answer still gave
+  the old "reviewer with a mandate" reading that 0.6 replaced in
+  CONCEPTS; it now gives the new one. CONCEPTS says what *open* means
+  in *what power did is open*: open to anyone with standing to contest
+  the act, not published to all — an act of power published whole
+  exposes the people it touched.
+- **Withdrawal (SIGNATORIES)** — 0.6 kept every withdrawn name public
+  ("endorsements do not vanish"). A private signer is a person, not a
+  power, and commitment 1's floor includes the right to erasure where
+  law gives it. Now the withdrawal stays on the record, and the name
+  is erased on request. Both signature tables gain the version signed,
+  since signatures bind to a version; the withdrawn table keeps the
+  handle.
+- **What counts as an AI system (QA)** — 0.6 said the ten apply more
+  "the less predictable the system", a second scaling rule beside
+  *the duties scale with power*. Now: the same rules bind every
+  participant, so the definition matters only where the text treats AI
+  differently (commitments 5 and 6).
+- **Wrong about minds (QA)** — rewritten without "catastrophic" (the
+  manifesto predicts no catastrophes), "prices", or "anti-servitude".
+- **Fairness (QA)** — commitment 4 says every decision can be
+  contested, not who may; the standing of the affected is cited to
+  CONCEPTS, where it lives.
+- **IMPLEMENTATIONS** — "instrumented" said plainly (*endorsement is
+  recorded, compliance is not checked*); the limit now covers
+  implementation rows and signatory self-assessments alike, not
+  self-assessments alone. The commitment-3 row reads *bind or affect*.
+- **ISSUES.md** — the preamble no longer says v0.4's open items stay
+  closed: item 3 continues there as entries 5–7. Entry 4 is marked as
+  a case of entry 3. README points to the queue.
+- **CONTRIBUTORS** — the v0.6 section moved after v0.5, where its
+  date puts it.
+
+**Corrections to earlier entries** (added here, not overwritten
+there):
+
+- *0.6* says the commitments "change by one word". They change by
+  two: *or affects*.
+- *0.6* marks open item 4 "adopted". 0.5 had closed it for the
+  manifesto as *how*; 0.6 reopened it as a CONCEPTS reading, which is
+  where *how* belongs. Both stand. 0.6 did not say where open item 3
+  went: to ISSUES, entries 5–7.
+- *0.6* counts nine ISSUES entries; with entry 10 there are ten.
+- *0.5.1* says the handle convention was applied "retroactively to
+  this whole record". It was applied to every current file. The git
+  history still carries the earlier name — in the message of the
+  making-of commit, and in the author email of the 0.4–0.5 commits,
+  made before the repository set its own git identity — and is not
+  rewritten here: rewriting it would overwrite every tagged version.
+
 ## 0.6 — 2026-10-31 (the gaps, filled)
 
 A full review pass mapped what the text and its companions did not

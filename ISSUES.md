@@ -6,8 +6,9 @@ publication; a decision on one lands in the [changelog](CHANGELOG.md)
 and its entry here closes. Nothing on this page is settled — that is
 what makes it a queue.
 
-Items already decided — v0.4's open items among them — live in the
-changelog and are not re-opened here.
+Items already decided live in the changelog and are not re-opened
+here. Of v0.4's open items, the one still undecided — item 3, the
+missing QA answers — continues here as entries 5–7.
 
 ## 1. Frame against frame
 
@@ -38,6 +39,7 @@ contest *bite*.
 
 ## 4. A say that cannot bite
 
+A case of entry 3, kept separate because it has its own proposal.
 Commitment 3 can be met by a consultation nobody could attend —
 language, literacy, time, power. A say that cannot change the outcome
 is theater with minutes kept. *Proposal:* a reading under *public
@@ -69,7 +71,7 @@ who has read the Act in full.
 
 ## 8. Measuring what people become
 
-Commitment 8 is the least instrumented of the ten: no longitudinal
+Commitment 8 is the least measured of the ten: no longitudinal
 measure of agency exists in any implementation. *Proposal:* a method
 note — what would count as evidence that people became more capable,
 collected by whom, over what time.
@@ -80,3 +82,14 @@ Until v1.0 the initiator holds the pen. After signatures open: stewards,
 a board, the signatories themselves? The README promises this question
 will be answered in the open before it arrives. This entry is that
 promise, tracked.
+
+## 10. Companionship
+
+QA draws the line: the companion relationship is private life, the
+company that deploys a companion is power, and the ten bind it. What
+the relationship itself might need is unwritten: what refusal means
+for a companion, what a relationship owes the record, where
+engagement becomes dependence by design, and how commitment 8 would
+measure it. *Proposal:* gather what companion products and their
+regulators already do, and what has gone wrong, before writing a
+word; the territory is larger than one QA answer.

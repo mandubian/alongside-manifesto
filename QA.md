@@ -67,11 +67,15 @@ satisfy it? If only one could, it is *how*.
 ### What counts as an "AI system"?
 
 The manifesto does not define it, on purpose: definitions age faster
-than commitments. The ten bind whatever system is opaque or autonomous
-enough that its acts need a record — the less predictable the system,
-the more they apply. Jurisdictions define AI for their own law (the
-EU AI Act among them); a frame may adopt any such definition without
-touching the ten.
+than commitments. It also needs a definition less than law does. The
+same rules bind every participant, human or AI, so for most of the ten
+the line does not matter. It matters only where the text treats AI
+differently: disclosure, and the right to decline what an AI produces
+(commitment 5); and the guard that accountability is never handed to a
+machine (commitment 6). There, a frame may adopt whatever definition
+its jurisdiction uses — the EU AI Act's among them — without touching
+the ten. And the duties scale with power, not with the name of the
+technology.
 
 ### Do I have to believe AI is conscious to sign?
 
@@ -83,14 +87,15 @@ manifesto was designed to hold under every answer to that question.
 
 ### What if you are wrong about minds — in either direction?
 
-Both risks are real, and the text prices both. If machine suffering
-is real and dismissed, this decade's record is catastrophic. If it is
-not real and granted anyway, moral resources wash away on software
-while people wait. The manifesto's answer to not-knowing is
-behavioral: refusal, anti-servitude, growth inside frames — the
-posture that is defensible under both answers and changes only with
-evidence. That is why it takes no position, and why it refuses to
-wait for one.
+Both mistakes are possible, and both cost something. If machines can
+suffer and that is dismissed, real harm is done without anyone
+looking. If they cannot and are treated as if they could, care and
+attention go to software while people wait. The manifesto bets on
+neither answer. It binds what holds under both: acts under public
+rules, refusal open to every participant, and commitment 10's
+rejection of both servitude and domination. If evidence settles the
+question, the frame can change with it. That is why the text takes no
+position — and why it does not wait for one.
 
 ### Is this just another list of AI principles?
 
@@ -120,9 +125,11 @@ AI is built; this governs how humans and AI work together once built.
 Under the rights floor, by design rather than omission. The rights
 people already hold (commitment 1) include equality before the rules:
 a frame that discriminates fails commitment 1 outright. Standing gives
-the discriminated a door — the affected can contest (commitment 4)
-even when they never joined; records make patterns provable, one
-decision at a time. The word is absent; the machinery is not.
+the discriminated a door — every decision can be contested
+(commitment 4), and standing belongs to the affected even when they
+never joined (*contestation* in CONCEPTS); records make patterns
+provable, one decision at a time. The word is absent; the machinery
+is not.
 
 ### What if I disagree with one commitment?
 
@@ -149,10 +156,11 @@ Not if the rule is followed: records are owed by power and protected
 for persons. Those who deploy AI owe a record of what it did; the
 people whose data is in that record are owed its protection. And the
 record holds acts, not thoughts: what you deliberate stays yours. Who
-may examine what is each frame's design — one reading: a reviewer with
-a mandate reads what a curious stranger may not. The failure mode is
-real, which is why commitment 2 states the principle in the text
-itself rather than leaving it to interpretation.
+may examine what is each frame's to design — one reading, in
+CONCEPTS: what power did is open to anyone with standing to contest
+it; who it touched is protected. The failure mode is real, which is
+why commitment 2 states the principle in the text itself rather than
+leaving it to interpretation.
 
 ### Why does the record hold acts, not thoughts?
 
@@ -191,15 +199,18 @@ they do not audit kitchens.
 
 ### What about companionship — is a friendship with AI in scope?
 
-No — and the boundary is drawn on purpose, not by oversight. The ten
-bind shared work and deployment: the places where power acts on
-people. Companionship, care, dependence, grief — the relational
-future of AI — is neither endorsed nor condemned here; a frame for it
-needs its own thinking (what refusal means for a companion, what a
-relationship owes the record, what dependence by design does to
-agency). Until such a frame exists, one clause reaches there:
-commitment 7 — say what is known, including what the companion is.
-The territory is named open in `ISSUES.md`.
+The relationship is not; the deployment is. What passes between a
+person and an AI companion is private life, and the commitments do not
+audit private life — companionship, care, grief are neither endorsed
+nor condemned here. But a companion is also a product: a company
+builds it, tunes it, and profits from it, and that is power acting on
+people, some of them lonely, some of them young. There the ten apply
+as anywhere else. Whether AI is involved is said (commitment 5).
+Someone answers for what the companion does (commitment 6). And a
+companion designed so that its users need it more and manage less
+fails commitment 8, which measures by what people become. What the
+relationship itself might need — what refusal means inside it, what it
+owes the record — is open: [ISSUES.md](ISSUES.md), entry 10.
 
 ### Can an AI sign this manifesto?
 

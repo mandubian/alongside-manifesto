@@ -29,11 +29,12 @@ Honest scale note: all of these are small, deliberately labeled
 rehearsals — proof the commitments are *practicable*, not claims the
 problem is solved.
 
-A second limit, stated the same way: **endorsement is instrumented,
-compliance is not.** Organization self-assessments are
-self-attestations; no third-party audit of a row exists yet. A mark
-says what was *shown*, not what is continuously true. When an audit
-form exists, it joins the joining criteria below.
+A second limit, stated the same way: **endorsement is recorded,
+compliance is not checked.** Every row here is its project's own
+claim, as every organization's self-assessment in
+[SIGNATORIES.md](SIGNATORIES.md) is its own; no third-party audit of
+either exists yet. A mark says what was *shown*, not what stays true.
+When an audit form exists, it joins the joining criteria below.
 
 ## Not yet shown
 
@@ -45,7 +46,7 @@ clause moves into the map when a project links to where it runs.
 |---|---|---|
 | no shared frame overrides the rights people already hold | 1 | not yet shown |
 | records owed by power and protected for persons | 2 | not yet shown |
-| a say in writing the rules, not only in applying them | 3 | not yet shown |
+| a say in writing the rules, for those they bind or affect | 3 | not yet shown |
 | disclosure — whether AI was involved is said | 5 | not yet shown |
 | answerability follows control, not proximity | 6 | not yet shown |
 | costs counted upstream — labeling, creators, energy and water | 8 | not yet shown |

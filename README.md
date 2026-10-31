@@ -16,7 +16,8 @@ independent of any project, endorsed in the open.
   commitment is demonstrated or rehearsed today, and how another
   project joins.
 - **Comment on it:** open an issue — the text is a draft (v0.x) under
-  open comment. Signing opens with v1.0, the text frozen after the
+  open comment; until the repository is public, the open questions are
+  queued in [ISSUES.md](ISSUES.md). Signing opens with v1.0, the text frozen after the
   comment period ([SIGNATORIES.md](SIGNATORIES.md)).
 
 ## Why this exists

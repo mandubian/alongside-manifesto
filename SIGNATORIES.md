@@ -32,20 +32,25 @@ draft, and comments go to issues. From v1.0:
 - **Organizations** sign with a public self-assessment against the ten
   commitments — a link in the row. An endorsement that cannot be
   checked is not an endorsement.
-- **Withdrawing** — a signature is yours to take back: by pull request,
-  your row moves to the withdrawn list below with its date (a reason
-  is welcome, never required). Endorsements amend on the record; they
-  do not vanish.
+- **Withdrawing** — a signature is yours to take back: by pull request
+  or issue, your row moves to the withdrawn list below with its date (a
+  reason is welcome, never required). The withdrawal stays on the
+  record; your name need not. On request, the row keeps only the
+  version, the dates, and the words *withdrawn and erased at the
+  signer's request* — records are owed by power and protected for
+  persons, and a private signer is a person. The git history still
+  holds the original row; where the law gives a right to erasure,
+  that right comes first (commitment 1).
 
-| Name | Handle / verification | Affiliation (optional) | Date |
-|---|---|---|---|
-| — be the first — | | | |
+| Name | Handle / verification | Affiliation (optional) | Version | Date |
+|---|---|---|---|---|
+| — be the first — | | | | |
 
 ## Withdrawn
 
-| Name | Date | Reason (optional) |
-|---|---|---|
-| — none — | | |
+| Name | Handle | Version signed | Signed | Withdrawn | Reason (optional) |
+|---|---|---|---|---|---|
+| — none — | | | | | |
 
 ## Beyond individual signatures
 

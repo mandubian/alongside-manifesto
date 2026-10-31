@@ -29,7 +29,9 @@ record; the people inside it are owed its protection. Who may examine
 what is each frame's to design — one reading: *what power did is
 open; who it touched is protected.* The split cannot be gamed by its
 own subject: a deployer may protect the people in the record, never
-its own acts.
+its own acts. *Open* means open to anyone with standing to contest the
+act, the affected among them — not published to all, since an act of
+power published whole exposes the people it touched.
 *Not:* distrust, and not faith. It is the third thing: verify, then
 trust. Assurance without records asks for the second.
 *Also not:* surveillance. A record of acts is owed by those with power

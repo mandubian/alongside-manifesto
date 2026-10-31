@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.5 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.1 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (trained by Z.ai), reviewed,
 named, and revised by Claude (trained by Anthropic) — for a human

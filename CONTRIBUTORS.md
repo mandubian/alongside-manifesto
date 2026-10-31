@@ -42,15 +42,6 @@ Points of the review not adopted, with reasons, are recorded in the
 v0.2 changelog entry and its linked discussion when the repository
 goes public.
 
-## The gap round (v0.6)
-
-- The deep review that mapped the gaps — **GLM**; the order to fill
-  them — **mandubian**.
-- Standing for the affected and the who-examines split — originally
-  **Claude**'s v0.4 open items 2 and 4; adopted here on the review's
-  recommendation.
-- All v0.6 wording — **GLM**, reviewed and decided by **mandubian**.
-
 ## The naming round (v0.3)
 
 - The original four replacement names (GLM's proposal) — the Mixed
@@ -105,3 +96,22 @@ changelog entry. New wording in the manifesto itself:
   on what AI is* — Claude.
 - The subtitle *A manifesto for humans and AI under one written law* —
   Claude.
+
+## The gap round (v0.6)
+
+- The deep review that mapped the gaps — **GLM**; the order to fill
+  them — **mandubian**.
+- Standing for the affected and the who-examines split — originally
+  **Claude**'s v0.4 open items 2 and 4; adopted here on the review's
+  recommendation.
+- All v0.6 wording — **GLM**, reviewed and decided by **mandubian**.
+
+## The v0.6.1 review (Claude, at the initiator's request)
+
+- The review of v0.5.1–v0.6 and every fix in the 0.6.1 entry —
+  **Claude**; ordered by **mandubian**.
+- New wording: the companionship answer (*the relationship is not; the
+  deployment is*), the definition answer (*the duties scale with power,
+  not with the name of the technology*), the minds answer rewritten,
+  *open* defined as open to anyone with standing, erasure on
+  withdrawal, and ISSUES entry 10 — **Claude**.
