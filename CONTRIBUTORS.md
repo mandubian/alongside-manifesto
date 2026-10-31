@@ -133,3 +133,11 @@ changelog entry. New wording in the manifesto itself:
 - The *Power* entry, the *Answerable* wording, commitment 6's *in law*,
   the rewritten QA answer, and the new *at fault without being liable*
   answer with its checked legal references — **Claude**.
+
+## The v0.6.5 round — everyone can read their own
+
+- The question *does "protected for persons" mean only power reads the
+  record — can one at least read one's own?* — **mandubian**; the
+  principle was already the Compact's (R-2).
+- The commitment 2 clause, the CONCEPTS and QA wording, and the
+  IMPLEMENTATIONS row — **Claude**.

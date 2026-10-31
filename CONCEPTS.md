@@ -31,7 +31,11 @@ open; who it touched is protected.* The split cannot be gamed by its
 own subject: a deployer may protect the people in the record, never
 its own acts. *Open* means open to anyone with standing to contest the
 act, the affected among them — not published to all, since an act of
-power published whole exposes the people it touched.\
+power published whole exposes the people it touched. And everyone,
+human or AI, can read their own record: the acts they did, the acts
+done in their name, and the acts that touched them. No one can contest
+what they cannot read. Only what would expose someone else the record
+protects is withheld — never the whole.\
 *Not to be confused with:* distrust, nor with faith. It is the third
 thing: verify, then trust. Assurance without records asks for the
 second.\

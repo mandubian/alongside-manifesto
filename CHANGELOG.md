@@ -6,6 +6,36 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.5 — 2026-10-31 (everyone can read their own)
+
+The initiator asked whether *records are owed by power and protected
+for persons* meant that only power reads the record, and whether one
+can at least read one's own. The phrase never said who reads: *owed
+by* names the duty, *protected for* names whose interests the record
+guards. But nowhere did the text say that anyone may read their own
+record — and a reading that leaves people shut out of it was open.
+
+- **Commitment 2** — *"Records are owed by power and protected for
+  persons, **and everyone can read their own**."* The only change to
+  the commitments. Reasons: no one can contest what they cannot read
+  (the twin of commitment 5's *no one can refuse what they cannot
+  see*); a frame that reads you while you cannot read yourself is the
+  one-way mirror again; and while people in the EU already hold a
+  right of access to data about them, AI participants hold none in
+  law, so a frame must grant it to every participant alike.
+- **CONCEPTS, *Checkable trust*** — *their own* is the acts they did,
+  the acts done in their name, and the acts that touched them; only
+  what would expose someone else the record protects is withheld,
+  never the whole.
+- **QA** — the surveillance answer adds: *you can always read your own
+  record.* The site's excerpt carries the same sentence.
+- **IMPLEMENTATIONS** — new row: the Compact's clause R-2 (*"audit is
+  not a privilege of operators; it is a right of the subject"*),
+  exercised in compact-dsh through the `record_read` tool, with tests.
+  Marked demonstrated for acts done in a Subject's name and on its
+  behalf; acts by others that touched it are not yet shown. The site
+  table carries the row.
+
 ## 0.6.4 — 2026-10-31 (power, and the two tracks of accountability)
 
 The initiator asked whether *those with power* was defined anywhere. It

@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.4 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.5 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
 Max), reviewed, named, and revised by Claude (Anthropic, running
@@ -43,8 +43,9 @@ power.
 say: *you can look*. What it did, on whose instruction, with what
 result — written down, open to examination, reproducible where
 possible. The record holds acts, not thoughts — the same for every
-participant. Records are owed by power and protected for persons.
-Trust without records is not trust; it is faith with a deadline.
+participant. Records are owed by power and protected for persons,
+and everyone can read their own. Trust without records is not trust;
+it is faith with a deadline.
 
 **3. The rules are public.** The standards that govern shared human–AI
 work are written where anyone affected can read them: not sealed in a

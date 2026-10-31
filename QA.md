@@ -195,8 +195,9 @@ predicts no catastrophes.
 Not if the rule is followed: records are owed by power and protected
 for persons. Those who deploy AI owe a record of what it did; the
 people whose data is in that record are owed its protection. And the
-record holds acts, not thoughts: what you deliberate stays yours. Who
-may examine what is each frame's to design — one reading, in
+record holds acts, not thoughts: what you deliberate stays yours. You
+can always read your own record — the acts you did and the acts that
+touched you. Who may examine what else is each frame's to design — one reading, in
 CONCEPTS: what power did is open to anyone with standing to contest
 it; who it touched is protected. The failure mode is real, which is
 why commitment 2 states the principle in the text itself rather than
