@@ -103,3 +103,14 @@ engagement becomes dependence by design, and how commitment 8 would
 measure it. *Proposal:* gather what companion products and their
 regulators already do, and what has gone wrong, before writing a
 word; the territory is larger than one QA answer.
+
+## 11. The review points not adopted — the discussion promised
+
+CONTRIBUTORS promises a linked discussion, once the repository is
+public, for the review points that were judged and declined. The
+repository is public; the discussion is due. The declined points and
+their recorded reasons live in the changelog — v0.2's "servitude" and
+"both sides" (kept, with reasons) and the two-stories caricature
+(taken in part) among them. *Proposal:* open the issue, list the
+points with their reasons, and invite the argument to reopen any of
+them; closing it leaves the record as it stands.

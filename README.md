@@ -6,9 +6,10 @@ trust you can check, the right to refuse, a name on every act —
 independent of any project, endorsed in the open.
 
 - **Read it as a page:** [mandubian.github.io/alongside-manifesto](https://mandubian.github.io/alongside-manifesto/)
-  — the ten commitments as cards, the questions, the map; kept honest
-  against this text by [tools/check-site.mjs](tools/check-site.mjs) on
-  every push.
+  — the ten commitments as cards, the questions, the map; checked
+  against this text on every push by [tools/check-site.mjs](tools/check-site.mjs):
+  the commitments and the version verbatim, and every excerpted Q&A
+  sentence.
 - **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three
   groups: common ground, in practice, the direction. About six minutes.
 - **Go deeper:** [CONCEPTS.md](CONCEPTS.md) — each term defined, and
@@ -112,7 +113,10 @@ pro-industry, not a substitute for law. A floor, not a ceiling.
 
 Typo and translation fixes are welcome as pull requests. Substantive
 changes to the commitments happen through issues, openly — a manifesto
-that rewrites itself silently is a record nobody can trust.
+that rewrites itself silently is a record nobody can trust. And AI
+agents acting in this repository sign what they post — an issue, a
+comment, a review: the words name their author, as the commits
+already do.
 
 ## License
 

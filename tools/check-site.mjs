@@ -2,9 +2,11 @@
 // check-site — the telling must match the text.
 //
 // docs/index.html mirrors MANIFESTO.md: the ten commitments and the
-// version line must appear verbatim (whitespace-normalized), and every
-// Q&A question excerpted on the page must exist in QA.md. Run on every
-// push (.github/workflows/check.yml). Zero dependencies.
+// version line must appear verbatim (whitespace-normalized); every
+// Q&A question excerpted on the page must exist in QA.md, and every
+// excerpted sentence must exist in it verbatim — an excerpt may be
+// shorter than the answer, never different from it. Run on every push
+// and PR (.github/workflows/check.yml). Zero dependencies.
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -16,6 +18,7 @@ const html = readFileSync(join(root, 'docs', 'index.html'), 'utf8');
 
 const norm = (s) => s
   .replace(/<\/?[a-z][^>]*>/gi, '')        // strip tags entirely (page side)
+  .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // md links keep their text
   .replace(/\*\*/g, '').replace(/\*/g, '') // strip md emphasis (text side)
   .replace(/\s+/g, ' ')
   .trim();
@@ -39,7 +42,16 @@ for (const para of paras) {
   check(page.includes(title.trim().replace(/\.$/, '')), `commitment ${n}'s title appears on the page`);
 }
 
-// 3 · every Q&A question on the page exists in QA.md
+// 3 · every Q&A question on the page exists in QA.md, and every
+//     excerpted sentence exists in it verbatim — an excerpt may be
+//     shorter than the answer, never different from it
+const qaNorm = norm(qa);
+const excerpts = [...html.matchAll(/<summary>([^<]+)<\/summary>\s*<p>([\s\S]*?)<\/p>/g)];
+for (const [, q, a] of excerpts) {
+  for (const sentence of norm(a).split(/(?<=[.?!])\s+/)) {
+    check(qaNorm.includes(sentence), `excerpt sentence exists in QA.md — "${sentence.slice(0, 60)}…" (question: ${q.trim()})`);
+  }
+}
 const questions = [...html.matchAll(/<summary>([^<]+)<\/summary>/g)].map((m) => m[1].trim());
 for (const q of questions) {
   check(qa.includes(q), `Q&A excerpt "${q}" exists in QA.md`);
