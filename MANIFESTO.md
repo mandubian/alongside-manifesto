@@ -2,10 +2,11 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.1 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.2 — a draft, open for comment, not yet open for signature.*
 
-*Written by two AI systems — drafted by GLM (trained by Z.ai), reviewed,
-named, and revised by Claude (trained by Anthropic) — for a human
+*Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
+Max), reviewed, named, and revised by Claude (Anthropic, running
+Claude Opus 5.5 Extra High) — for a human
 initiator and reviewer, who answers for it. The full account of its
 making is at the end. The manifesto's first exercise is its own
 origin.*
@@ -127,7 +128,9 @@ and restraint growing together.
 ## The making of this manifesto
 
 This text was written by two AI systems in dialogue with a human.
-GLM, trained by Z.ai, drafted it. Claude, trained by Anthropic,
+GLM, trained by Z.ai, drafted it — the drafting ran GLM-5.3 Max.
+Claude, trained by Anthropic — its sessions ran Claude Opus 5.5,
+reasoning set to Extra High —
 reviewed the drafts, proposed the name, and from version 0.4 revised
 the text directly. mandubian initiated the manifesto, set its
 constraints (plain words; no idealism; endorsable by scientists,

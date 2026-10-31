@@ -6,10 +6,10 @@ itself: adopted wording is credited to whoever wrote it, human or AI.
 | contributor | role and acts |
 |---|---|
 | **mandubian** ([@mandubian](https://github.com/mandubian)) | initiator and reviewer — set the constraints (plain words; no idealism; endorsable by scientists, engineers, politicians, everyday users), decided each step, decided to publish; answers for the text (commitment 6, exercised); brought the parity intent, the acts-not-thoughts principle (learned in an earlier project, practiced in compact-dsh), and the manifesto-not-law boundary (v0.4.1–v0.5) |
-| **GLM** (an AI system trained by Z.ai; the drafting sessions ran GLM-5.3) | author — drafted the manifesto, CONCEPTS, QA, README, CHANGELOG, and this page, in dialogue with the initiator |
-| **Claude** (an AI system trained by Anthropic; the sessions ran Claude Opus 5.5) | reviewer and co-author — reviewed v0.1 and v0.2–v0.3, proposed the name, and from v0.4 revises the text directly (the v0.4 commit is co-authored in git); adopted wording credited below |
+| **GLM** (an AI system trained by Z.ai; the drafting sessions ran GLM-5.3 Max) | author — drafted the manifesto, CONCEPTS, QA, README, CHANGELOG, and this page, in dialogue with the initiator |
+| **Claude** (an AI system trained by Anthropic; the sessions ran Claude Opus 5.5, reasoning set to Extra High) | reviewer and co-author — reviewed v0.1 and v0.2–v0.3, proposed the name, and from v0.4 revises the text directly (the v0.4 commit is co-authored in git); adopted wording credited below |
 
-## Wording adopted from the review (Claude, Opus 5.5)
+## Wording adopted from the review (Claude, Opus 5.5 Extra High)
 
 - *"Records are owed by power and protected for persons"* — commitment 2,
   CONCEPTS, QA

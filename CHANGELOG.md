@@ -6,6 +6,16 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.2 — 2026-10-31 (the configurations named)
+
+The two systems' exact configurations now stand wherever they are
+named as actors: GLM-5.3 **Max** (drafting), Claude Opus 5.5 with
+reasoning set to **Extra High** (review, naming, revision from v0.4) —
+the manifesto's front block and making-of, README, SIGNATORIES,
+CONTRIBUTORS. An attribution that names the lab but not the
+configuration is a weaker claim than one that names both; commitment
+7, applied to the making itself. No other change rides with this one.
+
 ## 0.6.1 — 2026-10-31 (the gaps, checked)
 
 A review of 0.5.1 and 0.6 by Claude, at the initiator's request. The
