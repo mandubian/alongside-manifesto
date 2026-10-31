@@ -5,6 +5,10 @@ future built on inspectable ground — the same rules for everyone,
 trust you can check, the right to refuse, a name on every act —
 independent of any project, endorsed in the open.
 
+- **Read it as a page:** [mandubian.github.io/alongside-manifesto](https://mandubian.github.io/alongside-manifesto/)
+  — the ten commitments as cards, the questions, the map; kept honest
+  against this text by [tools/check-site.mjs](tools/check-site.mjs) on
+  every push.
 - **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three
   groups: common ground, in practice, the direction. About six minutes.
 - **Go deeper:** [CONCEPTS.md](CONCEPTS.md) — each term defined, and
