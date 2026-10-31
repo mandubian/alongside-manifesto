@@ -13,7 +13,8 @@ direction.
 **One rulebook.** One written standard of conduct covers every
 participant in shared work — human and AI alike. Roles may differ
 (doctor and patient, user and system), but every difference is written
-down and justified, and no one is exempt. For an AI system, *bound*
+down and justified, and no one is exempt. No shared frame overrides
+the rights people already hold. For an AI system, *bound*
 means three things: its acts are measured against the rules; it is
 expected to refuse instructions that break them; and people remain
 answerable for it.
@@ -21,7 +22,7 @@ answerable for it.
 we must settle what AI *is* before rules apply. The rules bind acts,
 whatever the actor turns out to be.
 
-**Checkable trust.** Trust grounded in records anyone can examine —
+**Checkable trust.** Trust grounded in records that can be examined —
 what was done, on whose instruction, with what result. Records are
 owed by power and protected for persons: those who deploy AI owe the
 record; the people inside it are owed its protection; examination
@@ -32,9 +33,12 @@ trust. Assurance without records asks for the second.
 over the act — not extracted from the people subject to it.
 
 **Public rules.** Standards written where anyone affected can read
-them.
+them — and written with a say for the people they bind, not only
+applied to them.
 *Not:* inside a model's weights, a system prompt, or a private policy
 changed overnight. Secret law is no law.
+*Also not:* enough on its own. A rulebook anyone can read, but that no
+one it binds helped write, is still imposed.
 
 **No one is infallible.** Machines, makers, governors, written rules —
 and this document — all err; the errors that matter most come from
@@ -56,19 +60,33 @@ agreed rules — for an AI system a safeguard the rules *require*, for a
 person a right the rules *protect*: declining outputs or uses, without
 penalty.
 *Not:* disobedience. Refusal is lawful by definition: it is the rules
-that license it. A participant that cannot say no is being used, not
+that license it. A person who cannot say no is being used, not
 included. The asymmetry is deliberate and stated: safeguard for the
 system, right for the person — nothing here turns on what the system
 *is*.
 
+**Disclosure.** Whether AI was involved is said, not concealed — no
+one should have to guess. It comes before refusal: no one can refuse
+what they cannot see.
+*Not:* a label on every sentence a person drafts with help. It binds
+work and deployment, where AI acts on people; a person who sends words
+under their own name answers for them — as the initiator does for this
+text.
+
 **Answerable.** A person or institution must *answer* for everything
 done with AI: explain it, face the consequences of the explanation.
+The answer follows control, not proximity: those who design, deploy,
+and profit from an act answer in proportion to their power over it.
 *Not:* automatic guilt. Answering opens the process; fault is what the
 process finds, if the record shows it. "The system decided" describes;
 it does not excuse.
-*Also not:* a permanent arrangement. Accountability follows the
-capacity to bear it — today that capacity is human and institutional;
-if it ever grows elsewhere, it is earned, never assigned as an escape.
+*Also not:* blame for whoever stood nearest — the operator who absorbs
+a system's failure while its designers walk away, what Madeleine Clare
+Elish named the *moral crumple zone* (2019).
+*Nor:* a permanent arrangement. Accountability follows the capacity to
+bear it — today that capacity is human and institutional; if it ever
+grows elsewhere, it is earned, and never handed to a machine so that a
+person can escape it.
 
 **Say what is known.** Every claim carries its evidence status:
 demonstrated, expected, or hoped — said which.
@@ -79,13 +97,20 @@ they part.
 ## The direction
 
 **Measure by what people become.** The first question of a deployment
-is what the people working with it gain in skill, judgment, and say.
-*Not:* a ban on automation. What is forbidden is hiding automation's
-costs — a future of less skill and less call, whatever it is named, is
-concentration.
+is what the people working with it gain in agency: judgment, say, and
+the choice of what to hand over. Handing a task over is a choice;
+losing the choice is the harm.
+*Not:* a ban on automation, nor a demand that everyone keep every
+skill. What is forbidden is hiding automation's costs — including the
+ones that do not start at deployment: the people who labeled the data,
+the creators whose work trained the model, the energy and water spent
+building and running it. A future of less choice and less say,
+whatever it is named, is concentration.
 
 **Repair.** After a failure: repair the harm, correct the record,
-close the mechanism that allowed it.
+close the mechanism that allowed it. Where harm cannot be repaired,
+the checking moves before the act: the less reversible the harm, the
+more is checked first.
 *Not:* impunity. Sanction may be required; spectacle repairs nothing.
 Responsibility is measured by what follows the failure, not the noise
 around it.

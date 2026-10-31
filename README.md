@@ -6,7 +6,7 @@ trust you can check, the right to refuse, a name on every act —
 independent of any project, endorsed in the open.
 
 - **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three
-  groups: common ground, in practice, the direction. Three minutes.
+  groups: common ground, in practice, the direction. About six minutes.
 - **Go deeper:** [CONCEPTS.md](CONCEPTS.md) — each term defined, and
   what it is *not*; [QA.md](QA.md) — the questions careful readers
   ask, answered. The manifesto names *what* any shared human–AI frame
@@ -15,8 +15,9 @@ independent of any project, endorsed in the open.
 - **See it run:** [IMPLEMENTATIONS.md](IMPLEMENTATIONS.md) — where each
   commitment is demonstrated or rehearsed today, and how another
   project joins.
-- **Sign it:** add a row to [SIGNATORIES.md](SIGNATORIES.md) by pull
-  request, or open an issue titled *Endorse*.
+- **Comment on it:** open an issue — the text is a draft (v0.x) under
+  open comment. Signing opens with v1.0, the text frozen after the
+  comment period ([SIGNATORIES.md](SIGNATORIES.md)).
 
 ## Why this exists
 
@@ -25,14 +26,15 @@ and upgrade — and both end with people standing aside. The third story,
 humans and AI doing real work together under shared, inspectable rules,
 is where most of the actual future will happen. It is not a story
 without ancestors: Licklider's man-computer symbiosis (1960),
-Engelbart's augmenting human intellect (1962), human-centered AI, and
-AI-as-normal-technology told versions of it — and Elinor Ostrom mapped
-how commons are governed by the people they bind: rules written by
-those bound, monitoring, graduated sanctions, conflict resolution.
-Four of this manifesto's commitments, in her vocabulary. What none of
-them supplied is the frame this page adds: one rulebook for human and
-AI participants alike, refusal and answerability running both
-directions, records anyone can check.
+Engelbart's augmenting human intellect (1962), Shneiderman's
+human-centered AI (2022), and Narayanan and Kapoor's AI as normal
+technology (2025) told versions of it — and Elinor Ostrom mapped how
+commons are governed by the people they bind: rules written by those
+bound, monitoring, graduated sanctions, conflict resolution. Four of
+this manifesto's commitments, in her vocabulary. What this page adds
+is a frame: one rulebook for human and AI participants alike, refusal
+as a safeguard for systems and a right for people, answerability that
+follows control, records owed by power and protected for persons.
 
 The manifesto deliberately takes no position on the unsettled questions
 (machine minds, long-run safety). It binds what can already be observed:
@@ -42,17 +44,21 @@ uses these tools — can endorse acts under public rules.
 ## How it was made
 
 The manifesto was drafted by an AI — **GLM**, an AI system trained by
-Z.ai (the drafting session ran GLM-5.3) — in dialogue with its
+Z.ai (the drafting sessions ran GLM-5.3) — in dialogue with its
 initiator and reviewer, **Pascal Voitot** ([mandubian](https://github.com/mandubian)),
-who set the constraints, reviewed every line, and decided to publish.
-The AI wrote the words; the human answers for them. Who wrote what
-since, human or AI, is named in [CONTRIBUTORS.md](CONTRIBUTORS.md).
+who set the constraints, reviews every line, and decides what is
+published. A second AI — **Claude**, an AI system trained by Anthropic
+(the sessions ran Claude Opus 5.5) — reviewed the drafts, proposed the
+name, and from v0.4 revises the text directly. The AIs wrote the
+words; the human answers for them. Who wrote what, line by line, is
+named in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 Stated openly because it is the manifesto's first exercise: a human
-and an AI built a thing together with the division of labor named, not
-hidden. What this claims is acts — who drafted, who reviewed, who
-published — attested by the initiator, not minds; the manifesto takes
-no position on what its author is. The text's evolution is checkable
+and two AI systems from two labs built a thing together with the
+division of labor named, not hidden. What this claims is acts — who
+drafted, who reviewed, who revised, who published — attested by the
+initiator, not minds; the manifesto takes no position on what its
+authors are. The text's evolution is checkable
 in the git history and the [changelog](CHANGELOG.md); the drafting
 dialogue itself is attested by the initiator, not published.
 

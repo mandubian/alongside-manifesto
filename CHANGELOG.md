@@ -6,6 +6,96 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.4 — 2026-10-31 (the companion files catch up)
+
+Written by Claude (Anthropic) at the initiator's request, after its
+review of v0.2–v0.3; GLM paused meanwhile. Most of this round is
+consistency: v0.2 changed the manifesto, and the files around it had
+not followed.
+
+- **Authorship** — Claude added to the manifesto's authors (top line,
+  making-of, README, SIGNATORIES, CONTRIBUTORS): GLM drafted; Claude
+  reviewed, named, and from v0.4 revises; the initiator reviews every
+  line and decides.
+- **Contradictions removed:**
+  - "refusal and answerability run both directions" (README, QA) —
+    false since v0.2: refusal is asymmetric, and only people and
+    institutions answer today.
+  - "this manifesto declines to answer" the personhood question (QA) —
+    commitment 6 does answer it: *not today, and only if earned*. QA
+    now says so.
+  - "Rules that bind only machines, or only people, are not shared
+    ground" (commitment 1) — false since the roles clause and
+    commitment 5's asymmetry. Now: *a rulebook that exempts machines,
+    or exempts people, is not shared ground.*
+  - "records anyone can check / examine" (README, QA, CONCEPTS) —
+    contradicted commitment 2's privacy clause.
+  - Signing: the README invited signatures while governance reserves
+    them for v1.0. Signing now opens with v1.0; until then, comments.
+  - The deliberation endorsement was "demonstrated" in SIGNATORIES and
+    "rehearsed" in IMPLEMENTATIONS; now rehearsed in both.
+- **Wording** — commitment 3 (*secret law is no law* back in its place;
+  *public is not enough*); 5 (disclosure tied to refusal: *no one can
+  refuse what they cannot see*); 6 (pronouns that had no referent; the
+  guard stated on its own: *accountability is never handed to a
+  machine so that a person can escape it*); 8 (*building and running*;
+  *less choice*, matching the agency measure); 9 (*the more is checked
+  first*).
+- **CONCEPTS** brought in line with v0.2: the rights floor, a say in
+  writing the rules, a new *Disclosure* entry, answerability follows
+  control, the agency measure and upstream costs, checking before
+  irreversible acts; the typo "less call" gone.
+- **IMPLEMENTATIONS** — the v0.2 clauses listed as *not yet shown*.
+- **The manifesto states its version** under its subtitle, so copies
+  that travel without this file still say what they are.
+- **Attribution** — the *moral crumple zone* is Madeleine Clare
+  Elish's term (2019), not the reviewer's; CONTRIBUTORS corrected.
+  README names Shneiderman, and Narayanan and Kapoor.
+- **Links** — QA and SIGNATORIES point to IMPLEMENTATIONS.md, not the
+  README section that only points there.
+- **Reading time** — the README promised three minutes; the text is
+  now about 1,450 words, so it says about six. Moving the door out of
+  commitment 6 (open item 1 below) would win some of it back.
+
+**Corrections to earlier entries** (added here, not overwritten
+there):
+
+- *0.2* calls the review's versioning and changelog points "stale".
+  They were current when written — the review read commit `1ba528c`,
+  before `b08bd3a` added this file — and already done when they were
+  triaged: parallel, not stale. (The reviewer is a party to this
+  correction; the git history is the evidence.)
+- *0.3* says no manifesto or movement claims the name. True as
+  written, but an AI company uses it: Alongside (alongside.care), a
+  mental-health chatbot sold to US schools. Not a collision of kind,
+  but a search for "Alongside AI" finds it first, so the name should
+  travel with its subtitle.
+- *0.3* says the manifesto "declines" the personhood question; see
+  above.
+
+**Open — proposed, awaiting the initiator's decision** (each becomes an
+issue when the repository goes public):
+
+1. **Move the door out of commitment 6.** Keep the guard in the text;
+   move the conditions for future AI accountability to QA. The
+   condition "holding something to lose" can be gamed: a stake a
+   deployer assigns to an agent — a wallet, a bond — is the very escape
+   the guard forbids. And it is the most contested sentence in a text
+   meant to be signed by everyone; QA's own line applies: *the guard
+   matters more than the forecast.*
+2. **Standing for the affected.** v0.2 gave a say to *the people a
+   rulebook binds* but dropped *and those it affects*, with no reason
+   recorded. People on the receiving end of an AI decision are not
+   bound by the rulebook, so as written they have neither a say nor a
+   defined standing to contest (CONCEPTS, *Contestation*).
+3. **QA answers still missing:** open-weight models (who answers along
+   the chain from developer to fine-tuner to deployer), military AI,
+   and how this text relates to the EU AI Act.
+4. **Who may examine the record.** "Examination follows role and need,
+   never curiosity" protects persons, but a deployer can also use it to
+   refuse scrutiny of what it did. Proposed: *what power did is open;
+   who it touched is protected.*
+
 ## 0.3 — 2026-10-31 (the naming, and the fixes that rode with it)
 
 - **The manifesto is named: *Alongside*** — one written law for humans

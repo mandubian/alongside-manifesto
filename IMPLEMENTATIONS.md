@@ -2,8 +2,8 @@
 
 The manifesto is independent of any project. This page maps each
 commitment to where it is **demonstrated** (running as claimed) or
-**rehearsed** (running at small scale, honestly labeled) today, and
-says how another project joins.
+**rehearsed** (running at small scale, honestly labeled) today — or
+marks it **not yet shown** — and says how another project joins.
 
 **Conflict of interest, stated:** the only entry so far is the Compact,
 the initiator's own project. That is a statement of fact, not a
@@ -27,6 +27,22 @@ recommendation — the page exists so it stops being true.
 Honest scale note: all of these are small, deliberately labeled
 rehearsals — proof the commitments are *practicable*, not claims the
 problem is solved.
+
+## Not yet shown
+
+The clauses added in v0.2 have no implementation listed yet. They are
+marked rather than left out — a gap named is commitment 7 applied. A
+clause moves into the map when a project links to where it runs.
+
+| clause | commitment | mark |
+|---|---|---|
+| no shared frame overrides the rights people already hold | 1 | not yet shown |
+| records owed by power and protected for persons | 2 | not yet shown |
+| a say in writing the rules, not only in applying them | 3 | not yet shown |
+| disclosure — whether AI was involved is said | 5 | not yet shown |
+| answerability follows control, not proximity | 6 | not yet shown |
+| costs counted upstream — labeling, creators, energy and water | 8 | not yet shown |
+| the less reversible the harm, the more is checked first | 9 | not yet shown |
 
 ## Joining
 

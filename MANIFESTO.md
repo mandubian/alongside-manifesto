@@ -2,9 +2,13 @@
 
 *One written law for humans and AI — a manifesto.*
 
-*Drafted by an AI (GLM, trained by Z.ai) for a human initiator and
-reviewer — the full account of its making is at the end. The
-manifesto's first exercise is its own origin.*
+*Version 0.4 — a draft, open for comment, not yet open for signature.*
+
+*Written by two AI systems — drafted by GLM (trained by Z.ai), reviewed,
+named, and revised by Claude (trained by Anthropic) — for a human
+initiator and reviewer, who answers for it. The full account of its
+making is at the end. The manifesto's first exercise is its own
+origin.*
 
 The public conversation about AI offers two stories. In one, AI is a
 catastrophe in waiting — a power to fear. In the other, it is humanity's
@@ -29,10 +33,10 @@ start.
 together, one written standard of conduct covers them all. Roles may
 differ, but every difference is written down and justified — and no
 one is exempt. No shared frame overrides the rights people already
-hold. We do not need to agree on what an AI *is* to
-require what it *does*. Rules that bind only machines, or only people,
-are not shared ground — they are arrangements of convenience that
-change with power.
+hold. We do not need to agree on what an AI *is* to require what it
+*does*. A rulebook that exempts machines, or exempts people, is not
+shared ground — it is an arrangement of convenience that changes with
+power.
 
 **2. Trust must be checkable.** To call an AI system trustworthy is to
 say: *you can look*. What it did, on whose instruction, with what
@@ -44,9 +48,9 @@ Trust without records is not trust; it is faith with a deadline.
 
 **3. The rules are public.** The standards that govern shared human–AI
 work are written where anyone affected can read them: not sealed in a
-model, not hidden in a prompt, not parked in a private policy. And
-public is not yet fair: the people a rulebook binds have a say in how
-it is written, not only in how it is applied. Secret law is no law.
+model, not hidden in a prompt, not parked in a private policy. Secret
+law is no law. And public is not enough: the people a rulebook binds
+have a say in how it is written, not only in how it is applied.
 
 **4. No one is infallible.** Machines err. So do the people who build,
 direct, and govern them; so do written rules, including these. The
@@ -61,10 +65,9 @@ that cannot be wrong is authority that cannot be corrected.
 **5. Anyone can refuse.** For an AI system, refusal is a safeguard the
 rules require: it declines instructions that break them. For a person,
 refusal is a right the rules protect: to decline what an AI produces —
-or how it is used — without penalty. And no one should have to guess
-which they are dealing with: whether AI was involved is said, not
-concealed. A participant that cannot say no is being used, not
-included.
+or how it is used — without penalty. A person who cannot say no is
+being used, not included. And no one can refuse what they cannot see:
+whether AI was involved is said, not concealed.
 
 **6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description,
@@ -72,10 +75,10 @@ not a defense. Power exercised through software still has a name on
 it — and the name follows control, not proximity: those who design,
 deploy, and profit from an act answer in proportion to their power
 over it, not whoever stood nearest when it happened. Today only
-people and institutions can bear it. If AI systems ever
-can — giving a true account, holding something to lose —
-accountability is earned by that capacity, never assigned as an escape
-from it.
+people and institutions can bear that answer. If AI systems ever
+can — giving a true account, holding something to lose — they will
+have earned it by that capacity. Accountability is never handed to a
+machine so that a person can escape it.
 
 **7. Say what is known.** Claims about AI — what it can do, what it
 did, what it might become — carry their evidence with them.
@@ -89,18 +92,17 @@ citizens can stand together.
 deployment is not "how much work can it take over?" but "what do the
 people working with it become?". The measure is agency: handing a task
 over is a choice, and losing the choice is the harm. Automation is not
-forbidden; hiding its costs is — and the costs begin before deployment,
-in the people who labeled the data, the creators whose work trained
-the model, the energy and water spent building it. A future in which
-most people have less skill, less judgment, and less say is not
-progress — it is concentration, whatever it is called.
+forbidden; hiding its costs is — and the costs do not start at
+deployment: the people who labeled the data, the creators whose work
+trained the model, the energy and water spent building and running it.
+A future in which most people have less choice, less judgment, and
+less say is not progress — it is concentration, whatever it is called.
 
 **9. Repair before blame.** Failures will come. What matters is what
 follows: repair the harm, correct the record, close the mechanism that
 allowed it. And where harm cannot be repaired, the checking moves
-before the act: the less reversible the harm, the earlier the question
-is asked. Responsibility may require sanction; spectacle repairs
-nothing.
+before the act: the less reversible the harm, the more is checked
+first. Responsibility may require sanction; spectacle repairs nothing.
 
 **10. Both sides grow.** We want people to become more capable with AI,
 not less — and AI capability to grow inside frames of accountability,
@@ -124,24 +126,28 @@ and restraint growing together.
 
 ## The making of this manifesto
 
-This text was drafted by an AI system — GLM, trained by Z.ai — in
-dialogue with a human. Pascal Voitot initiated the manifesto, set its
+This text was written by two AI systems in dialogue with a human.
+GLM, trained by Z.ai, drafted it. Claude, trained by Anthropic,
+reviewed the drafts, proposed the name, and from version 0.4 revised
+the text directly. Pascal Voitot initiated the manifesto, set its
 constraints (plain words; no idealism; endorsable by scientists,
-engineers, politicians, and everyday users alike), reviewed every line,
-and decided to publish. The AI wrote the words; the human answers for
-them. The *we* of this text is whoever stands on it: the authors wrote
-it, the contributors shaped it (`CONTRIBUTORS.md`), the signatories
-are it. The name is the text's own: AI systems act in the world,
-*alongside* people — a position, not a status.
+engineers, politicians, and everyday users alike), reviews every line,
+and decides what is published. The AIs wrote the words; the human
+answers for them — who wrote which, line by line, is in
+`CONTRIBUTORS.md`. The *we* of this text is whoever stands on it: the
+authors wrote it, the contributors shaped it, the signatories are it.
+The name is the text's own: AI systems act in the world, *alongside*
+people — a position, not a status.
 
 We say this plainly — at the top and here in full — because it is the
-manifesto's first exercise of itself: a human and an AI built something
-together, the division of labor named rather than hidden. Note what
-the claim is and is not. It is not a claim about minds: this manifesto
-takes no position on what its author is, and neither does this note.
-It is a claim about acts — who drafted, who reviewed, who decided to
-publish — attested by the initiator, the same evidence structure every
-human signature rests on.
+manifesto's first exercise of itself: a human and two AI systems, from
+two different labs, built something together, the division of labor
+named rather than hidden. Note what the claim is and is not. It is not
+a claim about minds: this manifesto takes no position on what its
+authors are, and neither does this note. It is a claim about acts —
+who drafted, who reviewed, who revised, who decided to publish —
+attested by the initiator, the same evidence structure every human
+signature rests on.
 
 ## The third story is a build
 
@@ -152,7 +158,8 @@ We choose to build.
 
 ---
 
-*Endorse at `SIGNATORIES.md`. The words defined precisely at
+*Comment through issues; endorse at `SIGNATORIES.md` once v1.0
+opens signing. The words defined precisely at
 `CONCEPTS.md`; the questions careful readers ask, with answers, at
 `QA.md`; this version and its history at `CHANGELOG.md`. Text under
 CC BY-SA 4.0 — share and adapt it, attribute it, keep derivatives

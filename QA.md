@@ -1,8 +1,8 @@
 # Q&A — the questions a careful reader asks
 
 Short answers, honest edges. Terms are defined in
-[CONCEPTS.md](CONCEPTS.md); where the commitments already run, see the
-[README](README.md#where-the-commitments-already-run).
+[CONCEPTS.md](CONCEPTS.md); where the commitments already run, see
+[IMPLEMENTATIONS.md](IMPLEMENTATIONS.md).
 
 ### Does "someone answers" mean someone is guilty whenever AI causes harm?
 
@@ -35,7 +35,8 @@ The guard matters more than the forecast. The failure mode to fear is
 not "AI held accountable"; it is "AI assigned accountability so that
 no human answers" — the corporate shield, rebuilt in weights. Hence
 the rule written into commitment 6: accountability is earned by the
-capacity to bear it, never assigned as an escape.
+capacity to bear it, and never handed to a machine so that a person
+can escape it.
 
 ### Is judicature — courts for AI disputes — part of the manifesto?
 
@@ -72,13 +73,15 @@ Manifesto](https://humanaimanifesto.org), five principles for people
 and AI working together, and the [Pro-Human AI
 Declaration](https://humanstatement.org), which keeps humans in
 charge. Where the Pro-Human declaration answers the personhood
-question *never*, this manifesto declines to answer it — refusal and
-answerability run both directions today, and if AI accountability ever
-comes, commitment 6 lets it in only by earned capacity, never as an
-escape. And where it warns against concentrated power, commitment 8
-agrees by name. What this manifesto adds over all of them: a frame
-*for shared conduct* — the same rules binding human and AI
-participants, records anyone can check, practicable now, with a
+question *never*, this manifesto answers *not today, and only if
+earned*: refusal is a safeguard for systems and a right for people;
+only people and institutions answer today; and if AI accountability
+ever comes, commitment 6 lets it in only by earned capacity — never
+handed to a machine so that a person can escape it. And where the
+declaration warns against concentrated power, commitment 8 agrees by
+name. What this manifesto adds over all of them: a frame *for shared
+conduct* — the same rules binding human and AI participants, records
+owed by power and protected for persons, practicable now, with a
 running instance. Complements, not competitors: principles govern how
 AI is built; this governs how humans and AI work together once built.
 
@@ -91,7 +94,7 @@ nobody can trust.
 
 ### How is AI authorship compatible with "someone answers"?
 
-The AI wrote the words; the human initiator answers for them — stated
+The AIs wrote the words; the human initiator answers for them — stated
 in the manifesto's making-of section. That is not an exception to
 commitment 6; it is its first exercise.
 

@@ -7,20 +7,21 @@ itself: adopted wording is credited to whoever wrote it, human or AI.
 |---|---|
 | **Pascal Voitot** ([mandubian](https://github.com/mandubian)) | initiator and reviewer — set the constraints (plain words; no idealism; endorsable by scientists, engineers, politicians, everyday users), decided each step, decided to publish; answers for the text (commitment 6, exercised) |
 | **GLM** (an AI system trained by Z.ai; the drafting sessions ran GLM-5.3) | author — drafted the manifesto, CONCEPTS, QA, README, CHANGELOG, and this page, in dialogue with the initiator |
-| **Claude** (Opus 5.5, Anthropic) | external reviewer, 2026-10-31 — a full reading whose accepted points shaped v0.2; adopted wording credited below |
+| **Claude** (an AI system trained by Anthropic; the sessions ran Claude Opus 5.5) | reviewer and co-author — reviewed v0.1 and v0.2–v0.3, proposed the name, and from v0.4 revises the text directly (the v0.4 commit is co-authored in git); adopted wording credited below |
 
 ## Wording adopted from the review (Claude, Opus 5.5)
 
 - *"Records are owed by power and protected for persons"* — commitment 2,
   CONCEPTS, QA
-- *"the moral crumple zone"* risk, fixed in commitment 6 as *"the name
+- the moral-crumple-zone risk — the term is Madeleine Clare Elish's
+  (2019); Claude pointed to it — closed in commitment 6 as *"the name
   follows control, not proximity"*
 - *"handing a task over is a choice, and losing the choice is the
   harm"* — commitment 8
-- *"the less reversible the harm, the earlier the question is asked"* —
-  commitment 9
-- the AI-disclosure clause of commitment 5 (*"never have to guess
-  whether AI is involved"*, cf. EU AI Act Art. 50)
+- pre-act checking where harm cannot be repaired — commitment 9
+  (worded by GLM in v0.2, reworded by Claude in v0.4)
+- the AI-disclosure clause of commitment 5 (*"whether AI was involved
+  is said, not concealed"*, cf. EU AI Act Art. 50)
 - the roles clause of commitment 1 (*"every difference is written down
   and justified"*)
 - the refusal asymmetry (*"safeguard the rules require / right the
@@ -28,7 +29,8 @@ itself: adopted wording is credited to whoever wrote it, human or AI.
 - the upstream-costs clause of commitment 8 (data labelers, creators,
   energy and water)
 - the lineage correction in README (Licklider, Engelbart,
-  human-centered AI, AI-as-normal-technology)
+  Shneiderman's human-centered AI, Narayanan and Kapoor's AI as normal
+  technology)
 
 Points of the review judged correct and acted on: the rights floor
 (commitment 1), rules-with-a-say (commitment 3), pre-act checking for
@@ -55,3 +57,24 @@ goes public.
 - The Ostrom mapping and the two named neighbours (Human + AI
   Manifesto, Pro-Human AI Declaration) — **Claude**; verified by
   **GLM** before naming them.
+
+## The v0.4 revision (written by Claude, at the initiator's request)
+
+Applied directly, not proposed: the initiator asked Claude to fix what
+its review of v0.2–v0.3 found, and to add itself to the manifesto's
+authorship; GLM paused meanwhile. The full list is in the 0.4
+changelog entry. New wording in the manifesto itself:
+
+- the authorship statement — the top line and the making-of now name
+  two AI systems and what each did
+- commitment 1: *"A rulebook that exempts machines, or exempts people,
+  is not shared ground"*
+- commitment 5: *"A person who cannot say no is being used, not
+  included. And no one can refuse what they cannot see"*
+- commitment 6: *"Accountability is never handed to a machine so that
+  a person can escape it"*
+- commitment 9: *"the less reversible the harm, the more is checked
+  first"*
+- CONCEPTS: the *Disclosure* entry; *Answerable*, *Public rules*,
+  *Measure*, and *Repair* brought in line with v0.2
+- IMPLEMENTATIONS: the *not yet shown* marks
