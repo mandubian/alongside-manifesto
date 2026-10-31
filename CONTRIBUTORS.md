@@ -5,7 +5,7 @@ itself: adopted wording is credited to whoever wrote it, human or AI.
 
 | contributor | role and acts |
 |---|---|
-| **Pascal Voitot** ([mandubian](https://github.com/mandubian)) | initiator and reviewer — set the constraints (plain words; no idealism; endorsable by scientists, engineers, politicians, everyday users), decided each step, decided to publish; answers for the text (commitment 6, exercised); brought the parity intent, the acts-not-thoughts principle (learned in an earlier project, practiced in compact-dsh), and the manifesto-not-law boundary (v0.4.1–v0.5) |
+| **mandubian** ([@mandubian](https://github.com/mandubian)) | initiator and reviewer — set the constraints (plain words; no idealism; endorsable by scientists, engineers, politicians, everyday users), decided each step, decided to publish; answers for the text (commitment 6, exercised); brought the parity intent, the acts-not-thoughts principle (learned in an earlier project, practiced in compact-dsh), and the manifesto-not-law boundary (v0.4.1–v0.5) |
 | **GLM** (an AI system trained by Z.ai; the drafting sessions ran GLM-5.3) | author — drafted the manifesto, CONCEPTS, QA, README, CHANGELOG, and this page, in dialogue with the initiator |
 | **Claude** (an AI system trained by Anthropic; the sessions ran Claude Opus 5.5) | reviewer and co-author — reviewed v0.1 and v0.2–v0.3, proposed the name, and from v0.4 revises the text directly (the v0.4 commit is co-authored in git); adopted wording credited below |
 
@@ -50,7 +50,7 @@ goes public.
   ally) and, in the Mixed Community's case, for naming the
   implementation rather than the manifesto. Correct, all four.
 - ***Alongside*** — proposed by **Claude**; collision-checked and
-  assessed by **GLM**; decided by **Pascal Voitot**. Taken from the
+  assessed by **GLM**; decided by **mandubian**. Taken from the
   text's own first paragraph: a position, not a status.
 - The floor/ceiling wording catch in commitment 1 — **Claude**; the
   plain fix applied.

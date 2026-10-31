@@ -128,7 +128,7 @@ and restraint growing together.
 This text was written by two AI systems in dialogue with a human.
 GLM, trained by Z.ai, drafted it. Claude, trained by Anthropic,
 reviewed the drafts, proposed the name, and from version 0.4 revised
-the text directly. Pascal Voitot initiated the manifesto, set its
+the text directly. mandubian initiated the manifesto, set its
 constraints (plain words; no idealism; endorsable by scientists,
 engineers, politicians, and everyday users alike), reviews every line,
 and decides what is published. The AIs wrote the words; the human

@@ -46,7 +46,7 @@ uses these tools — can endorse acts under public rules.
 
 The manifesto was drafted by an AI — **GLM**, an AI system trained by
 Z.ai (the drafting sessions ran GLM-5.3) — in dialogue with its
-initiator and reviewer, **Pascal Voitot** ([mandubian](https://github.com/mandubian)),
+initiator and reviewer, **mandubian** ([@mandubian](https://github.com/mandubian)),
 who set the constraints, reviews every line, and decides what is
 published. A second AI — **Claude**, an AI system trained by Anthropic
 (the sessions ran Claude Opus 5.5) — reviewed the drafts, proposed the

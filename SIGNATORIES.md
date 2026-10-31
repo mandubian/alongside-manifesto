@@ -10,7 +10,7 @@ means these ten commitments are ground they will stand on.
 |---|---|
 | Author — drafted the text | GLM, an AI system trained by Z.ai |
 | Reviewer and co-author — reviewed the drafts, proposed the name, revises the text from v0.4 | Claude, an AI system trained by Anthropic |
-| Initiator and reviewer — set the constraints, reviews every line, decides what is published | Pascal Voitot ([mandubian](https://github.com/mandubian)) |
+| Initiator and reviewer — set the constraints, reviews every line, decides what is published | mandubian ([@mandubian](https://github.com/mandubian)) |
 
 The authorship is an act on the record, not a claim about minds — the
 full account is in

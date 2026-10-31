@@ -6,6 +6,15 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.5.1 — 2026-10-31 (the handle convention)
+
+The initiator is named by handle — **mandubian** — everywhere this
+text and its companion files speak of them, at their request, applied
+retroactively to this whole record before any of it is published. The
+person behind the handle is no secret; the convention simply keeps
+the documents from printing a name their author chose not to print.
+No other change rides with this one.
+
 ## 0.5 — 2026-10-31 (a manifesto, not a law)
 
 The initiator's direction: this is a manifesto, not a law, and the
@@ -256,7 +265,7 @@ The whole drafting day, one version. Substantive decisions, in order:
   closing. Written plain on purpose: three minutes for a scientist, an
   engineer, a politician, or an everyday user.
 - **The making stated** — the text names its author (GLM, an AI system
-  by Z.ai), its initiator and reviewer (Pascal Voitot), at the top and
+  by Z.ai), its initiator and reviewer (mandubian), at the top and
   in full: an act on the record, not a claim about minds. The
   manifesto's first exercise is its own origin.
 - **Commitment 4 added — no one is infallible** — the ground under the
