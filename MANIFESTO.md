@@ -125,5 +125,7 @@ We choose to build.
 
 ---
 
-*Endorse at `SIGNATORIES.md`. Text under CC BY-SA 4.0 — share and
-adapt it, attribute it, keep derivatives under the same terms.*
+*Endorse at `SIGNATORIES.md`. The words defined precisely at
+`CONCEPTS.md`; the questions careful readers ask, with answers, at
+`QA.md`. Text under CC BY-SA 4.0 — share and adapt it, attribute it,
+keep derivatives under the same terms.*

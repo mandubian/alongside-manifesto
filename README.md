@@ -7,6 +7,11 @@ any project, endorsed in the open.
 
 - **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three
   groups: common ground, in practice, the direction. Three minutes.
+- **Go deeper:** [CONCEPTS.md](CONCEPTS.md) — each term defined, and
+  what it is *not*; [QA.md](QA.md) — the questions careful readers
+  ask, answered. The manifesto names *what* any shared human–AI frame
+  must guarantee; how is law and machinery — the Compact is the first
+  complete instance.
 - **Sign it:** add a row to [SIGNATORIES.md](SIGNATORIES.md) by pull
   request, or open an issue titled *Endorse*.
 
