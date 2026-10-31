@@ -6,6 +6,46 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.4 — 2026-10-31 (power, and the two tracks of accountability)
+
+The initiator asked whether *those with power* was defined anywhere. It
+was not, though the word decides who owes the record, who answers, and
+how far the duties reach. And it was read two ways: power *over an
+act* (commitments 2 and 6) and power *over people* (QA's scoping
+answers). Under the first reading alone, a person writing private mail
+with AI would owe a record, which QA says they do not.
+
+- **CONCEPTS, *Power*** (new): power over an act is *the position that
+  makes someone answerable for it* — deciding whether the act happens,
+  how, and to whom, and being able to stop it. It is a position, not a
+  kind of actor; duties grow with it and with how far the act reaches
+  people who did not choose it and cannot avoid it. An AI participant
+  may make the choice; the power that answers in law sits with whoever
+  set it to act.
+- **Two tracks of accountability** — the initiator's distinction,
+  drawn from compact-dsh: an autonomous AI participant can already be
+  held to account *inside* a frame — called to answer, judged by the
+  same rules, sanctioned in proportion, at worst losing its place —
+  while *liability in law* stays with people and institutions. As in
+  the professions: discipline inside, damages outside. CONCEPTS
+  *Answerable* says so, and adds the risk: the moral crumple zone gets
+  a new occupant, the AI participant removed so that no one asks who
+  built it.
+- **Commitment 6** — *"Today only people and institutions can bear that
+  answer"* now ends *"in law"*. Two words, and the only change to the
+  commitments: without them, the sentence denied the inside track.
+- **QA** — *Could AI one day be accountable?* now opens *"Inside a
+  frame, it already can be; in law, not yet."* (it said *"Today,
+  no"*). New answer: *Can an AI be at fault without being liable?* —
+  four questions (who caused it, was it faulty, who answers, who pays),
+  with the legal parallels: objective fault (*Derguini*, *Lemaire*,
+  1984), custody as use, direction, and control (*Franck*, 1941), the
+  employee within the mission (*Costedoat*, 2000), software as a
+  product (EU Directive 2024/2853), the AI Act's deployer (Art. 3(4)),
+  and the *responsibility gap* (Matthias, 2004). Each reference was
+  checked against a source before it was written in.
+- **The site** follows commitment 6, and counts nineteen QA answers.
+
 ## 0.6.3 — 2026-10-31 (plainer labels, and the site held to the text)
 
 The ten commitments do not change. Reviewed by Claude, at the

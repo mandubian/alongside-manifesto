@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.3 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.4 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
 Max), reviewed, named, and revised by Claude (Anthropic, running
@@ -74,8 +74,8 @@ concealed.
 institution remains answerable. "The system decided" is a description,
 not a defense. Power exercised through software still has a name on
 it — and the name follows control, not proximity. Today only people
-and institutions can bear that answer, and accountability is never
-handed to a machine so that a person can escape it.
+and institutions can bear that answer in law, and accountability is
+never handed to a machine so that a person can escape it.
 
 **7. Say what is known.** Claims about AI — what it can do, what it
 did, what it might become — carry their evidence with them.

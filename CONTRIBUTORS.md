@@ -123,3 +123,13 @@ changelog entry. New wording in the manifesto itself:
 - The *Not:* label found odd — **mandubian**; the label *Not to be
   confused with:*, the four rewordings, and the site corrections —
   **Claude**.
+
+## The v0.6.4 round — power, and the two tracks
+
+- The question *is power defined anywhere?*, the intuition that power
+  is the position that makes one accountable, and the two tracks drawn
+  from compact-dsh (an AI participant held to account inside the
+  community; liability with whoever built it) — **mandubian**.
+- The *Power* entry, the *Answerable* wording, commitment 6's *in law*,
+  the rewritten QA answer, and the new *at fault without being liable*
+  answer with its checked legal references — **Claude**.

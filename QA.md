@@ -15,9 +15,21 @@ starting one. See *answerable* in CONCEPTS.md.
 
 ### Could AI one day be accountable for its own acts?
 
-Today, no — and the manifesto says so plainly. Accountability is not
-explaining; it is *bearing*: consequences must land somewhere, and
-today's systems have nothing at stake. Deleting a model is
+Inside a frame, it already can be; in law, not yet. Accountability
+runs on two tracks, as it does in the professions: a medical council
+can strike a doctor off, while the damages owed to the patient are a
+separate case, often paid by a hospital or an insurer. Inside a frame
+shared by humans and AI, an AI participant can be called to answer,
+judged by the same rules as anyone, and sanctioned in proportion — its
+record annotated, its standing reduced, at worst its place lost. Those
+sanctions do real work without settling what AI is: they repair,
+correct, and protect. The Compact already does this at small scale —
+an AI member sits as a party before its court, verdicts and remedies
+included, honestly labeled as rehearsal.
+
+In law, being accountable means being liable, and liability is
+*bearing*: consequences must land on someone with something at stake,
+and today's systems have nothing law can reach. Deleting a model is
 decommissioning, not punishment; a fine on a model lands on its
 operator. That is why commitment 6 names people and institutions.
 
@@ -26,20 +38,48 @@ before: corporations are legal persons — not because they are
 conscious, but because personhood is a legal technology that does
 work. If AI systems ever hold interests of their own, persist as
 parties, and can give an account checkable against the record, law
-could make them answerable. The Compact already rehearses the forms at
-small scale — an AI member sits as a party before its court, verdicts
-and remedies included, honestly labeled as rehearsal. What is missing
-for the real thing is the stakes: something to lose.
+could make them liable too. What is missing today is the stakes:
+something of their own to lose.
 
 The guard matters more than the forecast. The failure mode to fear is
 not "AI held accountable"; it is "AI assigned accountability so that
 no human answers" — the corporate shield, rebuilt in weights. And the
 stake must be the system's own: a stake a deployer assigns to an
-agent — a wallet, a bond — is that escape, not its end. Hence what
+agent — a wallet, a bond — is that escape, not its end. The same guard
+holds inside a frame: removing an AI participant never closes the
+question of who built the mechanism — the persona goes, but the model,
+the prompt, and the tools that produced the fault may stay. Hence what
 commitment 6 keeps in the text is the guard alone: accountability is
 never handed to a machine so that a person can escape it. The
-conditions above are a reading, not a rule; how AI accountability
-might one day be built is for law to decide, not for this manifesto.
+conditions above are a reading, not a rule; how AI liability might one
+day be built is for law to decide, not for this manifesto.
+
+### Can an AI be at fault without being liable?
+
+Yes — and law already separates the two. There are four questions, not
+one: who caused the harm, whether the act was faulty, who must answer,
+and who pays. An AI participant can cause a harm, and its act can be
+faulty — judged by the same rules as anyone's, recorded as its own.
+Who must answer in law, and who pays, follow power over the act, not
+who performed it (see *Power* in CONCEPTS).
+
+Law has worked this way for a long time. French civil law, for one,
+judges fault by the act, not the mind: since 1984, even a young
+child's act can be a fault (*Derguini* and *Lemaire*). It makes
+whoever has custody of a thing answer for the harm it does — custody
+being the power of use, direction, and control (*Franck*, 1941). And
+an employee acting within the mission the employer gave is not
+personally liable to the victim; the employer answers (*Costedoat*,
+2000). In the EU, the 2024 Product Liability Directive counts
+software, AI systems included, as a product; and the AI Act binds,
+beside the provider, the *deployer* — whoever uses a system under its
+authority, unless the use is personal and non-professional.
+
+The danger has a name too: the *responsibility gap* (Andreas Matthias,
+2004) — learning systems whose acts their makers and operators cannot
+foresee, so that no one seems answerable. Commitment 6 refuses the
+gap: what could not be foreseen can still be answered for, by whoever
+holds the power to set the system acting.
 
 ### Is judicature — courts for AI disputes — part of the manifesto?
 
@@ -109,7 +149,7 @@ and AI working together, and the [Pro-Human AI
 Declaration](https://humanstatement.org), which keeps humans in
 charge. Where the Pro-Human declaration answers the personhood
 question *never*, this manifesto answers *not today*, and leaves the
-rest to law: only people and institutions answer today, and
+rest to law: only people and institutions answer in law today, and
 accountability is never handed to a machine so that a person can
 escape it. It also goes further on parity: any participant, human or
 AI, may refuse what breaks the rules. And where the declaration warns

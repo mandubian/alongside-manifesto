@@ -38,6 +38,21 @@ second.\
 *Nor with:* surveillance. A record of acts is owed by those with power
 over the act — not extracted from the people subject to it.
 
+**Power.** Power over an act is the position that makes someone
+answerable for it: being able to decide whether the act happens, how,
+and to whom — and to stop it. It is a position, not a kind of actor:
+the manager who deploys a system holds it in that act; the employee
+the system monitors is a person the act touches. The duties grow with
+it, and with how far the act reaches people who did not choose it and
+cannot avoid it — a record, public rules, a name, a contest. An AI
+participant may make the choice, and inside a frame may even direct
+others; the power that answers in law sits with whoever set it to
+act.\
+*Not to be confused with:* proximity — the operator at the keyboard may
+hold the least of it.\
+*Nor with:* size or wealth alone — a small actor whose act reaches many
+people who cannot avoid it holds power over them.
+
 **Acts, not thoughts.** The record holds what participants do, not
 what they think — the same for humans and AI. Intent is read from
 acts, and from the account a participant gives when answering, which
@@ -95,15 +110,24 @@ text.
 done with AI: explain it, face the consequences of the explanation.
 The answer follows control, not proximity — one reading: those who
 design, deploy, and profit from an act answer in proportion to their
-power over it.\
+power over it (see *Power*). Accountability runs on two tracks. Inside
+a frame, any participant, human or AI, can be held to account: called
+to answer, judged by the same rules, sanctioned in proportion — at
+worst, losing its place. In law, liability lands only on people and
+institutions, today. So an AI participant's act can be faulty — judged
+by the same rules, recorded as its own — while the liability goes to
+whoever holds power over the act.\
 *Not to be confused with:* automatic guilt. Answering opens the process; fault is what the
 process finds, if the record shows it. "The system decided" describes;
 it does not excuse.\
 *Nor with:* blame for whoever stood nearest — the operator who absorbs
 a system's failure while its designers walk away, what Madeleine Clare
-Elish named the *moral crumple zone* (2019).\
-*Nor with:* a permanent arrangement. Accountability follows the capacity to
-bear it — today that capacity is human and institutional; if it ever
+Elish named the *moral crumple zone* (2019). Inside a frame, the same
+zone has a new occupant: the AI participant removed so that no one asks
+who built it. Holding an AI participant to account never closes the
+question of the mechanism.\
+*Nor with:* a permanent arrangement. Liability in law follows the
+capacity to bear it — today that capacity is human and institutional; if it ever
 grows elsewhere, it is earned, and never handed to a machine so that a
 person can escape it.
 
