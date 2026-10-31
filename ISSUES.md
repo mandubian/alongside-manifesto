@@ -113,4 +113,4 @@ their recorded reasons live in the changelog — v0.2's "servitude" and
 "both sides" (kept, with reasons) and the two-stories caricature
 (taken in part) among them. *Proposal:* open the issue, list the
 points with their reasons, and invite the argument to reopen any of
-them; closing it leaves the record as it stands.
+them; closing it leaves the record as it stands. Opened as [issue #11](https://github.com/mandubian/alongside-manifesto/issues/11).
