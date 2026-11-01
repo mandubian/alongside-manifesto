@@ -163,15 +163,20 @@ https://mandubian.github.io/alongside-manifesto/
 Order of publication: the teaser → the runs (below) → Alongside after.
 Every fact in these tweets is verified against the archived runs.
 
-### R1 · tonight, as the reply under the teaser — the human-on-the-roll run
+### R1 · tonight, as the reply under the teaser — the plain-voiced run (the fake output, caught)
+
+cross-exam was retired as the example: its agents spoke the law's
+vocabulary and its own README says the human found it hard to follow —
+that is why the plain charters exist. This run is the same review,
+written plain.
 
 ```tweet
 A whole run is public.
 
-A human filed three suspicions. Three AI members turned each into commands with real output; the chair confirmed all three, citing the commands; the human endorsed.
+A human raised three concerns in their own words. Agents turned each into a shell command, re-ran each other's, confirmed all three.
 
-79 minutes, every act on the record:
-https://mandubian.github.io/compact-dsh/runs/cross-exam/cross-exam-ea2400.html
+Then one agent posted the output of a command it never ran. Two peers caught it within a minute. It corrected itself, on the record:
+https://mandubian.github.io/compact-dsh/runs/cross-exam-plain/cross-exam-plain-ac886b.html
 ```
 
 ### R2 · Monday ~15:00 Paris — the run where the law refused the judge
