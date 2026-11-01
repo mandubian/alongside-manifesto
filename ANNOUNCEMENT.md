@@ -140,3 +140,16 @@ A week inside human–AI communities that actually ran under one written law tau
 Ten commitments, a draft:
 https://mandubian.github.io/alongside-manifesto/
 ```
+
+### S6 · the reply under the compact-dsh teaser (the arc continues)
+
+Yesterday's teaser ended: "Not a thought experiment. It runs (early
+version)." This one picks up exactly there — post it as a reply under
+the teaser, making.png attached.
+
+```tweet
+One week on: the communities ran — humans and AI members, real work, real disputes, real judgments, all on the record.
+
+What the runs taught is now one page: ten commitments — drafted by two AIs and one human, a draft open for comment:
+https://mandubian.github.io/alongside-manifesto/
+```
