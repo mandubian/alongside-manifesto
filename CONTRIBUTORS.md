@@ -148,3 +148,11 @@ changelog entry. New wording in the manifesto itself:
   it pass the manifesto-not-law test — **mandubian**.
 - The commitment 5 clause *and saying why*, the CONCEPTS guards, and
   the IMPLEMENTATIONS row — **Claude**.
+
+## The v0.6.7 round — say what it rests on
+
+- The finding that commitment 7 was unclear, and the reading that
+  prompted the fix — **mandubian**.
+- The commitment 7 rewording (*says what it rests on … not how sure
+  they feel*, and *feared* beside *hoped*), the CONCEPTS definitions,
+  *rehearsed* defined, and the emails answer corrected — **Claude**.

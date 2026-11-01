@@ -146,11 +146,20 @@ capacity to bear it — today that capacity is human and institutional; if it ev
 grows elsewhere, it is earned, and never handed to a machine so that a
 person can escape it.
 
-**Say what is known.** Every claim carries its evidence status:
-demonstrated, expected, or hoped — said which.\
+**Say what is known.** Every claim about AI says what it rests on:
+*demonstrated* — shown, in a way someone else can check; *expected* —
+forecast from evidence, its reasoning visible; or only *hoped* or
+*feared* — no evidence yet. The label names the kind of ground, not a
+degree of confidence: a claim held with total conviction and nothing
+shown is still hoped, or feared; a result shown once, at small scale,
+is still demonstrated — with its scale said. *Rehearsed*, as
+IMPLEMENTATIONS marks it, is exactly that: demonstrated at small,
+stated scale.\
 *Not to be confused with:* a demand for certainty. Stated uncertainty is the ground
 scientists, engineers, and citizens share; hidden uncertainty is where
-they part.
+they part.\
+*Nor with:* a ban on vision or on warning. Hopes and fears may be
+spoken freely; they may not pass as evidence.
 
 ## The direction
 

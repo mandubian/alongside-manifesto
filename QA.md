@@ -231,9 +231,10 @@ begins is each frame's to draw.
 
 ### Does this apply to me writing emails with AI at home?
 
-The duties scale with power. Commitment 7 — say what is known — is
-owed by everyone, including you to yourself: know when AI is involved.
-But a private person writing private mail owes no record to anyone;
+The duties scale with power. One reaches everyone: a claim about AI
+you pass on says what it rests on (commitment 7). And words AI helped
+you draft, sent under your own name, are yours to answer for. But a
+private person writing private mail owes no record to anyone;
 records, public rules, and contestation bind work and deployment — the
 places where power acts on other people. The commitments govern power;
 they do not audit kitchens.

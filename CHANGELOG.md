@@ -6,6 +6,42 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.7 — 2026-11-01 (say what it rests on)
+
+The initiator found commitment 7 unclear, and asked whether it meant
+stating what one knows and how certain one is. Not quite — and the
+text invited the misreading. The label is not a degree of confidence;
+it is the kind of ground a claim rests on, which someone else can
+check.
+
+- **Commitment 7** — now: *"Whoever makes a claim about AI — what it
+  can do, what it did, what it might become — says what it rests on:
+  demonstrated, expected, or only hoped or feared. Not how sure they
+  feel — what someone else could check."* Two changes of substance:
+  the label is said to be the ground, not the feeling; and **feared**
+  joins **hoped**. The manifesto opens on two loud stories,
+  catastrophe and upgrade; with *hoped* alone, claims of catastrophe
+  had no label, and the commitment read as reining in only the
+  optimists. The title and the closing sentence stand.
+- **CONCEPTS, *Say what is known*** — each label defined (demonstrated:
+  shown, checkable by someone else; expected: forecast from evidence,
+  reasoning visible; hoped or feared: no evidence yet), with the two
+  cases that separate ground from confidence: total conviction with
+  nothing shown is still hoped, or feared; a result shown once at
+  small scale is still demonstrated, its scale said. *Rehearsed*, the
+  mark IMPLEMENTATIONS uses, is defined as that: demonstrated at
+  small, stated scale — the project was using a label its own
+  commitment did not name. New line: *not to be confused with a ban
+  on vision or on warning* — hopes and fears may be spoken; they may
+  not pass as evidence.
+- **QA, the emails answer** — it cited commitment 7 for *"know when AI
+  is involved"*, which is disclosure, commitment 5 — the same mix-up
+  0.6.1 fixed in the companionship answer. Now: the one duty that
+  reaches everyone is that a claim about AI you pass on says what it
+  rests on; and words AI helped you draft, sent under your name, are
+  yours to answer for.
+- **The site** carries the new commitment 7.
+
 ## 0.6.6 — 2026-10-31 (a refusal says why)
 
 The initiator asked whether commitment 5 made clear that a refusal
