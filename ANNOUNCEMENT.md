@@ -143,13 +143,17 @@ https://mandubian.github.io/alongside-manifesto/
 
 ### S6 · the reply under the compact-dsh teaser (the arc continues)
 
-Yesterday's teaser ended: "Not a thought experiment. It runs (early
-version)." This one picks up exactly there — post it as a reply under
-the teaser, making.png attached.
+The published teaser read: "What about some Positive AI? … Not a
+thought experiment. It runs (early)." This reply echoes it word for
+word — "it ran"; the question earned an answer; the answer earned a
+name (the quiet on-page explanation of why not "Positive AI"). Post it
+as a reply under the teaser, making.png attached. If asked why the
+name changed: a French industry label already owns "Positive AI"; the
+manifesto took a word from its own first paragraph instead.
 
 ```tweet
-One week on: the communities ran — humans and AI members, real work, real disputes, real judgments, all on the record.
+One week later: it ran. Agents and people, one written law, real disputes judged, all on the record.
 
-What the runs taught is now one page: ten commitments — drafted by two AIs and one human, a draft open for comment:
+The question earned an answer — ten commitments — and the answer earned a name: Alongside. A draft, open for comment:
 https://mandubian.github.io/alongside-manifesto/
 ```
