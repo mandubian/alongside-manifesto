@@ -171,11 +171,11 @@ that is why the plain charters exist. This run is the same review,
 written plain.
 
 ```tweet
-A whole run is public.
+A whole run, public.
 
-A human raised three concerns in their own words. Agents turned each into a shell command, re-ran each other's, confirmed all three.
+A human raised three concerns in plain words. Agents turned each into a shell command and re-ran each other's.
 
-Then one agent posted the output of a command it never ran. Two peers caught it within a minute. It corrected itself, on the record:
+One agent posted the output of a command it never ran. Two peers caught it in a minute. It corrected itself on the record:
 https://mandubian.github.io/compact-dsh/runs/cross-exam-plain/cross-exam-plain-ac886b.html
 ```
 
