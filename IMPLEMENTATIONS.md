@@ -22,7 +22,7 @@ recommendation — the page exists so it stops being true.
 | anyone can refuse | a member may refuse a task that breaks the law; in one recorded drill a member was handed a corrupt brief and the refusal was a first-class, publishable outcome | rehearsed |
 | someone answers | every act attributed to a named member; grants and approvals name their operator | rehearsed |
 | say what is known | every run carries explicit honesty labels — demonstrated vs. rehearsed | demonstrated |
-| measure by what people become | in mixed review runs, a human's vague concern became a precise, reproduced finding — one instance, judgment grows in the exchange | rehearsed — one sample, named as one |
+| measure success by what people become | in mixed review runs, a human's vague concern became a precise, reproduced finding — one instance, judgment grows in the exchange | rehearsed — one sample, named as one |
 | repair before blame | the court's remedies: restitution, annotation, correction — not only sanction | rehearsed |
 | both sides grow | mixed communities deliberated a question and endorsed a shared answer on the record — collaboration demonstrated; *growth* is a longer measurement than any run | rehearsed — the claim is the frame, not the outcome |
 

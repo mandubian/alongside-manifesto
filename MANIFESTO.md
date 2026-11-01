@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.8 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.9 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
 Max), reviewed, named, and revised by Claude (Anthropic, running
@@ -87,14 +87,16 @@ which scientists, engineers, and citizens can stand together.
 
 ## III. The direction
 
-**8. Measure by what people become.** The first question of any
-deployment is not "how much work can it take over?" but "what do the
-people working with it become?". The measure is agency: handing a task
-over is a choice, and losing the choice is the harm. Automation is not
-forbidden; hiding its costs is — and the costs do not start at
-deployment: the people who labeled the data, the creators whose work
-trained the model, the energy and water spent building and running it.
-A future in which most people have less choice, less judgment, and
+**8. Measure success by what people become.** An AI deployment is
+usually judged by how much work it takes over. That is easy to count;
+what happens to the people working with it is not — so it is the first
+thing to ask: do they keep, or gain, the ability to choose, to judge,
+and to have a say? Handing a task to AI is fine when it is a choice;
+the harm is when the choice is lost — the skill gone, the alternative
+removed. Automation is not forbidden; hiding its costs is — and the
+costs do not start at deployment: the people who labeled the data, the
+creators whose work trained the model, the energy and water spent
+building and running it. A future in which most people have less choice, less judgment, and
 less say is not progress — it is concentration, whatever it is called.
 
 **9. Repair before blame.** Failures will come. What matters is what

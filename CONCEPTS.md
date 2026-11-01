@@ -168,10 +168,15 @@ spoken freely; they may not pass as evidence.
 
 ## The direction
 
-**Measure by what people become.** The first question of a deployment
-is what the people working with it gain in agency: judgment, say, and
-the choice of what to hand over. Handing a task over is a choice;
-losing the choice is the harm.\
+**Measure success by what people become.** The success of an AI
+deployment is judged first by what happens to the people working with
+it: whether they keep, or gain, *agency* — the ability to choose, to
+judge, and to have a say. Work taken over is easy to count; what people
+lose is not, which is why it is asked first. Handing a task over is
+fine when it is a choice; the harm is when the choice is lost — the
+skill gone, the alternative removed, the decision taken elsewhere. How
+to measure it over time is each frame's to work out; no
+implementation measures it yet (issue #8).\
 *Not to be confused with:* a ban on automation, nor a demand that everyone keep every
 skill. What is forbidden is hiding automation's costs — including the
 ones that do not start at deployment: the people who labeled the data,

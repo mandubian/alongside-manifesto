@@ -250,7 +250,7 @@ people, some of them lonely, some of them young. There the ten apply
 as anywhere else. Whether AI is involved is said (commitment 5).
 Someone answers for what the companion does (commitment 6). And a
 companion designed so that its users need it more and manage less
-fails commitment 8, which measures by what people become. What the
+fails commitment 8, which measures success by what people become. What the
 relationship itself might need — what refusal means inside it, what it
 owes the record — is open:
 [issue #10](https://github.com/mandubian/alongside-manifesto/issues/10).

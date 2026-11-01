@@ -164,3 +164,10 @@ changelog entry. New wording in the manifesto itself:
 - The what/how split (the distinction in the text, the vocabulary in
   CONCEPTS as one reading among GRADE, the IPCC, and TRL) and the
   commitment 7 wording — **Claude**.
+
+## The v0.6.9 round — measure success, and say why
+
+- The finding that *"the measure is agency"* said neither what is
+  measured nor why — **mandubian**.
+- The commitment 8 rewording and title, and the CONCEPTS entry —
+  **Claude**.

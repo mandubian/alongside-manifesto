@@ -6,6 +6,29 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.9 — 2026-11-01 (measure success, and say why)
+
+The initiator found commitment 8 unclear: *"the measure is agency"* —
+measure what, and why? The text left both unsaid.
+
+- **Commitment 8** — the title gains its object: *Measure **success**
+  by what people become.* The body now says what is usually measured
+  and why that is not enough: *"An AI deployment is usually judged by
+  how much work it takes over. That is easy to count; what happens to
+  the people working with it is not — so it is the first thing to
+  ask: do they keep, or gain, the ability to choose, to judge, and to
+  have a say?"* The word *agency* leaves the text for its meaning.
+  *"Handing a task over is a choice, and losing the choice is the
+  harm"* becomes concrete: *"Handing a task to AI is fine when it is a
+  choice; the harm is when the choice is lost — the skill gone, the
+  alternative removed."* The costs clause and the closing sentence on
+  concentration stand. About 25 words longer.
+- **CONCEPTS** — the entry follows; *agency* is kept there as the term,
+  defined; how to measure it over time is left to frames, and to
+  issue #8.
+- **The title** follows into the site card, the site's implementations
+  table, IMPLEMENTATIONS, and the companionship answer in QA.
+
 ## 0.6.8 — 2026-11-01 (the distinction stays, the labels go)
 
 The initiator asked whether precise labels belong in a manifesto at
