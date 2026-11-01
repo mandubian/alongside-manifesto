@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.7 — a draft, open for comment, not yet open for signature.*
+*Version 0.6.8 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3
 Max), reviewed, named, and revised by Claude (Anthropic, running
@@ -79,11 +79,11 @@ and institutions can bear that answer in law, and accountability is
 never handed to a machine so that a person can escape it.
 
 **7. Say what is known.** Whoever makes a claim about AI — what it can
-do, what it did, what it might become — says what it rests on:
-demonstrated, expected, or only hoped or feared. Not how sure they
-feel — what someone else could check. Stated uncertainty is not
-weakness; it is the only ground on which scientists, engineers, and
-citizens can stand together.
+do, what it did, what it might become — says what it rests on, so that
+others can check it. What was shown, what is forecast, and what is
+only hoped or feared are different claims, and none is passed off as
+another. Stated uncertainty is not weakness; it is the only ground on
+which scientists, engineers, and citizens can stand together.
 
 ## III. The direction
 

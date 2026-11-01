@@ -146,15 +146,20 @@ capacity to bear it — today that capacity is human and institutional; if it ev
 grows elsewhere, it is earned, and never handed to a machine so that a
 person can escape it.
 
-**Say what is known.** Every claim about AI says what it rests on:
-*demonstrated* — shown, in a way someone else can check; *expected* —
-forecast from evidence, its reasoning visible; or only *hoped* or
-*feared* — no evidence yet. The label names the kind of ground, not a
-degree of confidence: a claim held with total conviction and nothing
-shown is still hoped, or feared; a result shown once, at small scale,
-is still demonstrated — with its scale said. *Rehearsed*, as
-IMPLEMENTATIONS marks it, is exactly that: demonstrated at small,
-stated scale.\
+**Say what is known.** Every claim about AI says what it rests on, so
+that others can check it — and what was shown, what is forecast, and
+what is only hoped or feared are never passed off as one another. The
+ground counts, not the speaker's confidence: a claim held with total
+conviction and nothing shown is still only hoped, or feared; a result
+shown once, at small scale, is still shown — its scale said. How the
+ground is labeled is each frame's to choose: medicine grades its
+evidence (GRADE), climate science calibrates its likelihoods (the
+IPCC), engineering counts readiness levels (TRL). One plain reading:
+*demonstrated* — shown, checkable by someone else; *expected* —
+forecast from evidence, its reasoning visible; *hoped* or *feared* — no
+evidence yet. This project's own marks, in IMPLEMENTATIONS, are
+*demonstrated*, *rehearsed* — demonstrated at small, stated scale —
+and *not yet shown*.\
 *Not to be confused with:* a demand for certainty. Stated uncertainty is the ground
 scientists, engineers, and citizens share; hidden uncertainty is where
 they part.\

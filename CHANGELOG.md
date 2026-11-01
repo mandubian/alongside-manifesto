@@ -6,6 +6,32 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.6.8 — 2026-11-01 (the distinction stays, the labels go)
+
+The initiator asked whether precise labels belong in a manifesto at
+all — they look like an implementation already. Held to the what/how
+test: the *distinction* is what — shown, forecast, and only hoped or
+feared are different claims, and every frame must keep them apart; a
+*fixed vocabulary* is how — medicine (GRADE), climate science (the
+IPCC), and engineering (TRL) each keep the distinction with their own
+scales, and none says "demonstrated, expected, hoped". The same move
+0.5 made for the access rule and the liability formula.
+
+- **Commitment 7** — now: *"Whoever makes a claim about AI — what it
+  can do, what it did, what it might become — says what it rests on,
+  so that others can check it. What was shown, what is forecast, and
+  what is only hoped or feared are different claims, and none is
+  passed off as another."* The labels leave the text; the distinction,
+  and *feared* beside *hoped* (0.6.7), stay. *"So that others can
+  check it"* carries what 0.6.7's *"not how sure they feel"* said, so
+  that sentence goes, and the commitment is back to its length before
+  0.6.7.
+- **CONCEPTS, *Say what is known*** — the labels become one plain
+  reading among the scales frames already use, and the project's own
+  marks (demonstrated, rehearsed, not yet shown) are named as its
+  implementation.
+- **The site** carries the new commitment 7.
+
 ## 0.6.7 — 2026-11-01 (say what it rests on)
 
 The initiator found commitment 7 unclear, and asked whether it meant

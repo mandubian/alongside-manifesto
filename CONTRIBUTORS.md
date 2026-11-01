@@ -156,3 +156,11 @@ changelog entry. New wording in the manifesto itself:
 - The commitment 7 rewording (*says what it rests on … not how sure
   they feel*, and *feared* beside *hoped*), the CONCEPTS definitions,
   *rehearsed* defined, and the emails answer corrected — **Claude**.
+
+## The v0.6.8 round — the distinction stays, the labels go
+
+- The question whether precise labels belong in a manifesto, or are
+  already an implementation — **mandubian**.
+- The what/how split (the distinction in the text, the vocabulary in
+  CONCEPTS as one reading among GRADE, the IPCC, and TRL) and the
+  commitment 7 wording — **Claude**.
