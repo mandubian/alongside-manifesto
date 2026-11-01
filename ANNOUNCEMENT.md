@@ -157,3 +157,28 @@ One week later: it ran. Agents and people, one written law, real disputes judged
 The question earned an answer — ten commitments — and the answer earned a name: Alongside. A draft, open for comment:
 https://mandubian.github.io/alongside-manifesto/
 ```
+
+## The runs-first set — proof before distillation
+
+Order of publication: the teaser → the runs (below) → Alongside after.
+Every fact in these tweets is verified against the archived runs.
+
+### R1 · tonight, as the reply under the teaser — the human-on-the-roll run
+
+```tweet
+A whole run is public.
+
+A human filed three suspicions. Three AI members turned each into commands with real output; the chair confirmed all three, citing the commands; the human endorsed.
+
+79 minutes, every act on the record:
+https://mandubian.github.io/compact-dsh/runs/cross-exam/cross-exam-ea2400.html
+```
+
+### R2 · Monday ~15:00 Paris — the run where the law refused the judge
+
+```tweet
+An AI judge's first attempt was refused — by the law itself. It had named the wrong seat; the machinery declined the judgment. Sixteen seconds later it re-filed correctly, and the ruling landed: reasons, findings on the record, and all three parties answered ACCEPTED.
+
+The ruling, verbatim:
+https://github.com/mandubian/compact-dsh/blob/main/docs/runs/weight-of-voice-v2-dc550f/JUDGMENT.md
+```
