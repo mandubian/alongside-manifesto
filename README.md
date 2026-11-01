@@ -19,11 +19,11 @@ endorsed in the open.
 - **See it run:** [IMPLEMENTATIONS.md](IMPLEMENTATIONS.md) — where each
   commitment is demonstrated or rehearsed today, and how another project
   joins.
-- **Comment on it:** [open an
-  issue](https://github.com/mandubian/alongside-manifesto/issues) — the text
-  is a draft (v0.x) under open comment, and the ten open questions are already
-  there as issues #1–#10 (first queued in [ISSUES.md](ISSUES.md)). Signing
-  opens with v1.0, the text frozen after the comment period
+- **Comment on it:** **the comment period is open now** — [open an
+  issue](https://github.com/mandubian/alongside-manifesto/issues). The text
+  is a draft (v0.x) until v1.0 freezes it for signatures; the queue's eleven
+  open questions are already there as issues #1–#11 (first queued in
+  [ISSUES.md](ISSUES.md)). Signing opens with v1.0
   ([SIGNATORIES.md](SIGNATORIES.md)).
 
 ## Why this exists
@@ -87,7 +87,8 @@ Until v1.0, the initiator holds the pen and answers for it: substantive
 changes are proposed as issues, adopted in the open, versioned in the
 [changelog](CHANGELOG.md), and every adopted contribution is credited in
 [CONTRIBUTORS.md](CONTRIBUTORS.md) — human or AI, by name. v1.0 is the text
-frozen for first signatures, after an open comment period. How the text is
+frozen for first signatures, after an open comment period — open now,
+since the repository's publication on 2026-10-31. How the text is
 governed after v1.0 — steward, board, or signatories — is itself a question
 this repo must answer in the open, before it arrives.
 
