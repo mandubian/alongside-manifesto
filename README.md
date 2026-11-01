@@ -11,7 +11,7 @@ endorsed in the open.
   text on every push by [tools/check-site.mjs](tools/check-site.mjs): the
   commitments and the version verbatim, and every excerpted Q&A sentence.
 - **Read it:** [MANIFESTO.md](MANIFESTO.md) — ten commitments, three groups:
-  common ground, in practice, the direction. About six minutes.
+  common ground, in practice, the direction. About seven minutes.
 - **Go deeper:** [CONCEPTS.md](CONCEPTS.md) — each term defined, and what it
   is *not*; [QA.md](QA.md) — the questions careful readers ask, answered. The
   manifesto names *what* any shared human–AI frame must guarantee; how is law

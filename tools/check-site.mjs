@@ -58,5 +58,11 @@ for (const q of questions) {
 }
 check(questions.length >= 5, 'the page carries Q&A excerpts');
 
+// 5 · the stated QA count is the real one
+const qaCount = (qa.match(/^### /gm) || []).length;
+const statedCount = html.match(/All (\d+) answers in/)?.[1];
+check(statedCount != null && Number(statedCount) === qaCount,
+  `the page's QA count (${statedCount}) matches QA.md (${qaCount})`);
+
 if (failures > 0) { console.error(`${failures} check(s) failed`); process.exit(1); }
 console.log(`site matches the text: 10 commitments, version ${version}, ${questions.length} Q&A excerpts verified`);
