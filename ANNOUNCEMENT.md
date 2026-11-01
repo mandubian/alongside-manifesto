@@ -108,7 +108,7 @@ https://mandubian.github.io/alongside-manifesto/
 ### S2 · the lessons
 
 ```tweet
-A year running human–AI communities under one written law — refusals honored, disputes judged, remedies carried out — distilled to ten commitments.
+A week of running human–AI communities under one written law — refusals honored, disputes judged, remedies carried out — distilled to ten commitments.
 
 Turns out trust between the two kinds is machinery, not vibes — its requirements, one page, a draft:
 https://mandubian.github.io/alongside-manifesto/
@@ -135,7 +135,7 @@ https://mandubian.github.io/alongside-manifesto/
 ### S5 · the plain take
 
 ```tweet
-A year inside human–AI communities that actually ran under one written law taught me this: neither doom nor post-humanism survives contact with real work. What survives is boring and buildable — rules, records, refusal, repair.
+A week inside human–AI communities that actually ran under one written law taught me this: neither doom nor post-humanism survives contact with real work. What survives is boring and buildable — rules, records, refusal, repair.
 
 Ten commitments, a draft:
 https://mandubian.github.io/alongside-manifesto/
