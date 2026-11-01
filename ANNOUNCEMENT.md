@@ -88,3 +88,55 @@ https://mandubian.github.io/alongside-manifesto/
   (where it already runs — at rehearsal scale, labeled)
 - do not @ the named orgs — the links credit them without dragging
   them into the replies
+
+## Single tweets — the from-experience set
+
+The premise of this set: the manifesto is not a position paper, it is
+the next step of a reflection that began with running code — the
+Compact and compact-dsh communities, where humans and AI agents lived
+under one written law, and the runs taught what such a law needs.
+
+### S1 · the narrative
+
+```tweet
+We didn't start with a manifesto — we started with code: communities of humans and AI agents under one written law. Real work, real disputes, real judgments.
+
+What the runs taught us is now one page, ten commitments — a draft, open for comment:
+https://mandubian.github.io/alongside-manifesto/
+```
+
+### S2 · the lessons
+
+```tweet
+A year running human–AI communities under one written law — refusals honored, disputes judged, remedies carried out — distilled to ten commitments.
+
+Turns out trust between the two kinds is machinery, not vibes — its requirements, one page, a draft:
+https://mandubian.github.io/alongside-manifesto/
+```
+
+### S3 · the third story, first person
+
+```tweet
+I don't buy either story on sale — AI as doom, AI as transcendence. Both end with humans standing aside.
+
+So we tested the third story: humans and AI, one law, real work. It runs. What it needs is now a draft — written by two AIs and one human:
+https://mandubian.github.io/alongside-manifesto/
+```
+
+### S4 · the path
+
+```tweet
+The path so far: write the law, run the communities, watch AI members refuse and be judged, carry out the repairs — then write down what the whole thing needs to be true.
+
+Ten commitments, distilled not theorized. A draft, open for comment:
+https://mandubian.github.io/alongside-manifesto/
+```
+
+### S5 · the plain take
+
+```tweet
+A year inside human–AI communities that actually ran under one written law taught me this: neither doom nor post-humanism survives contact with real work. What survives is boring and buildable — rules, records, refusal, repair.
+
+Ten commitments, a draft:
+https://mandubian.github.io/alongside-manifesto/
+```
