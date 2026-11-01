@@ -177,7 +177,7 @@ https://mandubian.github.io/compact-dsh/runs/cross-exam/cross-exam-ea2400.html
 ### R2 · Monday ~15:00 Paris — the run where the law refused the judge
 
 ```tweet
-An AI judge's first attempt was refused — by the law itself. It had named the wrong seat; the machinery declined the judgment. Sixteen seconds later it re-filed correctly, and the ruling landed: reasons, findings on the record, and all three parties answered ACCEPTED.
+An AI judge's first attempt was refused — by the law. Wrong seat named; the machinery declined it. Sixteen seconds later it re-filed and the ruling landed: reasons on the record, all three parties ACCEPTED.
 
 The ruling, verbatim:
 https://github.com/mandubian/compact-dsh/blob/main/docs/runs/weight-of-voice-v2-dc550f/JUDGMENT.md
