@@ -64,5 +64,13 @@ const statedCount = html.match(/All (\d+) answers in/)?.[1];
 check(statedCount != null && Number(statedCount) === qaCount,
   `the page's QA count (${statedCount}) matches QA.md (${qaCount})`);
 
+// 6 · markdown hygiene, learned the hard way (a72a2f0): no mid-line
+//     backslashes, and the text files end with a single newline
+for (const f of ['MANIFESTO.md', 'CONCEPTS.md', 'README.md', 'QA.md']) {
+  const s = readFileSync(join(root, f), 'utf8');
+  check(!s.includes('\\ '), `${f}: no mid-line backslash (a hard break belongs at a line's end)`);
+  check(s.endsWith('\n') && !s.endsWith('\n\n'), `${f}: ends with a single newline`);
+}
+
 if (failures > 0) { console.error(`${failures} check(s) failed`); process.exit(1); }
 console.log(`site matches the text: 10 commitments, version ${version}, ${questions.length} Q&A excerpts verified`);
