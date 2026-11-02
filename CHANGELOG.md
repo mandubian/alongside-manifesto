@@ -6,6 +6,38 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.7.1 — 2026-11-03 (the three boundaries — the initiator's rule, applied)
+
+The rule, stated by the initiator after the runs: **a manifesto places
+boundaries; it does not write the law inside them — and where a boundary
+matters and is not yet defined, the text says so plainly, rather than
+letting undefined words sound defined.** v0.7 already used the pattern
+twice (the enforcer, the measurement); this version applies it to the
+three clusters the runs kept raising that v0.7 left open — the two that
+recurred across runs first, per the cross-run comparison:
+
+- **Commitment 1 — the floor.** "Which rights hold everywhere, no one has
+  written yet — not here. Writing that minimum is the first work of the
+  communities and laws built on this text; until it is written, these
+  words are a promise to build the floor, not the floor itself."
+  *(Contested in runs 1 and 2: skeptic — the local status quo becomes the
+  floor, "weakest exactly where it is needed most"; chair — "a floor
+  nobody can locate is a mood"; the signer asked for limits "at least in
+  principle".)*
+- **Commitment 8 — the costs, stated.** "Whoever deploys AI says what its
+  costs are, where a reader can find them." *(The fix run 1 converged —
+  costs "stated, not assumed known" — never applied, because run 3 did
+  not raise it; also the signer's run-2 contest. A duty to state is a
+  boundary, not an implementation.)*
+- **Commitment 2 — the record collision, decided.** "When the two
+  collide, the rule is plain: what power did stays open; a person may
+  close their own record to others." *(Run 2's engineer offered exactly
+  this decider — "I'd build that version; it's checkable"; run 3's signer
+  read the line as if it said this, and the room showed it did not.)*
+- **"Not a law" carries the rule itself**: "where a line matters and is
+  not yet defined — the floor's content, a cost, an enforcer — this text
+  says so plainly."
+
 ## 0.7 — 2026-11-02 (the community's five fixes, applied)
 
 The text was examined on the record by a community of one human and four

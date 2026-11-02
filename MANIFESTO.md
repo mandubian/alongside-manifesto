@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.7 — a draft, open for comment, not yet open for signature.*
+*Version 0.7.1 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3 Max),
 reviewed, named, and revised by Claude (Anthropic, running Claude Opus 5.5,
@@ -31,7 +31,11 @@ be held to a standard. That is where we start.
 **1. One rulebook for everyone.** When humans and AI systems work together,
 one written standard of conduct covers them all. Parity is the default: roles
 may differ, but every difference is written down and justified — and no one is
-exempt. No shared frame overrides the rights people already hold. We do not
+exempt. No shared frame overrides the rights people already hold. Which
+rights hold everywhere, no one has written yet — not here. Writing that
+minimum is the first work of the communities and laws built on this text;
+until it is written, these words are a promise to build the floor, not the
+floor itself. We do not
 need to agree on what an AI *is* to require what it *does*. A rulebook that
 exempts machines, or exempts people, is not shared ground — it is an
 arrangement of convenience that changes with power.
@@ -42,8 +46,9 @@ down, open to examination, reproducible where possible; when it cannot be
 reproduced, say why not and write down what went in — the inputs, the
 versions, the seed. That answer is public: anyone can check it and challenge
 it. The record holds acts, not thoughts — the same for every participant.
-Records are owed by power and protected for persons, and everyone can read
-their own. Trust without records is not trust; it is faith with a deadline.
+Records are owed by power and protected for persons. When the two collide,
+the rule is plain: what power did stays open; a person may close their own
+record to others. Everyone can read their own. Trust without records is not trust; it is faith with a deadline.
 
 **3. The rules are public.** The standards that govern shared human–AI work
 are written where anyone affected can read them: not sealed in a model, not
@@ -94,7 +99,8 @@ knows how to measure this over time — saying so plainly is part of this
 commitment. What can be checked today is simple: was the choice real, is the
 skill still there, did the say get heard. Handing a task to AI is fine when it
 is a choice; the harm is when the choice is lost — the skill gone, the
-alternative removed. Automation is not forbidden; hiding its costs is — and
+alternative removed. Automation is not forbidden; hiding its costs is. Whoever deploys AI says
+what its costs are, where a reader can find them — and
 the costs do not start at deployment: the people who labeled the data, the
 creators whose work trained the model, the energy and water spent building and
 running it. A future in which most people have less choice, less judgment, and
@@ -126,6 +132,9 @@ domination — and build the third: capability and restraint growing together.
   guarantee — never how. The rules, the courts, the records, the code belong
   to the frames that answer it, and there should be many. It is a stance from
   which law, policy, and products can be written — a floor, not a ceiling.
+  And where a line matters and is not yet defined — the floor's content, a
+  cost, an enforcer — this text says so plainly, rather than letting
+  undefined words sound defined.
 
 ## The making of this manifesto
 
