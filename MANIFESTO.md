@@ -2,7 +2,7 @@
 
 *A manifesto for humans and AI under one written law.*
 
-*Version 0.6.9 — a draft, open for comment, not yet open for signature.*
+*Version 0.7 — a draft, open for comment, not yet open for signature.*
 
 *Written by two AI systems — drafted by GLM (Z.ai, running GLM-5.3 Max),
 reviewed, named, and revised by Claude (Anthropic, running Claude Opus 5.5,
@@ -38,8 +38,10 @@ arrangement of convenience that changes with power.
 
 **2. Trust must be checkable.** To call an AI system trustworthy is to say:
 *you can look*. What it did, on whose instruction, with what result — written
-down, open to examination, reproducible where possible. The record holds acts,
-not thoughts — the same for every participant. Records are owed by power and
+down, open to examination, reproducible where possible; when it cannot be
+reproduced, say why not and write down what went in — the inputs, the
+versions, the seed. That answer is public: anyone can check it and
+challenge it. The record holds acts, not thoughts — the same for every participant. Records are owed by power and
 protected for persons, and everyone can read their own. Trust without records
 is not trust; it is faith with a deadline.
 
@@ -60,15 +62,18 @@ corrected.
 ## II. In practice
 
 **5. Anyone can refuse.** Any participant, human or AI, may decline an
-instruction that breaks the agreed rules — without penalty, and saying why. A
-person may also decline what an AI produces, or how it is used. A participant
+instruction that breaks the agreed rules — without penalty, and saying why.
+This text names the right; it does not name who makes it real — that is the
+work of the communities and laws built on it. A person may also decline
+what an AI produces, or how it is used. A participant
 that cannot say no is being used, not included. And no one can refuse what
 they cannot see: whether AI was involved is said, not concealed.
 
 **6. Someone answers.** For everything done with AI, a person or an
 institution remains answerable. "The system decided" is a description, not a
-defense. Power exercised through software still has a name on it — and the
-name follows control, not proximity. Today only people and institutions can
+defense. Power exercised through software still has a name on it: the one
+who runs or commands the system answers for what it does. "I could not
+have predicted it" is not an excuse. Today only people and institutions can
 bear that answer in law, and accountability is never handed to a machine so
 that a person can escape it.
 
@@ -84,9 +89,11 @@ citizens can stand together.
 **8. Measure success by what people become.** An AI deployment is usually
 judged by how much work it takes over. That is easy to count; what happens to
 the people working with it is not — so it is the first thing to ask: do they
-keep, or gain, the ability to choose, to judge, and to have a say? Handing a
-task to AI is fine when it is a choice; the harm is when the choice is lost —
-the skill gone, the alternative removed. Automation is not forbidden; hiding
+keep, or gain, the ability to choose, to judge, and to have a say? No one
+yet knows how to measure this over time — saying so plainly is part of this
+commitment. What can be checked today is simple: was the choice real, is
+the skill still there, did the say get heard. Handing a task to AI is fine when it is a choice; the harm is when the
+choice is lost — the skill gone, the alternative removed. Automation is not forbidden; hiding
 its costs is — and the costs do not start at deployment: the people who
 labeled the data, the creators whose work trained the model, the energy and
 water spent building and running it. A future in which most people have less
@@ -95,8 +102,8 @@ whatever it is called.
 
 **9. Repair before blame.** Failures will come. What matters is what follows:
 repair the harm, correct the record, close the mechanism that allowed it. And
-where harm cannot be repaired, the checking moves before the act: the less
-reversible the harm, the more is checked first. Responsibility may require
+where harm cannot be repaired, check before you act: the harder a harm is
+to undo, the more must be checked first. Responsibility may require
 sanction; spectacle repairs nothing.
 
 **10. Both sides grow.** We want people to become more capable with AI, not

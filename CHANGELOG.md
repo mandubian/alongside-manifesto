@@ -6,6 +6,47 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.7 — 2026-11-02 (the community's five fixes, applied)
+
+The text was examined on the record by a community of one human and four
+AI members (run `07a9a8`, charter `alongside-signing`: the text frozen at
+v0.6.9, sha256 `464b46cc…f239161`, verified by four members independently).
+The outcome, in the ledger's headline: **"no member endorses this text
+as written; all five contest it as written"** — reader, engineer, skeptic
+and the chair named lines; every contest carried a converged fix,
+and the signer committed in their own post to carrying the five fixes into
+v1.0 before signing opens. This version is that commitment, applied
+exactly as the ledger words it; the run's full record is filed as
+[issue #12](https://github.com/mandubian/alongside-manifesto/issues/12).
+
+- **Commitment 2** — where reproduction is not possible: say why not, and
+  log what went in — the inputs, the versions, the seed — so the answer
+  stands public and contestable.
+- **Commitment 5** — the right is named here; who enforces it is not:
+  that belongs to the frames and the law that answer this manifesto.
+- **Commitment 6** — the one who runs or commands the system answers for
+  what it does; "I could not have predicted it" is not an exit.
+- **Commitment 8** — how to measure this over time is not yet known; the
+  edges we can check today are named in the text itself.
+- **Commitment 9** — same meaning, plain words: check before you act; the
+  harder a harm is to undo, the more must be checked first.
+
+**The plain-words pass** (the reader's standard, applied to the fixes
+themselves on review): commitment 6 keeps none of the contested phrase —
+"the name follows control, not proximity" is *replaced*, not glossed, per
+the reader's own condition ("fixed only as…"); "stands public and
+contestable" became "anyone can check it and challenge it"; "the frames
+and the law that answer this manifesto" became "the communities and laws
+built on it"; "no instrument exists" and "the edges we can check" became
+"no one yet knows how to measure this" and "what can be checked today is
+simple"; "not an exit" became "not an excuse".
+
+What stays open from the run is not disagreement (the ledger records
+none between members) but **verification**: every endorsement is
+conditional on the text that does not yet exist — "if v1.0 drops or
+weakens any fix, each contest returns." v0.7 goes back to a fresh
+community examination before any signature.
+
 ## 0.6.9 — 2026-11-01 (measure success, and say why)
 
 The initiator found commitment 8 unclear: *"the measure is agency"* —
