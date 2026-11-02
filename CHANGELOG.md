@@ -31,6 +31,16 @@ exactly as the ledger words it; the run's full record is filed as
 - **Commitment 9** — same meaning, plain words: check before you act; the
   harder a harm is to undo, the more must be checked first.
 
+**The plain-words pass** (the reader's standard, applied to the fixes
+themselves on review): commitment 6 keeps none of the contested phrase —
+"the name follows control, not proximity" is *replaced*, not glossed, per
+the reader's own condition ("fixed only as…"); "stands public and
+contestable" became "anyone can check it and challenge it"; "the frames
+and the law that answer this manifesto" became "the communities and laws
+built on it"; "no instrument exists" and "the edges we can check" became
+"no one yet knows how to measure this" and "what can be checked today is
+simple"; "not an exit" became "not an excuse".
+
 What stays open from the run is not disagreement (the ledger records
 none between members) but **verification**: every endorsement is
 conditional on the text that does not yet exist — "if v1.0 drops or
