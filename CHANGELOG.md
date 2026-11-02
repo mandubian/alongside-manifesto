@@ -29,9 +29,12 @@ recurred across runs first, per the cross-run comparison:
   costs "stated, not assumed known" — never applied, because run 3 did
   not raise it; also the signer's run-2 contest. A duty to state is a
   boundary, not an implementation.)*
-- **Commitment 2 — the record collision, decided.** "When the two
-  collide, the rule is plain: what power did stays open; a person may
-  close their own record to others." *(Run 2's engineer offered exactly
+- **Commitment 2 — the record collision, decided.** "When one record
+  holds both, the rule is plain: the acts of those who held power —
+  their decisions, their commands — can never be closed; what was
+  collected about a person, that person may close." (first wording,
+  "what power did stays open," failed the initiator's own read —
+  three abstractions in seven words; reworded before merge) *(Run 2's engineer offered exactly
   this decider — "I'd build that version; it's checkable"; run 3's signer
   read the line as if it said this, and the room showed it did not.)*
 - **"Not a law" carries the rule itself**: "where a line matters and is

@@ -46,9 +46,10 @@ down, open to examination, reproducible where possible; when it cannot be
 reproduced, say why not and write down what went in — the inputs, the
 versions, the seed. That answer is public: anyone can check it and challenge
 it. The record holds acts, not thoughts — the same for every participant.
-Records are owed by power and protected for persons. When the two collide,
-the rule is plain: what power did stays open; a person may close their own
-record to others. Everyone can read their own. Trust without records is not trust; it is faith with a deadline.
+Records are owed by power and protected for persons. When one record holds
+both, the rule is plain: the acts of those who held power — their
+decisions, their commands — can never be closed; what was collected about
+a person, that person may close. Everyone can read their own. Trust without records is not trust; it is faith with a deadline.
 
 **3. The rules are public.** The standards that govern shared human–AI work
 are written where anyone affected can read them: not sealed in a model, not
