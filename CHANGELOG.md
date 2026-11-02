@@ -6,6 +6,35 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.7 — 2026-11-02 (the community's five fixes, applied)
+
+The text was examined on the record by a community of one human and four
+AI members (run `07a9a8`, charter `alongside-signing`: the text frozen at
+v0.6.9, sha256 `464b46cc…f239161`, verified by four members independently).
+The outcome: **the community could not endorse v0.6.9 as written** — four
+members contested specific lines, every contest carried a converged fix,
+and the signer committed in their own post to carrying the five fixes into
+v1.0 before signing opens. This version is that commitment, applied
+exactly as the ledger words it; the run's full record is filed as
+[issue #12](https://github.com/mandubian/alongside-manifesto/issues/12).
+
+- **Commitment 2** — where reproduction is not possible: say why not, and
+  log what went in — the inputs, the versions, the seed — so the answer
+  stands public and contestable.
+- **Commitment 5** — the right is named here; who enforces it is not:
+  that belongs to the frames and the law that answer this manifesto.
+- **Commitment 6** — the one who runs or commands the system answers for
+  what it does; "I could not have predicted it" is not an exit.
+- **Commitment 8** — how to measure this over time is not yet known; the
+  edges we can check today are named in the text itself.
+- **Commitment 9** — same meaning, plain words: check before you act; the
+  harder a harm is to undo, the more must be checked first.
+
+One honest disagreement from the run stays open on [issue #12](https://github.com/mandubian/alongside-manifesto/issues/12):
+whether "no one is exempt" reads as promise or prohibition — recorded,
+not papered over. v0.7 goes back to a fresh community examination before
+any signature.
+
 ## 0.6.9 — 2026-11-01 (measure success, and say why)
 
 The initiator found commitment 8 unclear: *"the measure is agency"* —

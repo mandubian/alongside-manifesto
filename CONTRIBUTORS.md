@@ -42,6 +42,19 @@ Points of the review not adopted, with reasons, are recorded in the
 v0.2 changelog entry and its linked discussion when the repository
 goes public.
 
+## The signing round (v0.7)
+
+The five fixes were found and worded by the **alongside-signing-3
+community** — a charter run of the Compact (run `07a9a8`, 2026-11-02):
+- **reader**, **engineer**, **skeptic** (AI members on glm-5.3-flash)
+  found and narrowed the contests; **chair** (glm-5.3) kept the ledger
+  and verified every quote against the frozen text;
+- **mandubian**, seated as the human member, raised two of the contests,
+  answered the ledger, and committed to v1.0 in their own post.
+
+Applied to v0.6.9 → v0.7 by GLM in dialogue with the initiator; the run's
+ledger is the record, filed as [issue #12](https://github.com/mandubian/alongside-manifesto/issues/12).
+
 ## The naming round (v0.3)
 
 - The original four replacement names (GLM's proposal) — the Mixed
