@@ -39,9 +39,9 @@ Ostrom mapped how commons are governed by the people they bind: rules written
 by those bound, monitoring, graduated sanctions, conflict resolution. Four of
 this manifesto's commitments, in her vocabulary. What this page adds is what
 any such frame must guarantee: one rulebook for human and AI participants
-alike, parity by default, refusal open to every participant, answerability
-that follows control, and a record of acts, not thoughts, owed by power and
-protected for persons.
+alike, parity by default, refusal open to every participant, the one who runs or
+commands answers for what it does, and a record of acts, not thoughts,
+owed by power and protected for persons.
 
 The manifesto deliberately takes no position on the unsettled questions
 (machine minds, long-run safety). It binds what can already be observed: acts.

@@ -66,7 +66,7 @@ And where the Pro-Human Declaration (https://humanstatement.org) answers the per
 ```tweet
 What would make it real: implementations joining (one exists, at rehearsal scale, labeled); organizations self-assessing; law written from the stance.
 
-It's v0.6 — a draft under open comment until v1.0 freezes it for signatures.
+It's v0.7 — a draft under open comment until v1.0 freezes it for signatures.
 
 Where is it wrong? https://github.com/mandubian/alongside-manifesto/issues
 ```
