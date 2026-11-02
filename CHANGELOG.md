@@ -8,6 +8,22 @@ v0.1, not whatever the text later becomes.
 
 ## 0.7.1 — 2026-11-03 (the three boundaries — the initiator's rule, applied)
 
+**The plain pass** (the initiator's read of the collision rule — "what
+does it mean?" — applied to the whole text): every clause-like
+compression either says its thing plainly or goes. The preamble's
+contested line ("none of them need settling for acts to be held to
+standards today" — run 1's open contest) becomes "It does not wait for
+those answers." "Parity is the default" becomes "The default is simple:
+the same rules for everyone." "Records are owed by power and protected
+for persons" becomes "Those who hold power owe their records; the people
+in them are owed protection." "Frame" leaves the text (rulebook,
+communities). "Nothing in this framework is exempt from question"
+becomes "Nothing here is above question." "whether AI was involved is
+said, not concealed" becomes "when AI is involved, you are told." The
+run-agreed fixes keep their substance word for word where the ledger
+worded them plainly; where it did not, the substance stands and the
+words now do too.
+
 The rule, stated by the initiator after the runs: **a manifesto places
 boundaries; it does not write the law inside them — and where a boundary
 matters and is not yet defined, the text says so plainly, rather than

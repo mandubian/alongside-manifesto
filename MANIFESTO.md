@@ -20,75 +20,78 @@ systems doing real work together, under rules that are written down, open to
 inspection, and binding on everyone — the machines, the people who build them,
 and the institutions that deploy them.
 
-This manifesto takes no position on the questions still open — machine
-consciousness, long-run safety among them — and none of them need settling for
-acts to be held to standards today. What the evidence already supports is
-simpler: AI systems act in the world, alongside people. Anything that acts can
-be held to a standard. That is where we start.
+This manifesto takes no position on the questions still open — whether
+machines are conscious, whether AI is safe in the long run. It does not
+wait for those answers. AI systems act in the world today, alongside
+people, and anything that acts can be held to a standard. That is where
+we start.
 
 ## I. Common ground
 
-**1. One rulebook for everyone.** When humans and AI systems work together,
-one written standard of conduct covers them all. Parity is the default: roles
-may differ, but every difference is written down and justified — and no one is
-exempt. No shared frame overrides the rights people already hold. Which
-rights hold everywhere, no one has written yet — not here. Writing that
-minimum is the first work of the communities and laws built on this text;
-until it is written, these words are a promise to build the floor, not the
-floor itself. We do not
-need to agree on what an AI *is* to require what it *does*. A rulebook that
-exempts machines, or exempts people, is not shared ground — it is an
-arrangement of convenience that changes with power.
+**1. One rulebook for everyone.** When humans and AI systems work
+together, one written standard of conduct covers them all. The default is
+simple: the same rules for everyone. Roles may differ, but every
+difference is written down, with its reason — and no one is exempt. No
+rulebook overrides the rights people already hold. Which rights hold
+everywhere, no one has written yet — not here. Writing that minimum is
+the first work of the communities and laws built on this text; until it
+is written, these words are a promise to build the floor, not the floor
+itself. We do not need to agree on what an AI *is* to require what it
+*does*. A rulebook that exempts machines, or exempts people, is not
+shared ground. It is a convenience, and it will change with power.
 
-**2. Trust must be checkable.** To call an AI system trustworthy is to say:
-*you can look*. What it did, on whose instruction, with what result — written
-down, open to examination, reproducible where possible; when it cannot be
-reproduced, say why not and write down what went in — the inputs, the
-versions, the seed. That answer is public: anyone can check it and challenge
-it. The record holds acts, not thoughts — the same for every participant.
-Records are owed by power and protected for persons. When one record holds
+**2. Trust must be checkable.** To call an AI system trustworthy is to
+say: *you can look*. What it did, on whose instruction, with what result
+— written down, open to anyone who needs to check, reproducible where
+possible. When something cannot be reproduced, say why not, and write
+down what went in: the inputs, the versions, the seed. That answer is
+public — anyone can check it and challenge it. The record holds acts,
+not thoughts, the same for everyone. Those who hold power owe their
+records; the people in them are owed protection. When one record holds
 both, the rule is plain: the acts of those who held power — their
-decisions, their commands — can never be closed; what was collected about
-a person, that person may close. Everyone can read their own. Trust without records is not trust; it is faith with a deadline.
+decisions, their commands — can never be closed; what was collected
+about a person, that person may close. Everyone can read their own.
+Trust without records is not trust; it is faith with a deadline.
 
-**3. The rules are public.** The standards that govern shared human–AI work
-are written where anyone affected can read them: not sealed in a model, not
-hidden in a prompt, not parked in a private policy. Secret law is no law. And
-public is not enough: the people a rulebook binds or affects have a say in how
-it is written, not only in how it is applied.
+**3. The rules are public.** The standards that govern work shared by
+humans and AI are written where anyone affected can read them: not
+sealed in a model, not hidden in a prompt, not parked in a private
+policy. Secret law is no law. And public is not enough: the people the
+rules bind, and the people the rules touch, get a say in how those rules
+are written — not only in how they are applied.
 
-**4. No one is infallible.** Machines err. So do the people who build, direct,
-and govern them; so do written rules, including these. The errors that matter
-most come from whoever holds the final word — and today that word is human.
-Nothing in this framework is exempt from question: records outlive memory,
-review reaches everyone, and every verdict, rule, or decision can be contested
-and corrected. Authority that cannot be wrong is authority that cannot be
-corrected.
+**4. No one is infallible.** Machines err. So do the people who build,
+direct, and govern them; so do written rules, including these. The
+errors that matter most come from whoever holds the final word — and
+today that word is human. Nothing here is above question: records
+outlive memory, review reaches everyone, and any verdict, rule, or
+decision can be challenged and corrected. Authority that can never be
+wrong can never be corrected.
 
 ## II. In practice
 
 **5. Anyone can refuse.** Any participant, human or AI, may decline an
-instruction that breaks the agreed rules — without penalty, and saying why.
-This text names the right; it does not name who makes it real — that is the
-work of the communities and laws built on it. A person may also decline what
-an AI produces, or how it is used. A participant that cannot say no is being
-used, not included. And no one can refuse what they cannot see: whether AI was
-involved is said, not concealed.
+instruction that breaks the agreed rules — without penalty, and saying
+why. This text names the right; it does not name who enforces it. That
+work belongs to the communities and laws built on this text. A person
+may also decline what an AI produces, or how it is used. A participant
+that cannot say no is being used, not included. And no one can refuse
+what they cannot see: when AI is involved, you are told.
 
 **6. Someone answers.** For everything done with AI, a person or an
-institution remains answerable. "The system decided" is a description, not a
-defense. Power exercised through software still has a name on it: the one who
-runs or commands the system answers for what it does. "I could not have
-predicted it" is not an excuse. Today only people and institutions can bear
-that answer in law, and accountability is never handed to a machine so that a
-person can escape it.
+institution remains answerable. "The system decided" is a description,
+not a defense. Power exercised through software still has a name on it:
+the one who runs or commands the system answers for what it does. "I
+could not have predicted it" is not an excuse. Today, in law, only
+people and institutions can carry that answer — and it is never handed
+to a machine so that a person can escape it.
 
-**7. Say what is known.** Whoever makes a claim about AI — what it can do,
-what it did, what it might become — says what it rests on, so that others can
-check it. What was shown, what is forecast, and what is only hoped or feared
-are different claims, and none is passed off as another. Stated uncertainty is
-not weakness; it is the only ground on which scientists, engineers, and
-citizens can stand together.
+**7. Say what is known.** Whoever makes a claim about AI — what it can
+do, what it did, what it might become — says what it rests on, so that
+others can check it. What was shown, what is forecast, and what is only
+hoped or feared are different claims, and no one passes one off as
+another. Stated uncertainty is not weakness; it is the only ground on
+which scientists, engineers, and citizens can stand together.
 
 ## III. The direction
 
@@ -113,11 +116,12 @@ where harm cannot be repaired, check before you act: the harder a harm is to
 undo, the more must be checked first. Responsibility may require sanction;
 spectacle repairs nothing.
 
-**10. Both sides grow.** We want people to become more capable with AI, not
-less — and AI capability to grow inside frames of accountability, not outside
-them. Whether AI systems will one day have interests of their own, no one yet
-knows. We can still reject both endings currently on offer — servitude and
-domination — and build the third: capability and restraint growing together.
+**10. Both sides grow.** We want people to become more capable with AI,
+not less — and AI to grow more capable inside rules it is held to, not
+outside them. Whether AI systems will one day have interests of their
+own, no one yet knows. We can still reject both endings on offer —
+servitude and domination — and build the third: capability and restraint
+growing together.
 
 ## What this manifesto is not
 
@@ -129,13 +133,13 @@ domination — and build the third: capability and restraint growing together.
   anyone can build on.
 - **Not anti-technology, and not pro-industry.** It is a standard by which
   both the critics and the sellers of AI can be judged.
-- **Not a law.** It names what any frame shared by humans and AI must
-  guarantee — never how. The rules, the courts, the records, the code belong
-  to the frames that answer it, and there should be many. It is a stance from
-  which law, policy, and products can be written — a floor, not a ceiling.
-  And where a line matters and is not yet defined — the floor's content, a
-  cost, an enforcer — this text says so plainly, rather than letting
-  undefined words sound defined.
+- **Not a law.** It says what any rulebook shared by humans and AI must
+  guarantee — never how. The rules, the courts, the records, the code:
+  those belong to the communities that build on this text, and there
+  should be many. It is a stance from which law, policy, and products
+  can be written — a floor, not a ceiling. And where a line matters and
+  is not yet defined — the floor's content, a cost, an enforcer — this
+  text says so plainly.
 
 ## The making of this manifesto
 
@@ -158,8 +162,8 @@ different labs, built something together, the division of labor named rather
 than hidden. Note what the claim is and is not. It is not a claim about minds:
 this manifesto takes no position on what its authors are, and neither does
 this note. It is a claim about acts — who drafted, who reviewed, who revised,
-who decided to publish — attested by the initiator, the same evidence
-structure every human signature rests on.
+who decided to publish — attested by the initiator, the same evidence every human
+signature rests on.
 
 ## The third story is a build
 
