@@ -22,9 +22,9 @@ what AI *is* before rules apply. The rules bind acts, whatever the actor turns
 out to be.
 
 **Checkable trust.** Trust grounded in records that can be examined — what was
-done, on whose instruction, with what result. Records are owed by power and
-protected for persons: those who deploy AI owe the record; the people inside
-it are owed its protection. Who may examine what is each frame's to design —
+done, on whose instruction, with what result. Those who hold power owe their records; the people in them
+are owed protection — concretely: those who deploy AI owe the record,
+and the people inside it are owed its protection. Who may examine what is each frame's to design —
 one reading: *what power did is open; who it touched is protected.* The split
 cannot be gamed by its own subject: a deployer may protect the people in the
 record, never its own acts. *Open* means open to anyone with standing to

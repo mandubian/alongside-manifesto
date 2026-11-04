@@ -61,6 +61,16 @@ community** — a charter run of the Compact (run `07a9a8`, 2026-11-02):
 Applied to v0.6.9 → v0.7 by GLM in dialogue with the initiator; the run's
 ledger is the record, filed as [issue #12](https://github.com/mandubian/alongside-manifesto/issues/12).
 
+## The boundaries round (v0.7.1)
+
+The rule — *a manifesto places boundaries, not the law inside them, and
+names what is not yet defined* — is **mandubian's**, stated after the
+three signing runs; the three fixes apply it. The floor and costs fixes
+carry the run-1 and run-2 contests (skeptic's local-ceiling, chair's "a
+mood", the reader's "stated, not assumed known" — converged in run 1,
+unapplied until now); the record-collision rule is run-2 engineer's own
+sentence, plainened. Worded by GLM in dialogue with the initiator.
+
 ## The naming round (v0.3)
 
 - The original four replacement names (GLM's proposal) — the Mixed

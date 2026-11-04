@@ -147,7 +147,7 @@ participant, human or AI, may refuse what breaks the rules. And where the
 declaration warns against concentrated power, commitment 8 agrees by name.
 What this manifesto adds over all of them: a standard *for shared conduct* —
 the same rules binding human and AI participants, a record of acts, not
-thoughts, owed by power and protected for persons — practicable now, with a
+thoughts — those who hold power owe their records, and the people in them are owed protection — practicable now, with a
 running instance. Complements, not competitors: principles govern how AI is
 built; this governs how humans and AI work together once built.
 
@@ -181,8 +181,7 @@ catastrophes.
 
 ### Isn't recording everything surveillance?
 
-Not if the rule is followed: records are owed by power and protected for
-persons. Those who deploy AI owe a record of what it did; the people whose
+Not if the rule is followed: those who hold power owe their records, and the people in them are owed protection. Those who deploy AI owe a record of what it did; the people whose
 data is in that record are owed its protection. And the record holds acts, not
 thoughts: what you deliberate stays yours. You can always read your own record
 — the acts you did and the acts that touched you. Who may examine what else is

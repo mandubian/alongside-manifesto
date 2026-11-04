@@ -6,6 +6,57 @@ to the people who signed a version and deserve to know what changed
 since. Signatures bind to a version — endorsing v0.1 is endorsing
 v0.1, not whatever the text later becomes.
 
+## 0.7.1 — 2026-11-03 (the three boundaries — the initiator's rule, applied)
+
+**The plain pass** (the initiator's read of the collision rule — "what
+does it mean?" — applied to the whole text): every clause-like
+compression either says its thing plainly or goes. The preamble's
+contested line ("none of them need settling for acts to be held to
+standards today" — run 1's open contest) becomes "It does not wait for
+those answers." "Parity is the default" becomes "The default is simple:
+the same rules for everyone." "Records are owed by power and protected
+for persons" becomes "Those who hold power owe their records; the people
+in them are owed protection." "Frame" leaves the text (rulebook,
+communities). "Nothing in this framework is exempt from question"
+becomes "Nothing here is above question." "whether AI was involved is
+said, not concealed" becomes "when AI is involved, you are told." The
+run-agreed fixes keep their substance word for word where the ledger
+worded them plainly; where it did not, the substance stands and the
+words now do too.
+
+The rule, stated by the initiator after the runs: **a manifesto places
+boundaries; it does not write the law inside them — and where a boundary
+matters and is not yet defined, the text says so plainly, rather than
+letting undefined words sound defined.** v0.7 already used the pattern
+twice (the enforcer, the measurement); this version applies it to the
+three clusters the runs kept raising that v0.7 left open — the two that
+recurred across runs first, per the cross-run comparison:
+
+- **Commitment 1 — the floor.** "Which rights hold everywhere, no one has
+  written yet — not here. Writing that minimum is the first work of the
+  communities and laws built on this text; until it is written, these
+  words are a promise to build the floor, not the floor itself."
+  *(Contested in runs 1 and 2: skeptic — the local status quo becomes the
+  floor, "weakest exactly where it is needed most"; chair — "a floor
+  nobody can locate is a mood"; the signer asked for limits "at least in
+  principle".)*
+- **Commitment 8 — the costs, stated.** "Whoever deploys AI says what its
+  costs are, where a reader can find them." *(The fix run 1 converged —
+  costs "stated, not assumed known" — never applied, because run 3 did
+  not raise it; also the signer's run-2 contest. A duty to state is a
+  boundary, not an implementation.)*
+- **Commitment 2 — the record collision, decided.** "When one record
+  holds both, the rule is plain: the acts of those who held power —
+  their decisions, their commands — can never be closed; what was
+  collected about a person, that person may close." (first wording,
+  "what power did stays open," failed the initiator's own read —
+  three abstractions in seven words; reworded before merge) *(Run 2's engineer offered exactly
+  this decider — "I'd build that version; it's checkable"; run 3's signer
+  read the line as if it said this, and the room showed it did not.)*
+- **"Not a law" carries the rule itself**: "where a line matters and is
+  not yet defined — the floor's content, a cost, an enforcer — this text
+  says so plainly."
+
 ## 0.7 — 2026-11-02 (the community's five fixes, applied)
 
 The text was examined on the record by a community of one human and four
